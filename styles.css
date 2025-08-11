@@ -1,0 +1,14 @@
+:root{--ring:rgba(99,102,241,.5)}
+.btn{background:linear-gradient(135deg,#3b82f6,#8b5cf6);padding:.55rem .9rem;border-radius:.6rem;font-weight:600}
+.btn:hover{filter:brightness(1.08)}
+.btn-secondary{background:transparent;border:1px solid rgba(148,163,184,.4);padding:.5rem .85rem;border-radius:.6rem}
+.input{background:#0f172a;border:1px solid rgba(148,163,184,.2);padding:.55rem .75rem;border-radius:.6rem;outline:none}
+.input:focus{border-color:rgba(148,163,184,.45);box-shadow:0 0 0 4px var(--ring)}
+.dropzone{border:1.5px dashed rgba(148,163,184,.35);border-radius:1rem;padding:2rem;display:flex;align-items:center;justify-content:center;background:linear-gradient(180deg,rgba(2,6,23,.6),rgba(2,6,23,.25))}
+.card{background:linear-gradient(180deg,rgba(2,6,23,.8),rgba(2,6,23,.4));border:1px solid rgba(148,163,184,.1);border-radius:.9rem;padding:1rem}
+.section-header{display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin:.5rem 0}
+.section-title{font-size:1.15rem;font-weight:600}
+.badge{font-size:.75rem;padding:.2rem .45rem;border-radius:.45rem;border:1px solid rgba(148,163,184,.25);background:rgba(148,163,184,.08)}
+.grid-kv{display:grid;grid-template-columns:1fr auto;gap:.25rem .75rem}
+.k{color:#cbd5e1}
+.v{color:#a5b4fc}

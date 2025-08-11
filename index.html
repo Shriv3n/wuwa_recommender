@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WuWa Team Recommender (Inventory Viewer)</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 font-[Inter]">
+  <header class="border-b border-slate-800/80 bg-slate-900/50 backdrop-blur sticky top-0 z-10">
+    <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
+      <h1 class="text-xl sm:text-2xl font-semibold tracking-tight">WuWa Team Recommender</h1>
+      <div class="flex items-center gap-3">
+        <input id="file-input" type="file" accept="application/json" multiple class="hidden" />
+        <button id="select-files" class="btn">Select JSON Files</button>
+        <button id="clear-data" class="btn-secondary">Clear</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-4 py-6">
+    <div id="mapping-banner" class="mb-4 hidden">
+      <div class="card flex items-center justify-between gap-3">
+        <div class="text-slate-300 text-sm">Mapping files not loaded. Names may appear as IDs. Load mapping from <code class="text-slate-400">/data/</code> automatically or choose files manually.</div>
+        <div class="flex items-center gap-2">
+          <button id="load-mapping" class="btn-secondary">Load Mapping</button>
+          <input id="mapping-input" type="file" accept="application/json" multiple class="hidden" />
+        </div>
+      </div>
+    </div>
+    <section>
+      <div id="dropzone" class="dropzone">
+        <div class="text-center">
+          <div class="text-slate-300">Drag & drop your Inventory Kamera JSON files here</div>
+          <div class="text-slate-500 text-sm mt-1">Characters, Weapons, Echoes, Resources, Development Items</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mt-6 grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3" id="summary">
+      <!-- dynamic summary cards -->
+    </section>
+
+    <section class="mt-8 space-y-10">
+      <div>
+        <div class="section-header">
+          <h2 class="section-title">Characters</h2>
+          <div class="flex items-center gap-2">
+            <button id="clear-characters" class="btn-secondary">Clear Characters</button>
+          </div>
+          <input id="search-characters" class="input" placeholder="Search characters..." />
+        </div>
+        <div id="characters" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3"></div>
+      </div>
+
+      <div>
+        <div class="section-header">
+          <h2 class="section-title">Weapons</h2>
+          <div class="flex items-center gap-2">
+            <button id="clear-weapons" class="btn-secondary">Clear Weapons</button>
+          </div>
+          <input id="search-weapons" class="input" placeholder="Search weapons..." />
+        </div>
+        <div id="weapons" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3"></div>
+      </div>
+
+      <div>
+        <div class="section-header">
+          <h2 class="section-title">Echoes</h2>
+          <div class="flex items-center gap-2">
+            <button id="clear-echoes" class="btn-secondary">Clear Echoes</button>
+          </div>
+          <input id="search-echoes" class="input" placeholder="Search echoes..." />
+        </div>
+        <div id="echoes" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3"></div>
+      </div>
+
+      <div>
+        <div class="section-header">
+          <h2 class="section-title">Items (Resources + Dev Items)</h2>
+          <div class="flex items-center gap-2">
+            <button id="clear-items" class="btn-secondary">Clear Items</button>
+          </div>
+          <input id="search-items" class="input" placeholder="Search items..." />
+        </div>
+        <div id="items" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="max-w-7xl mx-auto px-4 py-10 text-slate-500 text-sm">
+    <div>Local-only prototype. Drop JSON output from your Inventory Kamera EXE.</div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

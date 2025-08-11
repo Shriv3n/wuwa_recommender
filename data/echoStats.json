@@ -1,0 +1,19 @@
+{
+    "hp": "hp",
+    "atk": "atk",
+    "critrate": "cr",
+    "critdmg": "cd",
+    "def": "def",
+    "energyregen": "er",
+    "resonanceskilldmgbonus": "skillDmg",
+    "basicattackdmgbonus": "basicAttack",
+    "heavyattackdmgbonus": "heavyAttack",
+    "resonanceliberationdmgbonus": "liberationDmg",
+    "glaciodmgbonus": "glacio",
+    "fusiondmgbonus": "fusion",
+    "electrodmgbonus": "electro",
+    "aerodmgbonus": "aero",
+    "spectrodmgbonus": "spectro",
+    "havocdmgbonus": "havoc",
+    "healingbonus": "healing"
+}

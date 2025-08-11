@@ -1,0 +1,988 @@
+﻿{
+    "1301":  {
+                 "value":  "T_IconRoleHead256_18_UI1301.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_18_UI1301.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_18_UI1301.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1305":  {
+                 "value":  "T_IconRoleHead256_25_UI1305.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_25_UI1305.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_25_UI1305.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1405":  {
+                 "value":  "T_IconRoleHead256_23_UI1405.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_23_UI1405.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_23_UI1405.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1402":  {
+                 "value":  "T_IconRoleHead256_1_UI1402.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_1_UI1402.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_1_UI1402.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1107":  {
+                 "value":  "T_IconRoleHead256_32_UI1107.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_32_UI1107.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_32_UI1107.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1204":  {
+                 "value":  "T_IconRoleHead256_13_UI1204.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_13_UI1204.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_13_UI1204.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1103":  {
+                 "value":  "T_IconRoleHead256_6_UI1103.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_6_UI1103.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_6_UI1103.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1304":  {
+                 "value":  "T_IconRoleHead256_24_UI1304.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_24_UI1304.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_24_UI1304.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1607":  {
+                 "value":  "T_IconRoleHead256_34_UI1607.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_34_UI1607.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_34_UI1607.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1203":  {
+                 "value":  "T_IconRoleHead256_8_UI1203.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_8_UI1203.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_8_UI1203.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1603":  {
+                 "value":  "T_IconRoleHead256_29_UI1603.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_29_UI1603.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_29_UI1603.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1606":  {
+                 "value":  "T_IconRoleHead256_33_UI1606.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_33_UI1606.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_33_UI1606.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1404":  {
+                 "value":  "T_IconRoleHead256_11_UI1404.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_11_UI1404.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_11_UI1404.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1207":  {
+                 "value":  "T_IconRoleHead256_46_UI1207.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_46_UI1207.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_46_UI1207.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1505":  {
+                 "value":  "T_IconRoleHead256_28_UI1505.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_28_UI1505.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_28_UI1505.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1202":  {
+                 "value":  "T_IconRoleHead256_2_UI1202.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_2_UI1202.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_2_UI1202.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1206":  {
+                 "value":  "T_IconRoleHead256_44_UI1206.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_44_UI1206.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_44_UI1206.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1104":  {
+                 "value":  "T_IconRoleHead256_14_UI1104.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_14_UI1104.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_14_UI1104.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1506":  {
+                 "value":  "T_IconRoleHead256_45_UI1506.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_45_UI1506.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_45_UI1506.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1608":  {
+                 "value":  "T_IconRoleHead256_41_UI1608.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_41_UI1608.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_41_UI1608.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1602":  {
+                 "value":  "T_IconRoleHead256_10_UI1602.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_10_UI1602.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_10_UI1602.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1407":  {
+                 "value":  "T_IconRoleHead256_37_UI1407.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_37_UI1407.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_37_UI1407.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1205":  {
+                 "value":  "T_IconRoleHead256_26_UI1205.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_26_UI1205.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_26_UI1205.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1601":  {
+                 "value":  "T_IconRoleHead256_9_UI1601.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_9_UI1601.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_9_UI1601.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1403":  {
+                 "value":  "T_IconRoleHead256_12_UI1403.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_12_UI1403.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_12_UI1403.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1102":  {
+                 "value":  "T_IconRoleHead256_7_UI1102.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_7_UI1102.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_7_UI1102.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1303":  {
+                 "value":  "T_IconRoleHead256_15_UI1303.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_15_UI1303.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_15_UI1303.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1504":  {
+                 "value":  "T_IconRoleHead256_30_UI1504.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_30_UI1504.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_30_UI1504.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1105":  {
+                 "value":  "T_IconRoleHead256_27_UI1105.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_27_UI1105.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_27_UI1105.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1507":  {
+                 "value":  "T_IconRoleHead256_38_UI1507.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_38_UI1507.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_38_UI1507.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1302":  {
+                 "value":  "T_IconRoleHead256_17_UI1302.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_17_UI1302.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_17_UI1302.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1409":  {
+                 "value":  "T_IconRoleHead256_40_UI1409.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_40_UI1409.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_40_UI1409.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1503":  {
+                 "value":  "T_IconRoleHead256_3_UI1503.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_3_UI1503.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_3_UI1503.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             },
+    "1106":  {
+                 "value":  "T_IconRoleHead256_31_UI1106.webp",
+                 "PSPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons\\T_IconRoleHead256_31_UI1106.webp",
+                 "PSParentPath":  "Microsoft.PowerShell.Core\\FileSystem::D:\\Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                 "PSChildName":  "T_IconRoleHead256_31_UI1106.webp",
+                 "PSDrive":  {
+                                 "CurrentLocation":  "Windsurf Projects\\WuWa_Team_Recommender\\data\\Images\\CharacterIcons",
+                                 "Name":  "D",
+                                 "Provider":  "Microsoft.PowerShell.Core\\FileSystem",
+                                 "Root":  "D:\\",
+                                 "Description":  "New Volume",
+                                 "MaximumSize":  null,
+                                 "Credential":  "System.Management.Automation.PSCredential",
+                                 "DisplayRoot":  null
+                             },
+                 "PSProvider":  {
+                                    "ImplementingType":  "Microsoft.PowerShell.Commands.FileSystemProvider",
+                                    "HelpFile":  "System.Management.Automation.dll-Help.xml",
+                                    "Name":  "FileSystem",
+                                    "PSSnapIn":  "Microsoft.PowerShell.Core",
+                                    "ModuleName":  "Microsoft.PowerShell.Core",
+                                    "Module":  null,
+                                    "Description":  "",
+                                    "Capabilities":  52,
+                                    "Home":  "C:\\Users\\user",
+                                    "Drives":  "C D G"
+                                },
+                 "PSIsContainer":  false
+             }
+}

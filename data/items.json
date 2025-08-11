@@ -1,0 +1,6192 @@
+{
+    "unionexp": {
+        "id": 1,
+        "name": "Union EXP",
+        "image": "IconA/T_IconA_AccountExp_UI.png"
+    },
+    "shellcredit": {
+        "id": 2,
+        "name": "Shell Credit",
+        "image": "IconA/T_IconA_hsb_UI.png"
+    },
+    "astrite": {
+        "id": 3,
+        "name": "Astrite",
+        "image": "IconA/T_IconA_zcpq_UI.png"
+    },
+    "lunite": {
+        "id": 4,
+        "name": "Lunite",
+        "image": "IconA/T_IconA_cdtq_UI.png"
+    },
+    "waveplate": {
+        "id": 5,
+        "name": "Waveplate",
+        "image": "IconA/T_IconA_yml_UI.png"
+    },
+    "crystalsolvent": {
+        "id": 10800,
+        "name": "Crystal Solvent",
+        "image": "IconA/T_IconA_mlf_UI.png"
+    },
+    "sanhua'swaveband": {
+        "id": 10001102,
+        "name": "Sanhua's Waveband",
+        "image": "IconRup/T_IconRup_Part_1102_UI.png"
+    },
+    "baizhi'swaveband": {
+        "id": 10001103,
+        "name": "Baizhi's Waveband",
+        "image": "IconRup/T_IconRup_Part_1103_UI.png"
+    },
+    "chixia'swaveband": {
+        "id": 10001202,
+        "name": "Chixia's Waveband",
+        "image": "IconRup/T_IconRup_Part_1202_UI.png"
+    },
+    "encore'swaveband": {
+        "id": 10001203,
+        "name": "Encore's Waveband",
+        "image": "IconRup/T_IconRup_Part_1203_UI.png"
+    },
+    "yangyang'swaveband": {
+        "id": 10001402,
+        "name": "Yangyang's Waveband",
+        "image": "IconRup/T_IconRup_Part_1402_UI.png"
+    },
+    "verina'swaveband": {
+        "id": 10001503,
+        "name": "Verina's Waveband",
+        "image": "IconRup/T_IconRup_Part_1503_UI.png"
+    },
+    "taoqi'swaveband": {
+        "id": 10001601,
+        "name": "Taoqi's Waveband",
+        "image": "IconRup/T_IconRup_Part_1601_UI.png"
+    },
+    "danjin'swaveband": {
+        "id": 10001602,
+        "name": "Danjin's Waveband",
+        "image": "IconRup/T_IconRup_Part_1602_UI.png"
+    },
+    "mysteriouscode": {
+        "id": 41300005,
+        "name": "Mysterious Code",
+        "image": "IconMout/T_IconMout_L_002_1_UI.png"
+    },
+    "strifetacetcore": {
+        "id": 41400014,
+        "name": "Strife Tacet Core",
+        "image": "IconMout/T_IconMout_L_004_1_UI.png"
+    },
+    "thunderingtacetcore": {
+        "id": 41400024,
+        "name": "Thundering Tacet Core",
+        "image": "IconMout/T_IconMout_L_001_1_UI.png"
+    },
+    "elegytacetcore": {
+        "id": 41400034,
+        "name": "Elegy Tacet Core",
+        "image": "IconMout/T_IconMout_L_006_UI.png"
+    },
+    "ragetacetcore": {
+        "id": 41400044,
+        "name": "Rage Tacet Core",
+        "image": "IconMout/T_IconMout_L_008_UI.png"
+    },
+    "roaringrockfist": {
+        "id": 41400054,
+        "name": "Roaring Rock Fist",
+        "image": "IconMout/T_IconMout_L_011_UI.png"
+    },
+    "gold-dissolvingfeather": {
+        "id": 41400064,
+        "name": "Gold-Dissolving Feather",
+        "image": "IconMout/T_IconMout_L_010_UI.png"
+    },
+    "sound-keepingtacetcore": {
+        "id": 41400074,
+        "name": "Sound-Keeping Tacet Core",
+        "image": "IconMout/T_IconMout_L_007_UI.png"
+    },
+    "groupabominationtacetcore": {
+        "id": 41400084,
+        "name": "Group Abomination Tacet Core",
+        "image": "IconMout/T_IconMout_L_009_UI.png"
+    },
+    "lfwhisperincore": {
+        "id": 41100011,
+        "name": "LF Whisperin Core",
+        "image": "IconMout/T_IconMout_O_002_1_UI.png"
+    },
+    "mfwhisperincore": {
+        "id": 41100012,
+        "name": "MF Whisperin Core",
+        "image": "IconMout/T_IconMout_O_002_2_UI.png"
+    },
+    "hfwhisperincore": {
+        "id": 41100013,
+        "name": "HF Whisperin Core",
+        "image": "IconMout/T_IconMout_O_002_3_UI.png"
+    },
+    "ffwhisperincore": {
+        "id": 41100014,
+        "name": "FF Whisperin Core",
+        "image": "IconMout/T_IconMout_O_002_4_UI.png"
+    },
+    "lfhowlercore": {
+        "id": 41100021,
+        "name": "LF Howler Core",
+        "image": "IconMout/T_IconMout_E_002_1_UI.png"
+    },
+    "mfhowlercore": {
+        "id": 41100022,
+        "name": "MF Howler Core",
+        "image": "IconMout/T_IconMout_E_002_2_UI.png"
+    },
+    "hfhowlercore": {
+        "id": 41100023,
+        "name": "HF Howler Core",
+        "image": "IconMout/T_IconMout_E_002_3_UI.png"
+    },
+    "ffhowlercore": {
+        "id": 41100024,
+        "name": "FF Howler Core",
+        "image": "IconMout/T_IconMout_E_002_4_UI.png"
+    },
+    "crudering": {
+        "id": 41100031,
+        "name": "Crude Ring",
+        "image": "IconMout/T_IconMout_O_003_1_UI.png"
+    },
+    "basicring": {
+        "id": 41100032,
+        "name": "Basic Ring",
+        "image": "IconMout/T_IconMout_O_003_2_UI.png"
+    },
+    "improvedring": {
+        "id": 41100033,
+        "name": "Improved Ring",
+        "image": "IconMout/T_IconMout_O_003_3_UI.png"
+    },
+    "tailoredring": {
+        "id": 41100034,
+        "name": "Tailored Ring",
+        "image": "IconMout/T_IconMout_O_003_4_UI.png"
+    },
+    "maskofconstraint": {
+        "id": 41200031,
+        "name": "Mask of Constraint",
+        "image": "IconMout/T_IconMout_001_UI.png"
+    },
+    "maskoferosion": {
+        "id": 41200032,
+        "name": "Mask of Erosion",
+        "image": "IconMout/T_IconMout_002_UI.png"
+    },
+    "maskofdistortion": {
+        "id": 41200033,
+        "name": "Mask of Distortion",
+        "image": "IconMout/T_IconMout_003_UI.png"
+    },
+    "maskofinsanity": {
+        "id": 41200034,
+        "name": "Mask of Insanity",
+        "image": "IconMout/T_IconMout_004_UI.png"
+    },
+    "monumentbell": {
+        "id": 41400094,
+        "name": "Monument Bell",
+        "image": "IconMout/T_IconMout_L_003_1_UI.png"
+    },
+    "wave-cuttingtooth": {
+        "id": 41400104,
+        "name": "Wave-Cutting Tooth",
+        "image": "IconMout/T_IconMout_L_005_UI.png"
+    },
+    "unendingdestruction": {
+        "id": 41400114,
+        "name": "Unending Destruction",
+        "image": "IconMout/T_IconMout_L_014_UI.png"
+    },
+    "dreamlessfeather": {
+        "id": 41400124,
+        "name": "Dreamless Feather",
+        "image": "IconMout/T_IconMout_L_013_UI.png"
+    },
+    "vitalitydrink": {
+        "id": 42100020,
+        "name": "Vitality Drink",
+        "image": "IconC/T_IconC_Com_002_1_UI.png"
+    },
+    "singlerevivalagent": {
+        "id": 42100030,
+        "name": "Single Revival Agent",
+        "image": "IconC/T_IconC_Com_003_1_UI.png"
+    },
+    "lotusseeds": {
+        "id": 42300010,
+        "name": "Lotus Seeds",
+        "image": "IconC/T_IconC_Sep_021_UI.png"
+    },
+    "climbingfig": {
+        "id": 42300020,
+        "name": "Climbing Fig",
+        "image": "IconRup/T_IconRup_SM_Gat_23A_UI.png"
+    },
+    "iris": {
+        "id": 42300030,
+        "name": "Iris",
+        "image": "IconRup/T_IconRup_SM_Gat_33A_UI.png"
+    },
+    "terraspawnfungus": {
+        "id": 42300040,
+        "name": "Terraspawn Fungus",
+        "image": "IconC/T_IconC_HuiYanGu_UI.png"
+    },
+    "lanternberry": {
+        "id": 42300050,
+        "name": "Lanternberry",
+        "image": "IconC/T_IconC_denglongguo_UI.png"
+    },
+    "pecokflower": {
+        "id": 42300060,
+        "name": "Pecok Flower",
+        "image": "IconRup/T_IconRup_SM_Gat_18A_UI.png"
+    },
+    "bellepoppy": {
+        "id": 42300070,
+        "name": "Belle Poppy",
+        "image": "IconRup/T_IconRup_SM_Gat_29A_UI.png"
+    },
+    "coriolus": {
+        "id": 42300080,
+        "name": "Coriolus",
+        "image": "IconRup/T_IconRup_SM_Gat_30A_UI.png"
+    },
+    "wintrybell": {
+        "id": 42300090,
+        "name": "Wintry Bell",
+        "image": "IconRup/T_IconRup_SM_Gat_31A_UI.png"
+    },
+    "violetcoral": {
+        "id": 42300100,
+        "name": "Violet Coral",
+        "image": "IconC/T_IconC_Sep_061_UI.png"
+    },
+    "bittberry": {
+        "id": 42300110,
+        "name": "Bittberry",
+        "image": "IconRup/T_IconRup_SM_Gat_32A_UI.png"
+    },
+    "pavoplum": {
+        "id": 42310200,
+        "name": "Pavo Plum",
+        "image": "IconC/T_IconC_029_UI.png"
+    },
+    "pearlleaf": {
+        "id": 42310010,
+        "name": "Pearl Leaf",
+        "image": "IconC/T_IconC_SM_Gat_06A_UI.png"
+    },
+    "dewvetch": {
+        "id": 42310020,
+        "name": "Dewvetch",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "noctemint": {
+        "id": 42310030,
+        "name": "Noctemint",
+        "image": "IconC/T_IconC_SM_Gat_09A_UI.png"
+    },
+    "honeysuckle": {
+        "id": 42310040,
+        "name": "Honeysuckle",
+        "image": "IconC/T_IconC_SM_Gat_10A_UI.png"
+    },
+    "perilla": {
+        "id": 42310050,
+        "name": "Perilla",
+        "image": "IconC/T_IconC_SM_Gat_01B_UI.png"
+    },
+    "angelica": {
+        "id": 42310060,
+        "name": "Angelica",
+        "image": "IconC/T_IconC_SM_Gat_07A_UI.png"
+    },
+    "lemongrass": {
+        "id": 42310070,
+        "name": "Lemongrass",
+        "image": "IconC/T_IconC_SM_Gat_25A_UI.png"
+    },
+    "erodorchid": {
+        "id": 42310080,
+        "name": "Erodorchid",
+        "image": "IconC/T_IconC_fuguyoulan_UI.png"
+    },
+    "waterlamp": {
+        "id": 42310090,
+        "name": "Waterlamp",
+        "image": "IconC/T_IconC_SM_Gat_01A_UI.png"
+    },
+    "bunnywort": {
+        "id": 42310100,
+        "name": "Bunnywort",
+        "image": "IconC/T_IconC_yuezao_UI.png"
+    },
+    "caltrop": {
+        "id": 42310110,
+        "name": "Caltrop",
+        "image": "IconC/T_IconC_Com_004_1_UI.png"
+    },
+    "chromeshell": {
+        "id": 42310120,
+        "name": "Chromeshell",
+        "image": "IconC/T_IconC_SM_Gat_26A_UI.png"
+    },
+    "dripsnail": {
+        "id": 42310130,
+        "name": "Dripsnail",
+        "image": "IconC/T_IconC_SM_Gat_27A_UI.png"
+    },
+    "viola": {
+        "id": 42310140,
+        "name": "Viola",
+        "image": "IconC/T_IconC_SM_Gat_24A_UI.png"
+    },
+    "cliffrecluse": {
+        "id": 42310150,
+        "name": "Cliffrecluse",
+        "image": "IconC/T_IconC_SM_Gat_12A_UI.png"
+    },
+    "umbragricus": {
+        "id": 42310160,
+        "name": "Umbragricus",
+        "image": "IconC/T_IconC_SM_Gat_13A_UI.png"
+    },
+    "gemberry": {
+        "id": 42310170,
+        "name": "Gemberry",
+        "image": "IconC/T_IconC_SM_Gat_14A_UI.png"
+    },
+    "edodes": {
+        "id": 42310180,
+        "name": "Edodes",
+        "image": "IconC/T_IconC_SM_Gat_15A_UI.png"
+    },
+    "gloomslough": {
+        "id": 42310190,
+        "name": "Gloom Slough",
+        "image": "IconC/T_IconC_SM_Gat_28A_UI.png"
+    },
+    "fowlmeat": {
+        "id": 42400010,
+        "name": "Fowl Meat",
+        "image": "IconC/T_IconC_SM_Gat_29A_UI.png"
+    },
+    "feather": {
+        "id": 42400020,
+        "name": "Feather",
+        "image": "IconC/T_IconC_SM_Gat_30A_UI.png"
+    },
+    "rawmeat": {
+        "id": 42400030,
+        "name": "Raw Meat",
+        "image": "IconC/T_IconC_Sep_071_UI.png"
+    },
+    "phoenixbutterfly": {
+        "id": 42400070,
+        "name": "Phoenix Butterfly",
+        "image": "IconC/T_IconC_025_UI.png"
+    },
+    "redfeatherbutterfly": {
+        "id": 42400080,
+        "name": "Red Feather Butterfly",
+        "image": "IconC/T_IconC_027_UI.png"
+    },
+    "bluefeatherbutterfly": {
+        "id": 42400090,
+        "name": "Blue Feather Butterfly",
+        "image": "IconC/T_IconC_026_UI.png"
+    },
+    "chrysopa": {
+        "id": 42400100,
+        "name": "Chrysopa",
+        "image": "IconC/T_IconC_yechiling_UI.png"
+    },
+    "golden-ringeddragonfly": {
+        "id": 42400110,
+        "name": "Golden-ringed Dragonfly",
+        "image": "IconC/T_IconC_jinhuanting_UI.png"
+    },
+    "fish": {
+        "id": 42400120,
+        "name": "Fish",
+        "image": "IconC/T_IconC_yurou_UI.png"
+    },
+    "silver-bandedlizard": {
+        "id": 42400130,
+        "name": "Silver-Banded Lizard",
+        "image": "IconC/T_IconC_020_UI.png"
+    },
+    "azurelizard": {
+        "id": 42400140,
+        "name": "Azure Lizard",
+        "image": "IconC/T_IconC_021_UI.png"
+    },
+    "greenpitlizard": {
+        "id": 42400150,
+        "name": "Green Pit Lizard",
+        "image": "IconC/T_IconC_022_UI.png"
+    },
+    "black-stripedfrog": {
+        "id": 42400160,
+        "name": "Black-Striped Frog",
+        "image": "IconC/T_IconC_023_UI.png"
+    },
+    "goldenbackfrog": {
+        "id": 42400170,
+        "name": "Goldenback Frog",
+        "image": "IconC/T_IconC_024_UI.png"
+    },
+    "scarletthorn": {
+        "id": 42500010,
+        "name": "Scarletthorn",
+        "image": "IconC/T_IconC_SM_Gat_22A_UI.png"
+    },
+    "lampylumen": {
+        "id": 42500020,
+        "name": "Lampylumen",
+        "image": "IconC/T_IconC_SM_Gat_21A_UI.png"
+    },
+    "indigoite": {
+        "id": 42500030,
+        "name": "Indigoite",
+        "image": "IconC/T_IconC_SM_Gat_20A_UI.png"
+    },
+    "floramber": {
+        "id": 42500040,
+        "name": "Floramber",
+        "image": "IconC/T_IconC_SM_Gat_19A_UI.png"
+    },
+    "birdegg": {
+        "id": 42600010,
+        "name": "Bird Egg",
+        "image": "IconC/T_IconC_niaodan_UI.png"
+    },
+    "basicresonancepotion": {
+        "id": 43010001,
+        "name": "Basic Resonance Potion",
+        "image": "IconRup/T_IconRup_exp_1_UI.png"
+    },
+    "mediumresonancepotion": {
+        "id": 43010002,
+        "name": "Medium Resonance Potion",
+        "image": "IconRup/T_IconRup_exp_2_UI.png"
+    },
+    "advancedresonancepotion": {
+        "id": 43010003,
+        "name": "Advanced Resonance Potion",
+        "image": "IconRup/T_IconRup_exp_3_UI.png"
+    },
+    "premiumresonancepotion": {
+        "id": 43010004,
+        "name": "Premium Resonance Potion",
+        "image": "IconRup/T_IconRup_exp_4_UI.png"
+    },
+    "basicenergycore": {
+        "id": 43020001,
+        "name": "Basic Energy Core",
+        "image": "IconWup/T_IconWup_Exp_1_UI.png"
+    },
+    "mediumenergycore": {
+        "id": 43020002,
+        "name": "Medium Energy Core",
+        "image": "IconWup/T_IconWup_Exp_2_UI.png"
+    },
+    "advancedenergycore": {
+        "id": 43020003,
+        "name": "Advanced Energy Core",
+        "image": "IconWup/T_IconWup_Exp_3_UI.png"
+    },
+    "premiumenergycore": {
+        "id": 43020004,
+        "name": "Premium Energy Core",
+        "image": "IconWup/T_IconWup_Exp_4_UI.png"
+    },
+    "inertmetallicdrip": {
+        "id": 43020011,
+        "name": "Inert Metallic Drip",
+        "image": "IconWup/T_IconWup_Setpup_004_1_UI.png"
+    },
+    "reactivemetallicdrip": {
+        "id": 43020012,
+        "name": "Reactive Metallic Drip",
+        "image": "IconWup/T_IconWup_Setpup_004_2_UI.png"
+    },
+    "polarizedmetallicdrip": {
+        "id": 43020013,
+        "name": "Polarized Metallic Drip",
+        "image": "IconWup/T_IconWup_Setpup_004_3_UI.png"
+    },
+    "heterizedmetallicdrip": {
+        "id": 43020014,
+        "name": "Heterized Metallic Drip",
+        "image": "IconWup/T_IconWup_Setpup_004_4_UI.png"
+    },
+    "impurephlogiston": {
+        "id": 43020021,
+        "name": "Impure Phlogiston",
+        "image": "IconWup/T_IconWup_01_UI.png"
+    },
+    "extractedphlogiston": {
+        "id": 43020022,
+        "name": "Extracted Phlogiston",
+        "image": "IconWup/T_IconWup_02_UI.png"
+    },
+    "refinedphlogiston": {
+        "id": 43020023,
+        "name": "Refined Phlogiston",
+        "image": "IconWup/T_IconWup_03_UI.png"
+    },
+    "flawlessphlogiston": {
+        "id": 43020024,
+        "name": "Flawless Phlogiston",
+        "image": "IconWup/T_IconWup_04_UI.png"
+    },
+    "lentohelix": {
+        "id": 43020031,
+        "name": "Lento Helix",
+        "image": "IconWup/T_IconWup_005_UI.png"
+    },
+    "adagiohelix": {
+        "id": 43020032,
+        "name": "Adagio Helix",
+        "image": "IconWup/T_IconWup_006_UI.png"
+    },
+    "andantehelix": {
+        "id": 43020033,
+        "name": "Andante Helix",
+        "image": "IconWup/T_IconWup_007_UI.png"
+    },
+    "prestohelix": {
+        "id": 43020034,
+        "name": "Presto Helix",
+        "image": "IconWup/T_IconWup_008_UI.png"
+    },
+    "wavewornresidue210": {
+        "id": 43020041,
+        "name": "Waveworn Residue 210",
+        "image": "IconWup/T_IconWup_009_UI.png"
+    },
+    "wavewornresidue226": {
+        "id": 43020042,
+        "name": "Waveworn Residue 226",
+        "image": "IconWup/T_IconWup_010_UI.png"
+    },
+    "wavewornresidue235": {
+        "id": 43020043,
+        "name": "Waveworn Residue 235",
+        "image": "IconWup/T_IconWup_011_UI.png"
+    },
+    "wavewornresidue239": {
+        "id": 43020044,
+        "name": "Waveworn Residue 239",
+        "image": "IconWup/T_IconWup_012_UI.png"
+    },
+    "cadenceseed": {
+        "id": 43020051,
+        "name": "Cadence Seed",
+        "image": "IconWup/T_IconWup_013_UI.png"
+    },
+    "cadencebud": {
+        "id": 43020052,
+        "name": "Cadence Bud",
+        "image": "IconWup/T_IconWup_014_UI.png"
+    },
+    "cadenceleaf": {
+        "id": 43020053,
+        "name": "Cadence Leaf",
+        "image": "IconWup/T_IconWup_015_UI.png"
+    },
+    "cadenceblossom": {
+        "id": 43020054,
+        "name": "Cadence Blossom",
+        "image": "IconWup/T_IconWup_016_UI.png"
+    },
+    "anerrorhappened.pleasecontactcustomerservice": {
+        "id": 44010026,
+        "name": "An error happened. Please contact Customer Service",
+        "image": "IconA/T_IconA_currency_6_UI.png"
+    },
+    "wood-texturedshard": {
+        "id": 44010025,
+        "name": "Wood-textured Shard",
+        "image": "IconA/T_IconA_currency_4_UI.png"
+    },
+    "lustroustide": {
+        "id": 50001,
+        "name": "Lustrous Tide",
+        "image": "IconA/T_IconA_qpmy_UI.png"
+    },
+    "radianttide": {
+        "id": 50002,
+        "name": "Radiant Tide",
+        "image": "IconA/T_IconA_jzmy_UI.png"
+    },
+    "oscillatedcoral": {
+        "id": 50003,
+        "name": "Oscillated Coral",
+        "image": "IconA/T_IconA_czsh_UI.png"
+    },
+    "afterglowcoral": {
+        "id": 50004,
+        "name": "Afterglow Coral",
+        "image": "IconA/T_IconA_ybsh_UI.png"
+    },
+    "lunitesubscription": {
+        "id": 50012,
+        "name": "Lunite Subscription",
+        "image": "IconA/T_IconA_yk_03_UI.png"
+    },
+    "boostunit": {
+        "id": 70000002,
+        "name": "Boost Unit",
+        "image": "IconWup/T_IconWup_018_UI.png"
+    },
+    "sonancecasket": {
+        "id": 40040001,
+        "name": "Sonance Casket",
+        "image": "IconMst/T_IconMst_006_UI.png"
+    },
+    "resonatorexperience": {
+        "id": 90000001,
+        "name": "Resonator Experience",
+        "image": "IconRup/T_IconRup_exp_5_UI.png"
+    },
+    "basicsealedtube": {
+        "id": 36000001,
+        "name": "Basic Sealed Tube",
+        "image": "IconA/T_IconA_10_UI.png"
+    },
+    "mediumsealedtube": {
+        "id": 36000002,
+        "name": "Medium Sealed Tube",
+        "image": "IconA/T_IconA_11_UI.png"
+    },
+    "advancedsealedtube": {
+        "id": 36000003,
+        "name": "Advanced Sealed Tube",
+        "image": "IconA/T_IconA_12_UI.png"
+    },
+    "premiumsealedtube": {
+        "id": 36000004,
+        "name": "Premium Sealed Tube",
+        "image": "IconA/T_IconA_13_UI.png"
+    },
+    "daggerwithspecialsymbols": {
+        "id": 70010001,
+        "name": "Dagger with Special Symbols",
+        "image": "IconWup/T_IconWup_Mo_014_UI.png"
+    },
+    "\"lingocollection-partone\"": {
+        "id": 70010002,
+        "name": "\"Lingo Collection - Part One\"",
+        "image": "IconTask/T_IconTask_Task_002_1_UI.png"
+    },
+    "heatabsorptiondevice": {
+        "id": 70010003,
+        "name": "Heat Absorption Device",
+        "image": "IconTask/T_IconTask_Task_022_UI.png"
+    },
+    "soundproofdevice": {
+        "id": 70010004,
+        "name": "Soundproof Device",
+        "image": "IconTask/T_IconTask_Task_023_UI.png"
+    },
+    "photo:shuyunintherefinery": {
+        "id": 70010005,
+        "name": "Photo: Shuyun in the Refinery",
+        "image": "IconTask/T_IconTask_Level_002_4_UI.png"
+    },
+    "photo:shuyuninthemine": {
+        "id": 70010006,
+        "name": "Photo: Shu Yun in the Mine",
+        "image": "IconTask/T_IconTask_Level_002_4_UI.png"
+    },
+    "photo:shuyunintheport": {
+        "id": 70010007,
+        "name": "Photo: Shu Yun in the Port",
+        "image": "IconTask/T_IconTask_Level_002_4_UI.png"
+    },
+    "\"instructionmanualforleft-handers\"": {
+        "id": 70010008,
+        "name": "\"Instruction Manual For Left-handers\"",
+        "image": "IconTask/T_IconTask_Task_002_1_UI.png"
+    },
+    "waterqualitysample": {
+        "id": 70010009,
+        "name": "Water Quality Sample",
+        "image": "IconC/T_IconC_SM_Gat_26A_UI.png"
+    },
+    "soilsample": {
+        "id": 70010010,
+        "name": "Soil Sample",
+        "image": "IconC/T_IconC_SM_Gat_15A_UI.png"
+    },
+    "biologicalsample": {
+        "id": 70010011,
+        "name": "Biological Sample",
+        "image": "IconC/T_IconC_niaodan_UI.png"
+    },
+    "lockedbox": {
+        "id": 70010012,
+        "name": "Locked Box",
+        "image": "IconTask/T_IconTask_Task_010_1_UI.png"
+    },
+    "jiaping'sdiary": {
+        "id": 70010013,
+        "name": "Jiaping's Diary",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "qingru'sreward": {
+        "id": 70010014,
+        "name": "Qingru's Reward",
+        "image": "IconTask/T_IconTask_Task_010_1_UI.png"
+    },
+    "metalkey": {
+        "id": 70010015,
+        "name": "Metal Key",
+        "image": "IconTask/T_IconTask_Task_012_1_UI.png"
+    },
+    "tacetfieldgeologicaldata": {
+        "id": 70050001,
+        "name": "Tacet Field Geological Data",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "activetacetitesample": {
+        "id": 70050002,
+        "name": "Active Tacetite Sample",
+        "image": "IconTask/T_IconTask_Level_004_1_UI.png"
+    },
+    "deliverybox": {
+        "id": 70050103,
+        "name": "Delivery Box",
+        "image": "IconTask/T_IconTask_Level_005_1_UI.png"
+    },
+    "dimforestecologicalsurvey1.": {
+        "id": 71010001,
+        "name": "Dim Forest Ecological Survey 1.",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "dimforestecologicalsurvey2.": {
+        "id": 71010002,
+        "name": "Dim Forest Ecological Survey 2.",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "dimforestecologicalsurveyiii": {
+        "id": 71010003,
+        "name": "Dim Forest Ecological Survey III",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "dimforestecologicalsurveyiv": {
+        "id": 71010004,
+        "name": "Dim Forest Ecological Survey IV",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "dimforestecologicalsurveyv": {
+        "id": 71010005,
+        "name": "Dim Forest Ecological Survey V",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "dimforestecologicalsurveysummary": {
+        "id": 71010006,
+        "name": "Dim Forest Ecological Survey Summary",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "jinzhouskewers": {
+        "id": 80000000,
+        "name": "Jinzhou Skewers",
+        "image": "IconCook/T_IconCook_001_UI.png"
+    },
+    "stuffedflatbread": {
+        "id": 80000001,
+        "name": "Stuffed Flatbread",
+        "image": "IconCook/T_IconCook_002_UI.png"
+    },
+    "perillasalad": {
+        "id": 80000002,
+        "name": "Perilla Salad",
+        "image": "IconCook/T_IconCook_003_UI.png"
+    },
+    "spicypulledchicken": {
+        "id": 80001003,
+        "name": "Spicy Pulled Chicken",
+        "image": "IconCook/T_IconCook_004_UI.png"
+    },
+    "jinzhouskewersrecipe": {
+        "id": 80010000,
+        "name": "Jinzhou Skewers Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "stuffedflatbreadrecipe": {
+        "id": 80010001,
+        "name": "Stuffed Flatbread Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "perillasaladrecipe": {
+        "id": 80010002,
+        "name": "Perilla Salad Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "spicypulledchickenrecipe": {
+        "id": 80010003,
+        "name": "Spicy Pulled Chicken Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "hotpotbase": {
+        "id": 80020000,
+        "name": "Hot Pot Base",
+        "image": "IconCook/T_IconCook_A01_UI.png"
+    },
+    "clearsoup": {
+        "id": 80020001,
+        "name": "Clear Soup",
+        "image": "IconCook/T_IconCook_A02_UI.png"
+    },
+    "braisingsauce": {
+        "id": 80020002,
+        "name": "Braising Sauce",
+        "image": "IconCook/T_IconCook_A03_UI.png"
+    },
+    "sweetandsoursauce": {
+        "id": 80020003,
+        "name": "Sweet and Sour Sauce",
+        "image": "IconCook/T_IconCook_A15_UI.png"
+    },
+    "intimacy": {
+        "id": 80030002,
+        "name": "Intimacy",
+        "image": "IconA/T_IconA_hgd_UI.png"
+    },
+    "loongwhiskerscrisp": {
+        "id": 80000004,
+        "name": "Loong Whiskers Crisp",
+        "image": "IconCook/T_IconCook_005_UI.png"
+    },
+    "foodrationbar": {
+        "id": 80000005,
+        "name": "Food Ration Bar",
+        "image": "IconCook/T_IconCook_006_UI.png"
+    },
+    "refreshmenttea": {
+        "id": 80000006,
+        "name": "Refreshment Tea",
+        "image": "IconCook/T_IconCook_007_UI.png"
+    },
+    "saltedmilktea": {
+        "id": 80000007,
+        "name": "Salted Milk Tea",
+        "image": "IconCook/T_IconCook_008_UI.png"
+    },
+    "angelicatea": {
+        "id": 80000008,
+        "name": "Angelica Tea",
+        "image": "IconCook/T_IconCook_009_UI.png"
+    },
+    "shuyunherbaltea": {
+        "id": 80000009,
+        "name": "Shuyun Herbal Tea",
+        "image": "IconCook/T_IconCook_010_UI.png"
+    },
+    "poachedchicken": {
+        "id": 80000010,
+        "name": "Poached Chicken",
+        "image": "IconCook/T_IconCook_011_UI.png"
+    },
+    "spicymeatslices": {
+        "id": 80000011,
+        "name": "Spicy Meat Slices",
+        "image": "IconCook/T_IconCook_012_UI.png"
+    },
+    "loongbun": {
+        "id": 80000012,
+        "name": "Loong Bun",
+        "image": "IconCook/T_IconCook_013_UI.png"
+    },
+    "ironshoveledodes": {
+        "id": 80000013,
+        "name": "Iron Shovel Edodes",
+        "image": "IconCook/T_IconCook_014_UI.png"
+    },
+    "jinzhoustew": {
+        "id": 80000014,
+        "name": "Jinzhou Stew",
+        "image": "IconCook/T_IconCook_015_UI.png"
+    },
+    "candiedcaltrops": {
+        "id": 80000015,
+        "name": "Candied Caltrops",
+        "image": "IconCook/T_IconCook_016_UI.png"
+    },
+    "wuthercake": {
+        "id": 80000016,
+        "name": "Wuthercake",
+        "image": "IconCook/T_IconCook_017_UI.png"
+    },
+    "aureatefriedrice": {
+        "id": 80000017,
+        "name": "Aureate Fried Rice",
+        "image": "IconCook/T_IconCook_018_UI.png"
+    },
+    "lemon-braisedpork": {
+        "id": 80000018,
+        "name": "Lemon-Braised Pork",
+        "image": "IconCook/T_IconCook_019_UI.png"
+    },
+    "milkyfishsoup": {
+        "id": 80000019,
+        "name": "Milky Fish Soup",
+        "image": "IconCook/T_IconCook_020_UI.png"
+    },
+    "kudzucongee": {
+        "id": 80000020,
+        "name": "Kudzu Congee",
+        "image": "IconCook/T_IconCook_021_UI.png"
+    },
+    "starflakes": {
+        "id": 80000021,
+        "name": "Star Flakes",
+        "image": "IconCook/T_IconCook_022_UI.png"
+    },
+    "caltropstirfry": {
+        "id": 80000022,
+        "name": "Caltrop Stir Fry",
+        "image": "IconCook/T_IconCook_023_UI.png"
+    },
+    "caltropsoup": {
+        "id": 80000023,
+        "name": "Caltrop Soup",
+        "image": "IconCook/T_IconCook_024_UI.png"
+    },
+    "crispysquab": {
+        "id": 80000024,
+        "name": "Crispy Squab",
+        "image": "IconCook/T_IconCook_025_UI.png"
+    },
+    "jinzhoumaocai": {
+        "id": 80000025,
+        "name": "Jinzhou Maocai",
+        "image": "IconCook/T_IconCook_026_UI.png"
+    },
+    "risingloong": {
+        "id": 80000026,
+        "name": "Rising Loong",
+        "image": "IconCook/T_IconCook_027_UI.png"
+    },
+    "sweet&sourpork": {
+        "id": 80000027,
+        "name": "Sweet & Sour Pork",
+        "image": "IconCook/T_IconCook_028_UI.png"
+    },
+    "chilisaucetofu": {
+        "id": 80000028,
+        "name": "Chili Sauce Tofu",
+        "image": "IconCook/T_IconCook_029_UI.png"
+    },
+    "morripot": {
+        "id": 80000029,
+        "name": "Morri Pot",
+        "image": "IconCook/T_IconCook_030_UI.png"
+    },
+    "stuffedtofu": {
+        "id": 80000030,
+        "name": "Stuffed Tofu",
+        "image": "IconCook/T_IconCook_031_UI.png"
+    },
+    "loongwhiskerscrisprecipe": {
+        "id": 80010004,
+        "name": "Loong Whiskers Crisp Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "foodrationbarrecipe": {
+        "id": 80010005,
+        "name": "Food Ration Bar Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "refreshmenttearecipe": {
+        "id": 80010006,
+        "name": "Refreshment Tea Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "saltedmilktearecipe": {
+        "id": 80010007,
+        "name": "Salted Milk Tea Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "angelicatearecipe": {
+        "id": 80010008,
+        "name": "Angelica Tea Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "shuyunherbaltearecipe": {
+        "id": 80010009,
+        "name": "Shuyun Herbal Tea Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "poachedchickenrecipe": {
+        "id": 80010010,
+        "name": "Poached Chicken Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "spicymeatslicesrecipe": {
+        "id": 80010011,
+        "name": "Spicy Meat Slices Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "loongbunrecipe": {
+        "id": 80010012,
+        "name": "Loong Bun Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "edodesrecipe": {
+        "id": 80010013,
+        "name": "Edodes Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "jinzhoustewrecipe": {
+        "id": 80010014,
+        "name": "Jinzhou Stew Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "candiedcaltropsrecipe": {
+        "id": 80010015,
+        "name": "Candied Caltrops Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "wuthercakerecipe": {
+        "id": 80010016,
+        "name": "Wuthercake Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "aureatefriedricerecipe": {
+        "id": 80010017,
+        "name": "Aureate Fried Rice Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "lemon-braisedporkrecipe": {
+        "id": 80010018,
+        "name": "Lemon-Braised Pork Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "milkyfishsouprecipe": {
+        "id": 80010019,
+        "name": "Milky Fish Soup Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "kudzucongeerecipe": {
+        "id": 80010020,
+        "name": "Kudzu Congee Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "starflakesrecipe": {
+        "id": 80010021,
+        "name": "Star Flakes Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "caltropstirfryrecipe": {
+        "id": 80010022,
+        "name": "Caltrop Stir Fry Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "caltropsouprecipe": {
+        "id": 80010023,
+        "name": "Caltrop Soup Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "crispysquabrecipe": {
+        "id": 80010024,
+        "name": "Crispy Squab Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "jinzhoumaocairecipe": {
+        "id": 80010025,
+        "name": "Jinzhou Maocai Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "risingloongrecipe": {
+        "id": 80010026,
+        "name": "Rising Loong Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "sweet&sourporkrecipe": {
+        "id": 80010027,
+        "name": "Sweet & Sour Pork Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "chilisaucetofurecipe": {
+        "id": 80010028,
+        "name": "Chili Sauce Tofu Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "morripotrecipe": {
+        "id": 80010029,
+        "name": "Morri Pot Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "stuffedtofurecipe": {
+        "id": 80010030,
+        "name": "Stuffed Tofu Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "tofu": {
+        "id": 80020004,
+        "name": "Tofu",
+        "image": "IconCook/T_IconCook_A04_UI.png"
+    },
+    "rover'swaveband": {
+        "id": 10001604,
+        "name": "Rover's Waveband",
+        "image": "IconRup/T_IconRup_Part_1700_UI.png"
+    },
+    "aalto'swaveband": {
+        "id": 10001403,
+        "name": "Aalto's Waveband",
+        "image": "IconRup/T_IconRup_Part_1403_UI.png"
+    },
+    "jiyan'swaveband": {
+        "id": 10001404,
+        "name": "Jiyan's Waveband",
+        "image": "IconRup/T_IconRup_Part_1404_UI.png"
+    },
+    "mortefi'swaveband": {
+        "id": 10001204,
+        "name": "Mortefi's Waveband",
+        "image": "IconRup/T_IconRup_Part_1204_UI.png"
+    },
+    "camellya'swaveband": {
+        "id": 10001603,
+        "name": "Camellya's Waveband",
+        "image": "IconRup/T_IconRup_Part_1614_UI.png"
+    },
+    "calcharo'swaveband": {
+        "id": 10001301,
+        "name": "Calcharo's Waveband",
+        "image": "IconRup/T_IconRup_Part_1301_UI.png"
+    },
+    "yinlin'swaveband": {
+        "id": 10001302,
+        "name": "Yinlin's Waveband",
+        "image": "IconRup/T_IconRup_Part_1302_UI.png"
+    },
+    "yuanwu'swaveband": {
+        "id": 10001303,
+        "name": "Yuanwu's Waveband",
+        "image": "IconRup/T_IconRup_Part_1303_UI.png"
+    },
+    "battlefieldrecord6010:autumn": {
+        "id": 71020001,
+        "name": "Battlefield Record 6010: Autumn",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "battlefieldrecord6010:91.7highlandcontest": {
+        "id": 71020002,
+        "name": "Battlefield Record 6010: 91.7 Highland Contest",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "battlefieldrecord6010:reorganization": {
+        "id": 71020003,
+        "name": "Battlefield Record 6010: Reorganization",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "battlefieldrecord6010:settingoffagain": {
+        "id": 71020004,
+        "name": "Battlefield Record 6010: Setting Off Again",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "battlefieldrecord6010:thismightbethelast": {
+        "id": 71020005,
+        "name": "Battlefield Record 6010: This Might Be the Last",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "crudevoicematerial": {
+        "id": 70010019,
+        "name": "Crude Voice Material",
+        "image": "IconTask/T_IconTask_Task_010_1_UI.png"
+    },
+    "mapdrawnbyhoochief": {
+        "id": 70010020,
+        "name": "Map drawn by Hoochief",
+        "image": "IconTask/T_IconTask_Task_013_1_UI.png"
+    },
+    "strangelyshapedkey": {
+        "id": 70010021,
+        "name": "Strangely Shaped Key",
+        "image": "IconTask/T_IconTask_Task_014_1_UI.png"
+    },
+    "rusteddatacard": {
+        "id": 70010022,
+        "name": "Rusted Data Card",
+        "image": "IconTask/T_IconTask_Task_016_1_UI.png"
+    },
+    "specialwaterlamp": {
+        "id": 70010016,
+        "name": "Special Waterlamp",
+        "image": "IconC/T_IconC_SM_Gat_01A_UI.png"
+    },
+    "star-shapedcore": {
+        "id": 70010017,
+        "name": "Star-shaped Core",
+        "image": "IconMout/T_IconMout_O_002_1_UI.png"
+    },
+    "maturecliffrecluse": {
+        "id": 70010018,
+        "name": "Mature Cliffrecluse",
+        "image": "IconC/T_IconC_SM_Gat_12A_UI.png"
+    },
+    "rescueteambadge": {
+        "id": 70010023,
+        "name": "Rescue Team Badge",
+        "image": "IconC/T_IconC_SM_Gat_12A_UI.png"
+    },
+    "specialdewvetch": {
+        "id": 70010025,
+        "name": "Special Dewvetch",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "halfofajadependant": {
+        "id": 70010026,
+        "name": "Half of a jade pendant",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "mechanicalbox": {
+        "id": 70010027,
+        "name": "Mechanical box",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "dewvetch'sdiary": {
+        "id": 70010028,
+        "name": "Dewvetch's diary",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "chixia'sfather'sdiary": {
+        "id": 70010029,
+        "name": "Chixia's father's diary",
+        "image": "IconTask/T_IconTask_Task_002_1_UI.png"
+    },
+    "worn-outbox": {
+        "id": 70010030,
+        "name": "Worn-out Box",
+        "image": "IconTask/T_IconTask_Task_006_1_UI.png"
+    },
+    "exiles'weapon": {
+        "id": 70010031,
+        "name": "Exiles' Weapon",
+        "image": "IconTask/T_IconTask_Task_006_1_UI.png"
+    },
+    "courtofsavantae'sdatachip": {
+        "id": 70010033,
+        "name": "Court of Savantae's Data Chip",
+        "image": "IconA/T_IconA_cdtq_UI.png"
+    },
+    "suspiciousaudiosoundmaterial": {
+        "id": 70010036,
+        "name": "Suspicious Audio Sound Material",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "qiongxue'soriginalmanuscript": {
+        "id": 70010037,
+        "name": "Qiongxue's Original Manuscript",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "\"fireinthewilderness\"excerpt": {
+        "id": 70010038,
+        "name": "\"Fire in the Wilderness\" Excerpt",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "scenicphoto": {
+        "id": 70010039,
+        "name": "Scenic Photo",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "asos'sinformationtouchpad": {
+        "id": 70010040,
+        "name": "Asos's Information Touchpad",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "icefieldhonormedal": {
+        "id": 70010041,
+        "name": "Icefield Honor Medal",
+        "image": "IconTask/T_IconTask_Task_019_1_UI.png"
+    },
+    "datasourcetobeanalyzed": {
+        "id": 70010042,
+        "name": "Data source to be analyzed",
+        "image": "IconC/T_IconC_SM_Gat_08A_UI.png"
+    },
+    "universalrepairbox": {
+        "id": 70010043,
+        "name": "Universal repair box",
+        "image": "IconTask/T_IconTask_Task_011_1_UI.png"
+    },
+    "soundcatcher": {
+        "id": 70010048,
+        "name": "Sound catcher",
+        "image": "IconTask/T_IconTask_Task_017_1_UI.png"
+    },
+    "recorder": {
+        "id": 70010049,
+        "name": "Recorder",
+        "image": "IconTask/T_IconTask_Task_018_1_UI.png"
+    },
+    "failedattempt": {
+        "id": 80000031,
+        "name": "Failed Attempt",
+        "image": "IconCook/T_IconCook_035_UI.png"
+    },
+    "flour": {
+        "id": 80050000,
+        "name": "Flour",
+        "image": "IconCook/T_IconCook_A05_UI.png"
+    },
+    "cookingoil": {
+        "id": 80050001,
+        "name": "Cooking oil",
+        "image": "IconCook/T_IconCook_A06_UI.png"
+    },
+    "chili": {
+        "id": 80050002,
+        "name": "Chili",
+        "image": "IconCook/T_IconCook_A07_UI.png"
+    },
+    "sugar": {
+        "id": 80050003,
+        "name": "Sugar",
+        "image": "IconCook/T_IconCook_A08_UI.png"
+    },
+    "tea": {
+        "id": 80050004,
+        "name": "Tea",
+        "image": "IconCook/T_IconCook_A09_UI.png"
+    },
+    "milk": {
+        "id": 80050005,
+        "name": "Milk",
+        "image": "IconCook/T_IconCook_A10_UI.png"
+    },
+    "rice": {
+        "id": 80050006,
+        "name": "Rice",
+        "image": "IconCook/T_IconCook_A11_UI.png"
+    },
+    "kudzuroot": {
+        "id": 80050007,
+        "name": "Kudzu Root",
+        "image": "IconCook/T_IconCook_A12_UI.png"
+    },
+    "salt": {
+        "id": 80050008,
+        "name": "Salt",
+        "image": "IconCook/T_IconCook_A13_UI.png"
+    },
+    "beans": {
+        "id": 80050009,
+        "name": "Beans",
+        "image": "IconCook/T_IconCook_A14_UI.png"
+    },
+    "vinegar": {
+        "id": 80050010,
+        "name": "Vinegar",
+        "image": "IconCook/T_IconCook_A15_UI.png"
+    },
+    "influence": {
+        "id": 103,
+        "name": "Influence",
+        "image": "IconA/T_IconA_sw_UI.png"
+    },
+    "podcastexperience": {
+        "id": 8,
+        "name": "Podcast Experience",
+        "image": "IconA/T_IconA_zl_01_UI.png"
+    },
+    "insiderchannel": {
+        "id": 50013,
+        "name": "Insider Channel",
+        "image": "IconA/T_IconA_cdtq_UI.png"
+    },
+    "connoisseur": {
+        "id": 50014,
+        "name": "Connoisseur",
+        "image": "IconA/T_IconA_cdtq_UI.png"
+    },
+    "purchaseconnoisseurchannel": {
+        "id": 50015,
+        "name": "Purchase Connoisseur Channel",
+        "image": "IconA/T_IconA_cdtq_UI.png"
+    },
+    "insiderchannelkey": {
+        "id": 50016,
+        "name": "Insider Channel Key",
+        "image": "IconA/T_IconA_zl_02_UI.png"
+    },
+    "lostkey": {
+        "id": 70050006,
+        "name": "Lost Key",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "remainingkey": {
+        "id": 70050007,
+        "name": "Remaining Key",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "records": {
+        "id": 70010050,
+        "name": "Records",
+        "image": "IconA/T_IconA_mlf_UI.png"
+    },
+    "photoofthesnowcrane": {
+        "id": 70010051,
+        "name": "Photo of the Snow Crane",
+        "image": "IconTask/T_IconTask_Level_002_4_UI.png"
+    },
+    "woodentrainingsword": {
+        "id": 70010052,
+        "name": "Wooden training sword",
+        "image": "IconWeapon/T_IconWeapon21020011_UI.png"
+    },
+    "pleasecontactourcustomerserviceforassistance": {
+        "id": 70120006,
+        "name": "Please contact our Customer Service for assistance",
+        "image": "IconTask/T_IconTask_Task_010_1_UI.png"
+    },
+    "timefootnote:ix": {
+        "id": 71020006,
+        "name": "Time Footnote: IX",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "timefootnote:x": {
+        "id": 71020007,
+        "name": "Time Footnote: X",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "timefootnote:xi": {
+        "id": 71020008,
+        "name": "Time Footnote: XI",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "timefootnote:xii": {
+        "id": 71020009,
+        "name": "Time Footnote: XII",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "timefootnote:xiii": {
+        "id": 71020010,
+        "name": "Time Footnote: XIII",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "primitivetidestone": {
+        "id": 70010053,
+        "name": "Primitive tide stone",
+        "image": "IconTask/T_IconTask_Task_006_1_UI.png"
+    },
+    "oldbooklet": {
+        "id": 70060001,
+        "name": "Old Booklet",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "survivalcode": {
+        "id": 70010054,
+        "name": "Survival code",
+        "image": "IconA/T_IconA_pad_UI.png"
+    },
+    "cruisingdrake'sdeliverybox": {
+        "id": 70010055,
+        "name": "Cruising Drake's delivery box",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "inscriptiondevice": {
+        "id": 10801,
+        "name": "Inscription Device",
+        "image": "IconA/T_IconA_mlf_UI.png"
+    },
+    "tacetiteore": {
+        "id": 70010056,
+        "name": "Tacetite ore",
+        "image": "IconTask/T_IconTask_Task_006_1_UI.png"
+    },
+    "lingyang'swaveband": {
+        "id": 10001104,
+        "name": "Lingyang's Waveband",
+        "image": "IconRup/T_IconRup_Part_1104_UI.png"
+    },
+    "\"dreamreturnsongiii:stoneleaftears\"": {
+        "id": 70010057,
+        "name": "\"Dream Return Song III: Stone Leaf Tears\"",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "droppedkey": {
+        "id": 70010058,
+        "name": "Dropped key",
+        "image": "IconTask/T_IconTask_Task_014_1_UI.png"
+    },
+    "crystallizedleaf": {
+        "id": 70010059,
+        "name": "Crystallized Leaf",
+        "image": "IconC/T_IconC_SM_Gat_01A_UI.png"
+    },
+    "philosophicalnotes": {
+        "id": 70010060,
+        "name": "Philosophical Notes",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "thelostweapon": {
+        "id": 70010061,
+        "name": "The lost weapon",
+        "image": "IconWeapon/T_IconWeapon20002001_UI.png"
+    },
+    "revivalelixircombination": {
+        "id": 80040000,
+        "name": "Revival Elixir Combination",
+        "image": "IconRup/T_IconRup_Skup_006_4_UI.png"
+    },
+    "oldsketch": {
+        "id": 70060002,
+        "name": "Old Sketch",
+        "image": "IconTask/T_IconTask_Task_024_UI.png"
+    },
+    "driedflower": {
+        "id": 70060003,
+        "name": "Dried Flower",
+        "image": "IconTask/T_IconTask_Task_025_UI.png"
+    },
+    "thesingingsectionofthesongoftheemptydawn": {
+        "id": 70010062,
+        "name": "The singing section of the Song of the Empty Dawn",
+        "image": "IconTask/T_IconTask_Task_020_1_UI.png"
+    },
+    "powersystemnotes": {
+        "id": 70060005,
+        "name": "Power System Notes",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "soundemulatorrepairtool": {
+        "id": 70060010,
+        "name": "Sound Emulator Repair Tool",
+        "image": "IconTask/T_IconTask_Task_011_1_UI.png"
+    },
+    "rustydatachip": {
+        "id": 70060011,
+        "name": "Rusty Data Chip",
+        "image": "IconTask/T_IconTask_Task_051_UI.png"
+    },
+    "hiddenthundertacetcore": {
+        "id": 41400134,
+        "name": "Hidden Thunder Tacet Core",
+        "image": "IconMout/T_IconMout_L_012_UI.png"
+    },
+    "camellya'sgroupphoto1": {
+        "id": 70120001,
+        "name": "Camellya's group photo 1",
+        "image": "IconTask/T_IconTask_Task_013_1_UI.png"
+    },
+    "camellya'sgroupphoto2": {
+        "id": 70120002,
+        "name": "Camellya's group photo 2",
+        "image": "IconTask/T_IconTask_Task_013_1_UI.png"
+    },
+    "camellya'sgroupphoto3": {
+        "id": 70120003,
+        "name": "Camellya's group photo 3",
+        "image": "IconTask/T_IconTask_Task_013_1_UI.png"
+    },
+    "modunasha": {
+        "id": 70120004,
+        "name": "Modunasha",
+        "image": "IconTask/T_IconTask_Task_013_1_UI.png"
+    },
+    "\"themodunasha\"": {
+        "id": 70120005,
+        "name": "\"The Modunasha\"",
+        "image": "IconTask/T_IconTask_Task_013_1_UI.png"
+    },
+    "jiyancopyprop1": {
+        "id": 70130001,
+        "name": "Jiyan copy prop 1",
+        "image": "IconTask/T_IconTask_Task_013_1_UI.png"
+    },
+    "auspiciousbell": {
+        "id": 70010063,
+        "name": "Auspicious Bell",
+        "image": "IconTask/T_IconTask_Task_059_UI.png"
+    },
+    "woodformakingaplumblossompole": {
+        "id": 70010064,
+        "name": "Wood for making a Plum Blossom Pole",
+        "image": "IconC/T_IconC_SM_Gat_12A_UI.png"
+    },
+    "lingyang'spicturebook": {
+        "id": 70010065,
+        "name": "Lingyang's picture book",
+        "image": "IconTask/T_IconTask_Task_002_1_UI.png"
+    },
+    "keytothepetridish": {
+        "id": 70500001,
+        "name": "Key to the Petri Dish",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "keytotherockruins": {
+        "id": 70500002,
+        "name": "Key to the Rock Ruins",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "abeautifulnecklace.": {
+        "id": 70500003,
+        "name": "A beautiful necklace.",
+        "image": "IconTask/T_IconTask_Task_019_1_UI.png"
+    },
+    "thegemonthenecklace.": {
+        "id": 70500004,
+        "name": "The gem on the necklace.",
+        "image": "IconC/T_IconC_SM_Gat_01A_UI.png"
+    },
+    "specialoperationdiaryd12547": {
+        "id": 31000010,
+        "name": "Special Operation Diary D12547",
+        "image": "IconA/T_IconA_cdtq_UI.png"
+    },
+    "brokenshackles": {
+        "id": 31000011,
+        "name": "Broken Shackles",
+        "image": "IconC/T_IconC_SM_Gat_01A_UI.png"
+    },
+    "test/universalecho": {
+        "id": 44010027,
+        "name": "test/Universal Echo",
+        "image": "IconA/T_IconA_currency_6_UI.png"
+    },
+    "activitypoints": {
+        "id": 9,
+        "name": "Activity Points",
+        "image": "IconA/T_IconA_currency_01_UI.png"
+    },
+    "leveldeliverytestitem-speartip": {
+        "id": 70050011,
+        "name": "Level Delivery Test Item - Spear Tip",
+        "image": "IconTask/T_IconTask_Level_005_1_UI.png"
+    },
+    "leveldeliverytestitem-spearbreech": {
+        "id": 70050012,
+        "name": "Level Delivery Test Item - Spear Breech",
+        "image": "IconTask/T_IconTask_Level_005_2_UI.png"
+    },
+    "leveldeliverytestitem-gunbody": {
+        "id": 70050013,
+        "name": "Level Delivery Test Item - Gun Body",
+        "image": "IconTask/T_IconTask_Level_005_3_UI.png"
+    },
+    "boostpart": {
+        "id": 42500050,
+        "name": "Boost Part",
+        "image": "IconWup/T_IconWup_Setpup_001_1_UI.png"
+    },
+    "echofrequencychip": {
+        "id": 42500060,
+        "name": "Echo Frequency Chip",
+        "image": "IconRup/T_IconRup_Ele_UI.png"
+    },
+    "test/goldenuniversalecho": {
+        "id": 44010028,
+        "name": "test/Golden Universal Echo",
+        "image": "IconA/T_IconA_currency_6_UI.png"
+    },
+    "temporaryteamphoto": {
+        "id": 70130003,
+        "name": "Temporary Team Photo",
+        "image": "IconTask/T_IconTask_Task_060_UI.png"
+    },
+    "mangosteen": {
+        "id": 70139306,
+        "name": "Mangosteen",
+        "image": "IconTask/T_IconTask_Task_026_UI.png"
+    },
+    "sundial": {
+        "id": 70139310,
+        "name": "Sundial",
+        "image": "IconTask/T_IconTask_Task_036_UI.png"
+    },
+    "test/leaf": {
+        "id": 31000014,
+        "name": "test/Leaf",
+        "image": "IconTask/T_IconTask_Task_010_1_UI.png"
+    },
+    "robotspareparts": {
+        "id": 70050014,
+        "name": "Robot Spare Parts",
+        "image": "IconTask/T_IconTask_Task_045_UI.png"
+    },
+    "robotbatterypack": {
+        "id": 70050015,
+        "name": "Robot Battery Pack",
+        "image": "IconTask/T_IconTask_Task_046_UI.png"
+    },
+    "robotengine": {
+        "id": 70050016,
+        "name": "Robot Engine",
+        "image": "IconTask/T_IconTask_Task_047_UI.png"
+    },
+    "driver'srecordingcard": {
+        "id": 70050017,
+        "name": "Driver's Recording Card",
+        "image": "IconTask/T_IconTask_Task_044_UI.png"
+    },
+    "zoomcamera": {
+        "id": 70140001,
+        "name": "Zoom Camera",
+        "image": "IconTask/T_IconTask_Task_029_UI.png"
+    },
+    "scavengerhuntnote": {
+        "id": 31000015,
+        "name": "scavenger hunt note",
+        "image": "IconA/T_IconA_cdtq_UI.png"
+    },
+    "connoisseurkey": {
+        "id": 50017,
+        "name": "Connoisseur Key",
+        "image": "IconA/T_IconA_zl_03_UI.png"
+    },
+    "fantastic-tastingrice": {
+        "id": 31000016,
+        "name": "fantastic-tasting rice",
+        "image": "IconCook/T_IconCook_021_UI.png"
+    },
+    "explosivecharge": {
+        "id": 70050018,
+        "name": "Explosive Charge",
+        "image": "IconTask/T_IconTask_Task_048_UI.png"
+    },
+    "waypoint": {
+        "id": 10802,
+        "name": "Waypoint",
+        "image": "IconA/T_IconA_04_UI.png"
+    },
+    "casketsonar": {
+        "id": 10803,
+        "name": "Casket Sonar",
+        "image": "IconA/T_IconA_02_UI.png"
+    },
+    "lootmapper": {
+        "id": 10804,
+        "name": "Lootmapper",
+        "image": "IconA/T_IconA_03_UI.png"
+    },
+    "casketsonarusepermit:jinzhou": {
+        "id": 10805,
+        "name": "Casket Sonar Use Permit: Jinzhou",
+        "image": "IconA/T_IconA_06_UI.png"
+    },
+    "lootmapperusepermit:jinzhou": {
+        "id": 10806,
+        "name": "Lootmapper Use Permit: Jinzhou",
+        "image": "IconA/T_IconA_07_UI.png"
+    },
+    "sonarcircuit": {
+        "id": 10807,
+        "name": "Sonar Circuit",
+        "image": "IconA/T_IconA_08_UI.png"
+    },
+    "waypointmodule": {
+        "id": 10808,
+        "name": "Waypoint Module",
+        "image": "IconA/T_IconA_09_UI.png"
+    },
+    "basictuner": {
+        "id": 36000011,
+        "name": "Basic Tuner",
+        "image": "IconA/T_IconA_txq_01_UI.png"
+    },
+    "mediumtuner": {
+        "id": 36000012,
+        "name": "Medium Tuner",
+        "image": "IconA/T_IconA_txq_01_UI.png"
+    },
+    "advancedtuner": {
+        "id": 36000013,
+        "name": "Advanced Tuner",
+        "image": "IconA/T_IconA_txq_02_UI.png"
+    },
+    "premiumtuner": {
+        "id": 36000014,
+        "name": "Premium Tuner",
+        "image": "IconA/T_IconA_txq_03_UI.png"
+    },
+    "bellspiriton": {
+        "id": 70010068,
+        "name": "Bell Spiriton",
+        "image": "IconTask/T_IconTask_Task_057_UI.png"
+    },
+    "anerroroccurred.pleasecontactourcustomerserviceforassistance": {
+        "id": 50000031,
+        "name": "An error occurred. Please contact our Customer Service for assistance",
+        "image": "IconGiftPack/T_IconGiftPack_01_UI.png"
+    },
+    "lordechoblindbox": {
+        "id": 50000032,
+        "name": "Lord Echo Blind Box",
+        "image": "IconGiftPack/T_IconGiftPack_01_UI.png"
+    },
+    "windtagechoblindbox": {
+        "id": 50000033,
+        "name": "wind tagEcho blind box",
+        "image": "IconGiftPack/T_IconGiftPack_01_UI.png"
+    },
+    "firetagechoblindbox": {
+        "id": 50000034,
+        "name": "fire tagEcho blind box",
+        "image": "IconGiftPack/T_IconGiftPack_01_UI.png"
+    },
+    "\u62d0tagechoblindbox": {
+        "id": 50000035,
+        "name": "\u62d0tagEcho blind box",
+        "image": "IconGiftPack/T_IconGiftPack_01_UI.png"
+    },
+    "settlementtagechoblindbox": {
+        "id": 50000036,
+        "name": "settlement tagEcho blind box",
+        "image": "IconGiftPack/T_IconGiftPack_01_UI.png"
+    },
+    "milktagechoblindbox": {
+        "id": 50000037,
+        "name": "milk tagEcho blind box",
+        "image": "IconGiftPack/T_IconGiftPack_01_UI.png"
+    },
+    "seasidearenaaccesscard": {
+        "id": 70050019,
+        "name": "Seaside Arena Access Card",
+        "image": "IconTask/T_IconTask_Task_066_UI.png"
+    },
+    "badgeofcourage": {
+        "id": 70050020,
+        "name": "Badge of Courage",
+        "image": "IconTask/T_IconTask_Task_064_UI.png"
+    },
+    "badgeofspeed": {
+        "id": 70050021,
+        "name": "Badge of Speed",
+        "image": "IconTask/T_IconTask_Task_063_UI.png"
+    },
+    "badgeofstrength": {
+        "id": 70050022,
+        "name": "Badge of Strength",
+        "image": "IconTask/T_IconTask_Task_065_UI.png"
+    },
+    "echocomponentsynthesisrecipe": {
+        "id": 80052010,
+        "name": "Echo component Synthesis recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "waypointmodulesynthesisrecipe": {
+        "id": 80052011,
+        "name": "Waypoint Module Synthesis Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "jianxin'swaveband": {
+        "id": 10001405,
+        "name": "Jianxin's Waveband",
+        "image": "IconRup/T_IconRup_Part_1405_UI.png"
+    },
+    "lv.10supplypack": {
+        "id": 50000038,
+        "name": "Lv.10 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_01_UI.png"
+    },
+    "lv.20supplypack": {
+        "id": 50000039,
+        "name": "Lv.20 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_02_UI.png"
+    },
+    "lv.30supplypack": {
+        "id": 50000040,
+        "name": "Lv.30 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_03_UI.png"
+    },
+    "lv.40supplypack": {
+        "id": 50000041,
+        "name": "Lv.40 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_04_UI.png"
+    },
+    "lv.50supplypack": {
+        "id": 50000042,
+        "name": "Lv.50 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_05_UI.png"
+    },
+    "lv.60supplypack": {
+        "id": 50000043,
+        "name": "Lv.60 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_06_UI.png"
+    },
+    "lv.65supplypack": {
+        "id": 50000044,
+        "name": "Lv.65 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_07_UI.png"
+    },
+    "lv.70supplypack": {
+        "id": 50000045,
+        "name": "Lv.70 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_08_UI.png"
+    },
+    "lv.75supplypack": {
+        "id": 50000046,
+        "name": "Lv.75 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_09_UI.png"
+    },
+    "lv.80supplypack": {
+        "id": 50000047,
+        "name": "Lv.80 Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_10_UI.png"
+    },
+    "ultrasonicpulsechip": {
+        "id": 70140003,
+        "name": "Ultrasonic Pulse Chip",
+        "image": "IconTask/T_IconTask_Task_041_UI.png"
+    },
+    "aplayerthatcontainsqianxin'ssingingvoice.": {
+        "id": 70140011,
+        "name": "A player that contains Qianxin's singing voice.",
+        "image": "IconTask/T_IconTask_Task_016_1_UI.png"
+    },
+    "databankexperience": {
+        "id": 10,
+        "name": "Data Bank experience",
+        "image": "IconA/T_IconA_GourdExp_UI.png"
+    },
+    "\"suppressortoweri-maintenancelog\"": {
+        "id": 31000032,
+        "name": "\"Suppressor Tower I - Maintenance Log\"",
+        "image": "IconTask/T_IconTask_Task_027_UI.png"
+    },
+    "\"suppressortowerii-maintenancelog\"": {
+        "id": 31000033,
+        "name": "\"Suppressor Tower II - Maintenance Log\"",
+        "image": "IconTask/T_IconTask_Task_027_UI.png"
+    },
+    "unsentelectroniccommunication": {
+        "id": 31000034,
+        "name": "Unsent Electronic Communication",
+        "image": "IconTask/T_IconTask_Task_027_UI.png"
+    },
+    "guidecrystal": {
+        "id": 70050008,
+        "name": "Guide Crystal",
+        "image": "IconTask/T_IconTask_Task_043_UI.png"
+    },
+    "morphableecho-freezingfrost": {
+        "id": 50001501,
+        "name": "Morphable Echo - Freezing Frost",
+        "image": "IconA/T_IconA_shlb_05_UI.png"
+    },
+    "morphableecho-moltenrift": {
+        "id": 50001502,
+        "name": "Morphable Echo - Molten Rift",
+        "image": "IconA/T_IconA_shlb_06_UI.png"
+    },
+    "morphableecho-voidthunder": {
+        "id": 50001503,
+        "name": "Morphable Echo - Void Thunder",
+        "image": "IconA/T_IconA_shlb_07_UI.png"
+    },
+    "morphableecho-sierragale": {
+        "id": 50001504,
+        "name": "Morphable Echo - Sierra Gale",
+        "image": "IconA/T_IconA_shlb_08_UI.png"
+    },
+    "morphableecho-celestiallight": {
+        "id": 50001505,
+        "name": "Morphable Echo - Celestial Light",
+        "image": "IconA/T_IconA_shlb_09_UI.png"
+    },
+    "morphableecho-havoceclipse": {
+        "id": 50001506,
+        "name": "Morphable Echo - Havoc Eclipse",
+        "image": "IconA/T_IconA_shlb_10_UI.png"
+    },
+    "morphableecho-rejuvenatingglow": {
+        "id": 50001507,
+        "name": "Morphable Echo - Rejuvenating Glow",
+        "image": "IconA/T_IconA_shlb_11_UI.png"
+    },
+    "morphableecho-moonlitclouds": {
+        "id": 50001508,
+        "name": "Morphable Echo - Moonlit Clouds",
+        "image": "IconA/T_IconA_shlb_12_UI.png"
+    },
+    "morphableecho-lingeringtunes": {
+        "id": 50001509,
+        "name": "Morphable Echo - Lingering Tunes",
+        "image": "IconA/T_IconA_shlb_13_UI.png"
+    },
+    "jinzhousunrisephoto": {
+        "id": 70050023,
+        "name": "Jinzhou Sunrise Photo",
+        "image": "IconTask/T_IconTask_Task_028_UI.png"
+    },
+    "aphotographstainedwithblood": {
+        "id": 70060012,
+        "name": "A Photograph Stained with Blood",
+        "image": "IconTask/T_IconTask_Task_053_UI.png"
+    },
+    "aphotographcoveredwithscratches": {
+        "id": 70060013,
+        "name": "A Photograph Covered with Scratches",
+        "image": "IconTask/T_IconTask_Task_053_UI.png"
+    },
+    "abrandnewphotograph": {
+        "id": 70060014,
+        "name": "A Brand New Photograph",
+        "image": "IconTask/T_IconTask_Task_053_UI.png"
+    },
+    "lunitesubscription(7days)": {
+        "id": 50018,
+        "name": "Lunite Subscription (7 days)",
+        "image": "IconA/T_IconA_yk_01_UI.png"
+    },
+    "lunitesubscription(15days)": {
+        "id": 50019,
+        "name": "Lunite Subscription (15 days)",
+        "image": "IconA/T_IconA_yk_02_UI.png"
+    },
+    "dataset": {
+        "id": 11,
+        "name": "Data Set",
+        "image": "IconRup/T_IconRup_B1_UI.png"
+    },
+    "morphableoverlordclassecho": {
+        "id": 50000084,
+        "name": "Morphable Overlord Class Echo",
+        "image": "IconA/T_IconA_shzxlb_02_UI.png"
+    },
+    "morphableeliteclassecho": {
+        "id": 50000085,
+        "name": "Morphable Elite Class Echo",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "morphablecommonclassecho": {
+        "id": 50000086,
+        "name": "Morphable Common Class Echo",
+        "image": "IconA/T_IconA_shzxlb_04_UI.png"
+    },
+    "pioneerpodcastweaponchest": {
+        "id": 50000164,
+        "name": "Pioneer Podcast Weapon Chest",
+        "image": "IconGiftPack/T_IconGiftPack_003_UI.png"
+    },
+    "pioneerassociationbasicsupply": {
+        "id": 50000165,
+        "name": "Pioneer Association Basic Supply",
+        "image": "IconGiftPack/T_IconGiftPack_004_UI.png"
+    },
+    "pioneerassociationmediumsupply": {
+        "id": 50000166,
+        "name": "Pioneer Association Medium Supply",
+        "image": "IconGiftPack/T_IconGiftPack_004_UI.png"
+    },
+    "pioneerassociationadvancedsupply": {
+        "id": 50000167,
+        "name": "Pioneer Association Advanced Supply",
+        "image": "IconGiftPack/T_IconGiftPack_005_UI.png"
+    },
+    "pioneerassociationpremiumsupply": {
+        "id": 50000168,
+        "name": "Pioneer Association Premium Supply",
+        "image": "IconGiftPack/T_IconGiftPack_006_UI.png"
+    },
+    "hazardrecord": {
+        "id": 12,
+        "name": "Hazard Record",
+        "image": "IconRup/T_IconRup_B2_UI.png"
+    },
+    "recordfragment": {
+        "id": 70050024,
+        "name": "Record Fragment",
+        "image": "IconTask/T_IconTask_Task_055_UI.png"
+    },
+    "sheetmusicfragment": {
+        "id": 70050025,
+        "name": "Sheet Music Fragment",
+        "image": "IconTask/T_IconTask_Task_056_UI.png"
+    },
+    "grandlibraryroutemap": {
+        "id": 70139300,
+        "name": "Grand Library Route Map",
+        "image": "IconTask/T_IconTask_Task_042_UI.png"
+    },
+    "woodenplaque:left": {
+        "id": 70139301,
+        "name": "Wooden Plaque: Left",
+        "image": "IconTask/T_IconTask_Task_039_UI.png"
+    },
+    "woodenplaque:right": {
+        "id": 70139302,
+        "name": "Wooden Plaque: Right",
+        "image": "IconTask/T_IconTask_Task_040_UI.png"
+    },
+    "restoredwoodenplaque": {
+        "id": 70139303,
+        "name": "Restored Wooden Plaque",
+        "image": "IconTask/T_IconTask_Task_038_UI.png"
+    },
+    "adiary": {
+        "id": 70139304,
+        "name": "A Diary",
+        "image": "IconTask/T_IconTask_Task_031_UI.png"
+    },
+    "blackfruit": {
+        "id": 70139305,
+        "name": "Black Fruit",
+        "image": "IconTask/T_IconTask_Task_026_UI.png"
+    },
+    "leaf": {
+        "id": 70139307,
+        "name": "Leaf",
+        "image": "IconTask/T_IconTask_Task_050_UI.png"
+    },
+    "leafaffectedby\"waveworn\"": {
+        "id": 70139308,
+        "name": "Leaf affected by \"Waveworn\"",
+        "image": "IconTask/T_IconTask_Task_050_UI.png"
+    },
+    "smalldevice": {
+        "id": 70139309,
+        "name": "Small Device",
+        "image": "IconTask/T_IconTask_Task_035_UI.png"
+    },
+    "theunlockedsundial": {
+        "id": 70139311,
+        "name": "The Unlocked Sundial",
+        "image": "IconTask/T_IconTask_Task_037_UI.png"
+    },
+    "sugarpearl": {
+        "id": 70139313,
+        "name": "Sugar Pearl",
+        "image": "IconTask/T_IconTask_Task_030_UI.png"
+    },
+    "candy": {
+        "id": 70139314,
+        "name": "Candy",
+        "image": "IconTask/T_IconTask_Task_067_UI.png"
+    },
+    "archive:tacetdiscord": {
+        "id": 70139315,
+        "name": "Archive: Tacet Discord",
+        "image": "IconTask/T_IconTask_Task_033_UI.png"
+    },
+    "archive:huaxuacademy,jinzhoucampus": {
+        "id": 70139316,
+        "name": "Archive: Huaxu Academy, Jinzhou Campus",
+        "image": "IconTask/T_IconTask_Task_033_UI.png"
+    },
+    "archive:sugarpearlvaccineandtacetdiscordoutbreak": {
+        "id": 70139317,
+        "name": "Archive: Sugar Pearl Vaccine and Tacet Discord Outbreak",
+        "image": "IconTask/T_IconTask_Task_033_UI.png"
+    },
+    "archive:\"thefirstresonator\"": {
+        "id": 70139318,
+        "name": "Archive: \"The First Resonator\"",
+        "image": "IconTask/T_IconTask_Task_033_UI.png"
+    },
+    "pioneerassociationsigilsupply": {
+        "id": 50000169,
+        "name": "Pioneer Association Sigil Supply",
+        "image": "IconGiftPack/T_IconGiftPack_005_UI.png"
+    },
+    "ginkgo:syntonizesupply": {
+        "id": 50000170,
+        "name": "Ginkgo: Syntonize Supply",
+        "image": "IconGiftPack/T_IconGiftPack_003_UI.png"
+    },
+    "forgingtide": {
+        "id": 50005,
+        "name": "Forging Tide",
+        "image": "IconA/T_IconA_jzmy_01_UI.png"
+    },
+    "yellowedsketch": {
+        "id": 70139319,
+        "name": "Yellowed Sketch",
+        "image": "IconTask/T_IconTask_Task_061_UI.png"
+    },
+    "peculiarblakebloom": {
+        "id": 70139320,
+        "name": "Peculiar Blake Bloom",
+        "image": "IconTask/T_IconTask_Task_049_UI.png"
+    },
+    "originiteweaponsupplychest": {
+        "id": 50000105,
+        "name": "Originite Weapon Supply Chest",
+        "image": "IconGiftPack/T_IconGiftPack_012_UI.png"
+    },
+    "standardweaponmold": {
+        "id": 42500070,
+        "name": "Standard Weapon Mold",
+        "image": "IconCook/T_IconCook_YJ_040_UI.png"
+    },
+    "happinesstea": {
+        "id": 80000032,
+        "name": "Happiness Tea",
+        "image": "IconCook/T_IconCook_034_UI.png"
+    },
+    "arecipethatdetailshowtomakehappinesstea.": {
+        "id": 80010032,
+        "name": "A recipe that details how to make Happiness Tea.",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "liondancecompanion": {
+        "id": 80001000,
+        "name": "Liondance Companion",
+        "image": "IconCook/T_IconCook_SP_14_UI.png"
+    },
+    "icedperilla": {
+        "id": 80001002,
+        "name": "Iced Perilla",
+        "image": "IconCook/T_IconCook_SP_01_UI.png"
+    },
+    "silkyreveries": {
+        "id": 80001004,
+        "name": "Silky Reveries",
+        "image": "IconCook/T_IconCook_SP_08_UI.png"
+    },
+    "rationbar": {
+        "id": 80001005,
+        "name": "Ration Bar",
+        "image": "IconCook/T_IconCook_SP_12_UI.png"
+    },
+    "sanqingtea": {
+        "id": 80001008,
+        "name": "Sanqing Tea",
+        "image": "IconCook/T_IconCook_SP_13_UI.png"
+    },
+    "crystalclearbuns": {
+        "id": 80001012,
+        "name": "Crystal Clear Buns",
+        "image": "IconCook/T_IconCook_SP_10_UI.png"
+    },
+    "yesterdayinjinzhou": {
+        "id": 80001014,
+        "name": "Yesterday in Jinzhou",
+        "image": "IconCook/T_IconCook_SP_02_UI.png"
+    },
+    "fluffywuthercake": {
+        "id": 80001016,
+        "name": "Fluffy Wuthercake",
+        "image": "IconCook/T_IconCook_SP_03_UI.png"
+    },
+    "goldenfriedrice": {
+        "id": 80001017,
+        "name": "Golden Fried Rice",
+        "image": "IconCook/T_IconCook_SP_11_UI.png"
+    },
+    "floralporridge": {
+        "id": 80001020,
+        "name": "Floral Porridge",
+        "image": "IconCook/T_IconCook_SP_09_UI.png"
+    },
+    "baabaacrisp": {
+        "id": 80001021,
+        "name": "Baa Baa Crisp",
+        "image": "IconCook/T_IconCook_SP_16_UI.png"
+    },
+    "lotusseedsoup": {
+        "id": 80001023,
+        "name": "Lotus Seed Soup",
+        "image": "IconCook/T_IconCook_SP_15_UI.png"
+    },
+    "smokedpigeon": {
+        "id": 80001024,
+        "name": "Smoked Pigeon",
+        "image": "IconCook/T_IconCook_SP_07_UI.png"
+    },
+    "championhotpot": {
+        "id": 80001025,
+        "name": "Champion Hotpot",
+        "image": "IconCook/T_IconCook_SP_04_UI.png"
+    },
+    "greenfieldpot": {
+        "id": 80001029,
+        "name": "Green Field Pot",
+        "image": "IconCook/T_IconCook_SP_06_UI.png"
+    },
+    "mistytea": {
+        "id": 80001032,
+        "name": "Misty Tea",
+        "image": "IconCook/T_IconCook_SP_05_UI.png"
+    },
+    "fusionresistancespray": {
+        "id": 42100001,
+        "name": "Fusion Resistance Spray",
+        "image": "IconCook/T_IconCook_YJ_001_UI.png"
+    },
+    "aeroresistancespray": {
+        "id": 42100002,
+        "name": "Aero Resistance Spray",
+        "image": "IconCook/T_IconCook_YJ_006_UI.png"
+    },
+    "electroresistancespray": {
+        "id": 42100003,
+        "name": "Electro Resistance Spray",
+        "image": "IconCook/T_IconCook_YJ_005_UI.png"
+    },
+    "glacioresistancespray": {
+        "id": 42100004,
+        "name": "Glacio Resistance Spray",
+        "image": "IconCook/T_IconCook_YJ_004_UI.png"
+    },
+    "spectroresistancespray": {
+        "id": 42100005,
+        "name": "Spectro Resistance Spray",
+        "image": "IconCook/T_IconCook_YJ_002_UI.png"
+    },
+    "havocresistancespray": {
+        "id": 42100006,
+        "name": "Havoc Resistance Spray",
+        "image": "IconCook/T_IconCook_YJ_003_UI.png"
+    },
+    "fusionpetrol": {
+        "id": 42100007,
+        "name": "Fusion Petrol",
+        "image": "IconCook/T_IconCook_YJ_007_UI.png"
+    },
+    "aeropetrol": {
+        "id": 42100008,
+        "name": "Aero Petrol",
+        "image": "IconCook/T_IconCook_YJ_012_UI.png"
+    },
+    "electropetrol": {
+        "id": 42100009,
+        "name": "Electro Petrol",
+        "image": "IconCook/T_IconCook_YJ_011_UI.png"
+    },
+    "glaciopetrol": {
+        "id": 42100010,
+        "name": "Glacio Petrol",
+        "image": "IconCook/T_IconCook_YJ_010_UI.png"
+    },
+    "spectropetrol": {
+        "id": 42100011,
+        "name": "Spectro Petrol",
+        "image": "IconCook/T_IconCook_YJ_008_UI.png"
+    },
+    "havocpetrol": {
+        "id": 42100012,
+        "name": "Havoc Petrol",
+        "image": "IconCook/T_IconCook_YJ_009_UI.png"
+    },
+    "basicrevivalinhaler": {
+        "id": 42100013,
+        "name": "Basic Revival Inhaler",
+        "image": "IconCook/T_IconCook_YJ_013_UI.png"
+    },
+    "mediumrevivalinhaler": {
+        "id": 42100014,
+        "name": "Medium Revival Inhaler",
+        "image": "IconCook/T_IconCook_YJ_014_UI.png"
+    },
+    "advancedrevivalinhaler": {
+        "id": 42100015,
+        "name": "Advanced Revival Inhaler",
+        "image": "IconCook/T_IconCook_YJ_015_UI.png"
+    },
+    "premiumrevivalinhaler": {
+        "id": 42100016,
+        "name": "Premium Revival Inhaler",
+        "image": "IconCook/T_IconCook_YJ_016_UI.png"
+    },
+    "basicnutrientblock": {
+        "id": 42100017,
+        "name": "Basic Nutrient Block",
+        "image": "IconCook/T_IconCook_YJ_017_UI.png"
+    },
+    "mediumnutrientblock": {
+        "id": 42100018,
+        "name": "Medium Nutrient Block",
+        "image": "IconCook/T_IconCook_YJ_018_UI.png"
+    },
+    "advancednutrientblock": {
+        "id": 42100019,
+        "name": "Advanced Nutrient Block",
+        "image": "IconCook/T_IconCook_YJ_019_UI.png"
+    },
+    "premiumnutrientblock": {
+        "id": 42100021,
+        "name": "Premium Nutrient Block",
+        "image": "IconCook/T_IconCook_YJ_020_UI.png"
+    },
+    "basicenergybag": {
+        "id": 42100022,
+        "name": "Basic Energy Bag",
+        "image": "IconCook/T_IconCook_YJ_021_UI.png"
+    },
+    "mediumenergybag": {
+        "id": 42100023,
+        "name": "Medium Energy Bag",
+        "image": "IconCook/T_IconCook_YJ_022_UI.png"
+    },
+    "advancedenergybag": {
+        "id": 42100024,
+        "name": "Advanced Energy Bag",
+        "image": "IconCook/T_IconCook_YJ_023_UI.png"
+    },
+    "premiumenergybag": {
+        "id": 42100025,
+        "name": "Premium Energy Bag",
+        "image": "IconCook/T_IconCook_YJ_024_UI.png"
+    },
+    "supersonicsolvent": {
+        "id": 42100026,
+        "name": "Supersonic Solvent",
+        "image": "IconCook/T_IconCook_YJ_025_UI.png"
+    },
+    "trainersolvent": {
+        "id": 42100027,
+        "name": "Trainer Solvent",
+        "image": "IconCook/T_IconCook_YJ_026_UI.png"
+    },
+    "stringsolvent": {
+        "id": 42100028,
+        "name": "String Solvent",
+        "image": "IconCook/T_IconCook_YJ_027_UI.png"
+    },
+    "drummersolvent": {
+        "id": 42100029,
+        "name": "Drummer Solvent",
+        "image": "IconCook/T_IconCook_YJ_028_UI.png"
+    },
+    "potionno.5": {
+        "id": 42100031,
+        "name": "Potion No. 5",
+        "image": "IconC/T_IconC_Com_002_1_UI.png"
+    },
+    "moraletablets": {
+        "id": 42100032,
+        "name": "Morale Tablets",
+        "image": "IconCook/T_IconCook_YJ_029_UI.png"
+    },
+    "harmonytablets": {
+        "id": 42100033,
+        "name": "Harmony Tablets",
+        "image": "IconCook/T_IconCook_YJ_029_UI.png"
+    },
+    "passiontablets": {
+        "id": 42100034,
+        "name": "Passion Tablets",
+        "image": "IconCook/T_IconCook_YJ_030_UI.png"
+    },
+    "vigortablets": {
+        "id": 42100035,
+        "name": "Vigor Tablets",
+        "image": "IconCook/T_IconCook_YJ_030_UI.png"
+    },
+    "morphableecho": {
+        "id": 50000087,
+        "name": "Morphable Echo",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "5-starweaponsupplychest": {
+        "id": 50000171,
+        "name": "5-star Weapon Supply Chest",
+        "image": "IconGiftPack/T_IconGiftPack_014_UI.png"
+    },
+    "gildedginkgo": {
+        "id": 42500080,
+        "name": "Gilded Ginkgo",
+        "image": "IconWup/T_IconWup_017_UI.png"
+    },
+    "obscurerecipe": {
+        "id": 70010069,
+        "name": "Obscure Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "mahespecialingredientpack": {
+        "id": 70010070,
+        "name": "Mahe Special Ingredient Pack",
+        "image": "IconTask/T_IconTask_Task_007_1_UI.png"
+    },
+    "koko'sspecial\"luohanclearwater\"": {
+        "id": 70010071,
+        "name": "Koko's special \"Luohan Clearwater\"",
+        "image": "IconCook/T_IconCook_007_UI.png"
+    },
+    "traveler'sexpaid": {
+        "id": 51001,
+        "name": "Traveler's EXP Aid",
+        "image": "IconGiftPack/T_IconGiftPack_007_UI.png"
+    },
+    "sage'sexpsupport": {
+        "id": 51002,
+        "name": "Sage's EXP Support",
+        "image": "IconGiftPack/T_IconGiftPack_008_UI.png"
+    },
+    "gardener'said": {
+        "id": 51003,
+        "name": "Gardener's Aid",
+        "image": "IconGiftPack/T_IconGiftPack_009_UI.png"
+    },
+    "blakebloom'said": {
+        "id": 51004,
+        "name": "Blake Bloom's Aid",
+        "image": "IconGiftPack/T_IconGiftPack_010_UI.png"
+    },
+    "blakebloom'sdataaid": {
+        "id": 51005,
+        "name": "Blake Bloom's Data Aid",
+        "image": "IconGiftPack/T_IconGiftPack_011_UI.png"
+    },
+    "abandoneddatachipfromnorfallbarrens": {
+        "id": 72010001,
+        "name": "Abandoned Data Chip from Norfall Barrens",
+        "image": "IconTask/T_IconTask_Task_051_UI.png"
+    },
+    "tornpagesfromportcityofguixu": {
+        "id": 72010002,
+        "name": "Torn pages from Port City of Guixu",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromgorgesofspirits": {
+        "id": 72010003,
+        "name": "Torn pages from Gorges of Spirits",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromcentralplains": {
+        "id": 72010004,
+        "name": "Torn pages from Central Plains",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "abandoneddatachipfromwhiningaix'smire": {
+        "id": 72010005,
+        "name": "Abandoned Data Chip from Whining Aix's Mire",
+        "image": "IconTask/T_IconTask_Task_051_UI.png"
+    },
+    "tornpagesfromdesorockhighland": {
+        "id": 72010006,
+        "name": "Torn pages from Desorock Highland",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "abandoneddatachipfromtiger'smaw": {
+        "id": 72010007,
+        "name": "Abandoned Data Chip from Tiger's Maw",
+        "image": "IconTask/T_IconTask_Task_051_UI.png"
+    },
+    "aircraftaccidentreport": {
+        "id": 72010008,
+        "name": "Aircraft Accident Report",
+        "image": "IconA/T_IconA_pad_UI.png"
+    },
+    "astheexpressthroughtherain": {
+        "id": 72010009,
+        "name": "As the Express through the Rain",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "jinzhoufolklorejournal": {
+        "id": 72010010,
+        "name": "Jinzhou Folklore Journal",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "studyonmythicalbeastsinhuanglong": {
+        "id": 72010011,
+        "name": "Study on Mythical Beasts in Huanglong",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "lo,lo,lollologistics!": {
+        "id": 72010012,
+        "name": "Lo, Lo, Lollo Logistics!",
+        "image": "IconA/T_IconA_pad_UI.png"
+    },
+    "untitledfamilyletters": {
+        "id": 72010013,
+        "name": "Untitled Family Letters",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "strangemessages": {
+        "id": 72010014,
+        "name": "Strange Messages",
+        "image": "IconA/T_IconA_pad_UI.png"
+    },
+    "dimforestdata": {
+        "id": 72010015,
+        "name": "Dim Forest Data",
+        "image": "IconTask/T_IconTask_Task_051_UI.png"
+    },
+    "dimforestsurveyteamdiary": {
+        "id": 72010016,
+        "name": "Dim Forest Survey Team Diary",
+        "image": "IconA/T_IconA_pad_UI.png"
+    },
+    "spectroresistancesprayrecipe": {
+        "id": 42200001,
+        "name": "Spectro Resistance Spray Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "havocresistancesprayrecipe": {
+        "id": 42200002,
+        "name": "Havoc Resistance Spray Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "fusionresistancesprayrecipe": {
+        "id": 42200003,
+        "name": "Fusion Resistance Spray Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "glacioresistancesprayrecipe": {
+        "id": 42200004,
+        "name": "Glacio Resistance Spray Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "aeroresistancesprayrecipe": {
+        "id": 42200005,
+        "name": "Aero Resistance Spray Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "electroresistancesprayrecipe": {
+        "id": 42200006,
+        "name": "Electro Resistance Spray Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "spectropetrolrecipe": {
+        "id": 42200007,
+        "name": "Spectro Petrol Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "havocpetrolrecipe": {
+        "id": 42200008,
+        "name": "Havoc Petrol Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "fusionpetrolrecipe": {
+        "id": 42200009,
+        "name": "Fusion Petrol Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "glaciopetrolrecipe": {
+        "id": 42200010,
+        "name": "Glacio Petrol Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "aeropetrolrecipe": {
+        "id": 42200011,
+        "name": "Aero Petrol Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "electropetrolrecipe": {
+        "id": 42200012,
+        "name": "Electro Petrol Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "basicrevivalinhalerrecipe": {
+        "id": 42200013,
+        "name": "Basic Revival Inhaler Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "mediumrevivalinhalerrecipe": {
+        "id": 42200014,
+        "name": "Medium Revival Inhaler Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "advancedrevivalinhalerrecipe": {
+        "id": 42200015,
+        "name": "Advanced Revival Inhaler Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "premiumrevivalinhalerrecipe": {
+        "id": 42200016,
+        "name": "Premium Revival Inhaler Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "basicnutrientblockformula": {
+        "id": 42200017,
+        "name": "Basic Nutrient Block Formula",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "mediumnutrientblockformula": {
+        "id": 42200018,
+        "name": "Medium Nutrient Block Formula",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "advancednutrientblockformula": {
+        "id": 42200019,
+        "name": "Advanced Nutrient Block Formula",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "premiumnutrientblockformula": {
+        "id": 42200021,
+        "name": "Premium Nutrient Block Formula",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "basicenergybagrecipe": {
+        "id": 42200022,
+        "name": "Basic Energy Bag Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "mediumenergybagrecipe": {
+        "id": 42200023,
+        "name": "Medium Energy Bag Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "advancedenergybagrecipe": {
+        "id": 42200024,
+        "name": "Advanced Energy Bag Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "premiumenergybagrecipe": {
+        "id": 42200025,
+        "name": "Premium Energy Bag Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "supersonicsolventrecipe": {
+        "id": 42200026,
+        "name": "Supersonic Solvent Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "trainersolventrecipe": {
+        "id": 42200027,
+        "name": "Trainer Solvent Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "stringsolventrecipe": {
+        "id": 42200028,
+        "name": "String Solvent Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "drummersolventrecipe": {
+        "id": 42200029,
+        "name": "Drummer Solvent Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "potionno.5recipe": {
+        "id": 42200031,
+        "name": "Potion No.5 Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "moraletabletsrecipe": {
+        "id": 42200032,
+        "name": "Morale Tablets Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "harmonytabletsrecipe": {
+        "id": 42200033,
+        "name": "Harmony Tablets Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "passiontabletsrecipe": {
+        "id": 42200034,
+        "name": "Passion Tablets Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "vigortabletsrecipe": {
+        "id": 42200035,
+        "name": "Vigor Tablets Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "basefluid": {
+        "id": 80021001,
+        "name": "Base Fluid",
+        "image": "IconCook/T_IconCook_YJ_032_UI.png"
+    },
+    "fluidcatalyst": {
+        "id": 80021002,
+        "name": "Fluid Catalyst",
+        "image": "IconCook/T_IconCook_YJ_033_UI.png"
+    },
+    "strongfluidcatalyst": {
+        "id": 80021003,
+        "name": "Strong Fluid Catalyst",
+        "image": "IconCook/T_IconCook_YJ_034_UI.png"
+    },
+    "fluidstabilizer": {
+        "id": 80021004,
+        "name": "Fluid Stabilizer",
+        "image": "IconCook/T_IconCook_YJ_035_UI.png"
+    },
+    "strongfluidstabilizer": {
+        "id": 80021005,
+        "name": "Strong Fluid Stabilizer",
+        "image": "IconCook/T_IconCook_YJ_036_UI.png"
+    },
+    "premiumincenseoil": {
+        "id": 80021006,
+        "name": "Premium Incense Oil",
+        "image": "IconCook/T_IconCook_YJ_037_UI.png"
+    },
+    "premiumgoldincenseoil": {
+        "id": 80021007,
+        "name": "Premium Gold Incense Oil",
+        "image": "IconCook/T_IconCook_YJ_038_UI.png"
+    },
+    "malleableeliteclassechoi": {
+        "id": 50000088,
+        "name": "Malleable Elite Class Echo I",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "malleableeliteclassechoii": {
+        "id": 50000089,
+        "name": "Malleable Elite Class Echo II",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "surveypoints": {
+        "id": 13,
+        "name": "Survey Points",
+        "image": "IconA/T_IconA_currency_6_UI.png"
+    },
+    "rangers'seriesweaponsupplychest": {
+        "id": 50000172,
+        "name": "Rangers' Series Weapon Supply Chest",
+        "image": "IconGiftPack/T_IconGiftPack_012_UI.png"
+    },
+    "loong'spearl": {
+        "id": 42310210,
+        "name": "Loong's Pearl",
+        "image": "IconC/T_IconC_030_UI.png"
+    },
+    "silverlotus": {
+        "id": 42310220,
+        "name": "Silver Lotus",
+        "image": "IconC/T_IconC_031_UI.png"
+    },
+    "fluorite": {
+        "id": 42500090,
+        "name": "Fluorite",
+        "image": "IconC/T_IconC_032_UI.png"
+    },
+    "windchimer": {
+        "id": 40040002,
+        "name": "Windchimer",
+        "image": "IconMst/T_IconMst_007_UI.png"
+    },
+    "chronosign": {
+        "id": 70139323,
+        "name": "Chrono Sign",
+        "image": "IconTask/T_IconTask_Task_069_UI.png"
+    },
+    "storiesofguqin": {
+        "id": 70139324,
+        "name": "Stories of Guqin",
+        "image": "IconTask/T_IconTask_Task_070_UI.png"
+    },
+    "cipherkey": {
+        "id": 70139325,
+        "name": "Cipher Key",
+        "image": "IconTask/T_IconTask_Task_073_UI.png"
+    },
+    "preparationcredits": {
+        "id": 14,
+        "name": "Preparation Credits",
+        "image": "IconA/T_IconA_Act_ChasingMoon02_UI.png"
+    },
+    "operationfund": {
+        "id": 15,
+        "name": "Operation Fund",
+        "image": "IconA/T_IconA_Act_ChasingMoon04_UI.png"
+    },
+    "wish": {
+        "id": 16,
+        "name": "Wish",
+        "image": "IconA/T_IconA_Act_ChasingMoon07_UI.png"
+    },
+    "popularity": {
+        "id": 43,
+        "name": "Popularity",
+        "image": "IconA/T_IconA_Act_Racehorse01_UI.png"
+    },
+    "palacelantern": {
+        "id": 18,
+        "name": "Palace Lantern",
+        "image": "IconA/T_IconA_Act_ChasingMoon08_UI.png"
+    },
+    "ashendream": {
+        "id": 71030001,
+        "name": "Ashen Dream",
+        "image": "IconA/T_IconA_Act_02_UI.png"
+    },
+    "lotuspastry": {
+        "id": 80000033,
+        "name": "Lotus Pastry",
+        "image": "IconCook/T_IconCook_038_UI.png"
+    },
+    "spicymeatwithpavoplums": {
+        "id": 80000034,
+        "name": "Spicy Meat with Pavo Plums",
+        "image": "IconCook/T_IconCook_039_UI.png"
+    },
+    "springpastry": {
+        "id": 80001033,
+        "name": "Spring Pastry",
+        "image": "IconCook/T_IconCook_040_UI.png"
+    },
+    "blazingfeatherspicymeat": {
+        "id": 80001034,
+        "name": "Blazing Feather Spicy Meat",
+        "image": "IconCook/T_IconCook_041_UI.png"
+    },
+    "recipe:lotuspastry": {
+        "id": 80010033,
+        "name": "Recipe: Lotus Pastry",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "recipe:spicymeatwithpavoplums": {
+        "id": 80010034,
+        "name": "Recipe: Spicy Meat with Pavo Plums",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "lollostamp": {
+        "id": 19,
+        "name": "Lollo Stamp",
+        "image": "IconA/T_IconA_Act_01_UI.png"
+    },
+    "jinhsi'swaveband": {
+        "id": 10001304,
+        "name": "Jinhsi's Waveband",
+        "image": "IconRup/T_IconRup_Part_1607_UI.png"
+    },
+    "changli'swaveband": {
+        "id": 10001205,
+        "name": "Changli's Waveband",
+        "image": "IconRup/T_IconRup_Part_1608_UI.png"
+    },
+    "sentinel'sdagger": {
+        "id": 41400144,
+        "name": "Sentinel's Dagger",
+        "image": "IconMout/T_IconMout_005_UI.png"
+    },
+    "glazedlamp": {
+        "id": 70139329,
+        "name": "Glazed Lamp",
+        "image": "IconTask/T_IconTask_Task_072_UI.png"
+    },
+    "changli'sletter": {
+        "id": 70139326,
+        "name": "Changli's Letter",
+        "image": "IconTask/T_IconTask_Task_071_UI.png"
+    },
+    "featherpendant": {
+        "id": 70139327,
+        "name": "Feather Pendant",
+        "image": "IconTask/T_IconTask_Task_074_UI.png"
+    },
+    "flamefeatherpendant": {
+        "id": 70139328,
+        "name": "Flame Feather Pendant",
+        "image": "IconTask/T_IconTask_Task_074_UI.png"
+    },
+    "tracescale": {
+        "id": 70140004,
+        "name": "Trace Scale",
+        "image": "IconTask/T_IconTask_Task_075_UI.png"
+    },
+    "pavoplumsample": {
+        "id": 70139330,
+        "name": "Pavo Plum Sample",
+        "image": "IconC/T_IconC_029_UI.png"
+    },
+    "thesecondcomingofsolarisin-gameredemptioncode.": {
+        "id": 70010073,
+        "name": "The Second Coming of Solaris in-game redemption code.",
+        "image": "IconA/T_IconA_Act_ChasingMoon01_UI.png"
+    },
+    "nova": {
+        "id": 42310230,
+        "name": "Nova",
+        "image": "IconTask/T_IconTask_Task_084_UI.png"
+    },
+    "seaflytrap": {
+        "id": 42310240,
+        "name": "Sea Flytrap",
+        "image": "IconTask/T_IconTask_Task_085_UI.png"
+    },
+    "waveplatecrystal": {
+        "id": 6,
+        "name": "Waveplate Crystal",
+        "image": "IconA/T_IconA_yml_02_UI.png"
+    },
+    "activatedchronosign": {
+        "id": 70139331,
+        "name": "Activated Chrono Sign",
+        "image": "IconTask/T_IconTask_Task_069_UI.png"
+    },
+    "tidenote": {
+        "id": 20,
+        "name": "Tide Note",
+        "image": "IconA/T_IconA_Circumfluence01_UI.png"
+    },
+    "dreamfragment": {
+        "id": 23,
+        "name": "Dream Fragment",
+        "image": "IconA/T_IconA_Act_01_UI.png"
+    },
+    "voucherofreciprocaltides": {
+        "id": 50006,
+        "name": "Voucher of Reciprocal Tides",
+        "image": "IconA/T_IconA_jzmy_02_UI.png"
+    },
+    "phantom:impermanenceheron": {
+        "id": 44010029,
+        "name": "Phantom: Impermanence Heron",
+        "image": "IconMonsterHead/T_IconMonsterHead_1014_UI.png"
+    },
+    "xiangliyao'swaveband": {
+        "id": 10001305,
+        "name": "Xiangli Yao's Waveband",
+        "image": "IconRup/T_IconRup_Part_1610_UI.png"
+    },
+    "zhezhi'swaveband": {
+        "id": 10001105,
+        "name": "Zhezhi's Waveband",
+        "image": "IconRup/T_IconRup_Part_1609_UI.png"
+    },
+    "skyshaker": {
+        "id": 70140025,
+        "name": "Skyshaker",
+        "image": "IconA/T_IconA_Act_ChasingMoon03_UI.png"
+    },
+    "thepresent": {
+        "id": 70140022,
+        "name": "The Present",
+        "image": "IconA/T_IconA_Act_ChasingMoon01_UI.png"
+    },
+    "magisterialradiantaid": {
+        "id": 51006,
+        "name": "Magisterial Radiant Aid",
+        "image": "IconGiftPack/T_IconGiftPack_dj_12_UI.png"
+    },
+    "magisterialforgingaid": {
+        "id": 51007,
+        "name": "Magisterial Forging Aid",
+        "image": "IconGiftPack/T_IconGiftPack_dj_13_UI.png"
+    },
+    "huanglongomelette": {
+        "id": 80000035,
+        "name": "Huanglong Omelette",
+        "image": "IconCook/T_IconCook_042_UI.png"
+    },
+    "plumpcake": {
+        "id": 80000036,
+        "name": "Plumpcake",
+        "image": "IconA/T_IconA_Act_ChasingMoon06_UI.png"
+    },
+    "moonpearl": {
+        "id": 80000037,
+        "name": "Moon Pearl",
+        "image": "IconCook/T_IconCook_046_UI.png"
+    },
+    "moonbrew": {
+        "id": 80000038,
+        "name": "Moon Brew",
+        "image": "IconCook/T_IconCook_045_UI.png"
+    },
+    "vegeomelette": {
+        "id": 80001035,
+        "name": "Vege Omelette",
+        "image": "IconCook/T_IconCook_043_UI.png"
+    },
+    "sweetstuffedflatbread": {
+        "id": 80001001,
+        "name": "Sweet Stuffed Flatbread",
+        "image": "IconCook/T_IconCook_044_UI.png"
+    },
+    "huanglongomeletterecipe": {
+        "id": 80010035,
+        "name": "Huanglong Omelette Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "plumpcakerecipe": {
+        "id": 80010036,
+        "name": "Plumpcake Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "moonpearlrecipe": {
+        "id": 80010037,
+        "name": "Moon Pearl Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "moonbrewrecipe": {
+        "id": 80010038,
+        "name": "Moon Brew Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "serenityofxiehuavillage": {
+        "id": 70140026,
+        "name": "Serenity of Xiehua Village",
+        "image": "IconTask/T_IconTask_Task_078_UI.png"
+    },
+    "phantom:dreamless": {
+        "id": 44010030,
+        "name": "Phantom: Dreamless",
+        "image": "IconMonsterHead/T_IconMonsterHead_998_1_UI.png"
+    },
+    "youhu'swaveband": {
+        "id": 10001106,
+        "name": "Youhu's Waveband",
+        "image": "IconRup/T_IconRup_Part_1612_UI.png"
+    },
+    "theshorekeeper'swaveband": {
+        "id": 10001505,
+        "name": "The Shorekeeper's Waveband",
+        "image": "IconRup/T_IconRup_Part_1611_UI.png"
+    },
+    "topologicalconfinement": {
+        "id": 41400154,
+        "name": "Topological Confinement",
+        "image": "IconMout/T_IconMout_L_015_UI.png"
+    },
+    "investigationreportonthequick-accessportalsontheblackshores": {
+        "id": 70050027,
+        "name": "Investigation Report on the Quick-Access Portals on the Black Shores",
+        "image": "IconTask/T_IconTask_Task_033_UI.png"
+    },
+    "blakebloom'sradiantaid": {
+        "id": 51008,
+        "name": "Blake Bloom's Radiant Aid",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "blakebloom'sforgingaid": {
+        "id": 51009,
+        "name": "Blake Bloom's Forging Aid",
+        "image": "IconGiftPack/T_IconGiftPack_dj_18_UI.png"
+    },
+    "swordofatrocity": {
+        "id": 70050040,
+        "name": "Sword of Atrocity",
+        "image": "IconTask/T_IconTask_Task_113_UI.png"
+    },
+    "swordofgreed": {
+        "id": 70050041,
+        "name": "Sword of Greed",
+        "image": "IconTask/T_IconTask_Task_113_UI.png"
+    },
+    "swordofignorance": {
+        "id": 70050042,
+        "name": "Sword of Ignorance",
+        "image": "IconTask/T_IconTask_Task_113_UI.png"
+    },
+    "swordofvanity": {
+        "id": 70050043,
+        "name": "Sword of Vanity",
+        "image": "IconTask/T_IconTask_Task_113_UI.png"
+    },
+    "swordofcowardice": {
+        "id": 70050044,
+        "name": "Sword of Cowardice",
+        "image": "IconTask/T_IconTask_Task_113_UI.png"
+    },
+    "dreamofchaos": {
+        "id": 71030002,
+        "name": "Dream of Chaos",
+        "image": "IconTask/T_IconTask_Task_082_UI.png"
+    },
+    "theunworthydreams": {
+        "id": 71030003,
+        "name": "The Unworthy Dreams",
+        "image": "IconTask/T_IconTask_Task_083_UI.png"
+    },
+    "datalogofblackshoresstaffforum": {
+        "id": 70050028,
+        "name": "Data Log of Black Shores Staff Forum",
+        "image": "IconTask/T_IconTask_Task_033_UI.png"
+    },
+    "ku-casscartridge": {
+        "id": 40040003,
+        "name": "KU-Cass Cartridge",
+        "image": "IconA/T_IconA_Tape_UI.png"
+    },
+    "forgerybasicsupply": {
+        "id": 50000301,
+        "name": "Forgery Basic Supply",
+        "image": "IconGiftPack/T_IconGiftPack_015_UI.png"
+    },
+    "forgerymediumsupply": {
+        "id": 50000302,
+        "name": "Forgery Medium Supply",
+        "image": "IconGiftPack/T_IconGiftPack_016_UI.png"
+    },
+    "forgeryadvancedsupply": {
+        "id": 50000303,
+        "name": "Forgery Advanced Supply",
+        "image": "IconGiftPack/T_IconGiftPack_017_UI.png"
+    },
+    "forgerypremiumsupply": {
+        "id": 50000304,
+        "name": "Forgery Premium Supply",
+        "image": "IconGiftPack/T_IconGiftPack_018_UI.png"
+    },
+    "fisher'schowder": {
+        "id": 80000039,
+        "name": "Fisher's Chowder",
+        "image": "IconCook/T_IconCook_047_UI.png"
+    },
+    "honeysucklecake": {
+        "id": 80000040,
+        "name": "Honeysuckle Cake",
+        "image": "IconCook/T_IconCook_049_UI.png"
+    },
+    "creamyclouds": {
+        "id": 80001039,
+        "name": "Creamy Clouds",
+        "image": "IconCook/T_IconCook_051_UI.png"
+    },
+    "frostworkcake": {
+        "id": 80001040,
+        "name": "Frostwork Cake",
+        "image": "IconCook/T_IconCook_050_UI.png"
+    },
+    "fisher'schowderrecipe": {
+        "id": 80010039,
+        "name": "Fisher's Chowder Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "honeysucklecakerecipe": {
+        "id": 80010040,
+        "name": "Honeysuckle Cake Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "theforgottenblakebloom": {
+        "id": 70120007,
+        "name": "The Forgotten Blake Bloom",
+        "image": "IconTask/T_IconTask_Task_049_UI.png"
+    },
+    "crushedcandy": {
+        "id": 70050045,
+        "name": "Crushed Candy",
+        "image": "IconTask/T_IconTask_Task_030_UI.png"
+    },
+    "stardust": {
+        "id": 24,
+        "name": "Stardust",
+        "image": "IconTask/T_IconTask_Task_086_UI.png"
+    },
+    "deepskyblazarweaponchest": {
+        "id": 50000177,
+        "name": "Deep Sky Blazar Weapon Chest",
+        "image": "IconGiftPack/T_IconGiftPack_003_UI.png"
+    },
+    "stellarmatrix'score": {
+        "id": 70140012,
+        "name": "Stellar Matrix's Core",
+        "image": "IconTask/T_IconTask_Task_090_UI.png"
+    },
+    "\"starlight\"": {
+        "id": 70140013,
+        "name": "\"Starlight\"",
+        "image": "IconTask/T_IconTask_Task_088_UI.png"
+    },
+    "ku-money'spersonalcollection": {
+        "id": 70140014,
+        "name": "KU-Money's Personal Collection",
+        "image": "IconTask/T_IconTask_Task_087_UI.png"
+    },
+    "modelhl-1": {
+        "id": 70140015,
+        "name": "Model HL-1",
+        "image": "IconTask/T_IconTask_Task_089_UI.png"
+    },
+    "sonancecasket:ragunna": {
+        "id": 40040004,
+        "name": "Sonance Casket: Ragunna",
+        "image": "IconMst/T_IconMst_008_UI.png"
+    },
+    "moldedeliteclassechoi": {
+        "id": 50000090,
+        "name": "Molded Elite Class Echo I",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "moldedeliteclassechoii": {
+        "id": 50000091,
+        "name": "Molded Elite Class Echo II",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "innocentdreams": {
+        "id": 70050046,
+        "name": "Innocent Dreams",
+        "image": "IconRouge/T_IconRouge_039_UI.png"
+    },
+    "treasuremaptoswordofcourage": {
+        "id": 71210001,
+        "name": "Treasure Map to Sword of Courage",
+        "image": "IconTask/T_IconTask_023_UI.png"
+    },
+    "wreathofhope": {
+        "id": 71210002,
+        "name": "Wreath of Hope",
+        "image": "IconTask/T_IconTask_024_UI.png"
+    },
+    "lumi'swaveband": {
+        "id": 10001504,
+        "name": "Lumi's Waveband",
+        "image": "IconRup/T_IconRup_Part_1613_UI.png"
+    },
+    "adventurelog": {
+        "id": 45,
+        "name": "Adventure Log",
+        "image": "IconA/T_IconA_Act_03_UI.png"
+    },
+    "icedgrapetea": {
+        "id": 80001007,
+        "name": "Iced Grape Tea",
+        "image": "IconCook/T_IconCook_052_UI.png"
+    },
+    "yuezhouspicymeatnoodles": {
+        "id": 80001011,
+        "name": "Yuezhou Spicy Meat Noodles",
+        "image": "IconCook/T_IconCook_053_UI.png"
+    },
+    "heartysupper": {
+        "id": 42600020,
+        "name": "Hearty Supper",
+        "image": "IconA/T_IconA_Act_04_UI.png"
+    },
+    "mediumenclosuretank": {
+        "id": 50000306,
+        "name": "Medium Enclosure Tank",
+        "image": "IconGiftPack/T_IconGiftPack_024_UI.png"
+    },
+    "advancedenclosuretank": {
+        "id": 50000307,
+        "name": "Advanced Enclosure Tank",
+        "image": "IconGiftPack/T_IconGiftPack_025_UI.png"
+    },
+    "premiumenclosuretank": {
+        "id": 50000308,
+        "name": "Premium Enclosure Tank",
+        "image": "IconGiftPack/T_IconGiftPack_026_UI.png"
+    },
+    "basicenclosuretank": {
+        "id": 50000305,
+        "name": "Basic Enclosure Tank",
+        "image": "IconGiftPack/T_IconGiftPack_023_UI.png"
+    },
+    "montelliclearancemodule-leveli": {
+        "id": 70050047,
+        "name": "Montelli Clearance Module - Level I",
+        "image": "IconTask/T_IconTask_Task_132_UI.png"
+    },
+    "montelliclearancemodule-levelii": {
+        "id": 70050048,
+        "name": "Montelli Clearance Module - Level II",
+        "image": "IconTask/T_IconTask_Task_133_UI.png"
+    },
+    "montelliclearancemodule-leveliii": {
+        "id": 70050049,
+        "name": "Montelli Clearance Module - Level III",
+        "image": "IconTask/T_IconTask_Task_134_UI.png"
+    },
+    "ripplesofserenedreams": {
+        "id": 70050050,
+        "name": "Ripples of Serene Dreams",
+        "image": "IconTask/T_IconTask_Task_097_UI.png"
+    },
+    "stakeofimbalance": {
+        "id": 70050051,
+        "name": "Stake of Imbalance",
+        "image": "IconTask/T_IconTask_Task_091_UI.png"
+    },
+    "bayleaf": {
+        "id": 42601010,
+        "name": "Bay Leaf",
+        "image": "IconC/T_IconC_048_UI.png"
+    },
+    "thief'stalon": {
+        "id": 42601020,
+        "name": "Thief's Talon",
+        "image": "IconC/T_IconC_049_UI.png"
+    },
+    "animalfat": {
+        "id": 42601030,
+        "name": "Animal Fat",
+        "image": "IconC/T_IconC_050_UI.png"
+    },
+    "seabunnymeat": {
+        "id": 42601040,
+        "name": "Sea Bunny Meat",
+        "image": "IconC/T_IconC_051_UI.png"
+    },
+    "fur": {
+        "id": 42601050,
+        "name": "Fur",
+        "image": "IconC/T_IconC_052_UI.png"
+    },
+    "goldcrestscarab": {
+        "id": 42601060,
+        "name": "Goldcrest Scarab",
+        "image": "IconC/T_IconC_039_UI.png"
+    },
+    "heliobanefungia": {
+        "id": 42601070,
+        "name": "Heliobane Fungia",
+        "image": "IconC/T_IconC_041_UI.png"
+    },
+    "bellcrab": {
+        "id": 42601080,
+        "name": "Bell Crab",
+        "image": "IconC/T_IconC_040_UI.png"
+    },
+    "masticnuvola": {
+        "id": 42601090,
+        "name": "Mastic Nuvola",
+        "image": "IconC/T_IconC_037_UI.png"
+    },
+    "sunflareeverlasting": {
+        "id": 42601100,
+        "name": "Sunflare Everlasting",
+        "image": "IconC/T_IconC_036_UI.png"
+    },
+    "viscumberry": {
+        "id": 42601110,
+        "name": "Viscum Berry",
+        "image": "IconC/T_IconC_038_UI.png"
+    },
+    "cassiabud": {
+        "id": 42601120,
+        "name": "Cassia Bud",
+        "image": "IconC/T_IconC_035_UI.png"
+    },
+    "felicitousolives": {
+        "id": 42601130,
+        "name": "Felicitous Olives",
+        "image": "IconC/T_IconC_042_UI.png"
+    },
+    "goldenfleece": {
+        "id": 42601140,
+        "name": "Golden Fleece",
+        "image": "IconC/T_IconC_045_UI.png"
+    },
+    "swordacorus": {
+        "id": 42601150,
+        "name": "Sword Acorus",
+        "image": "IconC/T_IconC_044_UI.png"
+    },
+    "firecrackerjewelweed": {
+        "id": 42601160,
+        "name": "Firecracker Jewelweed",
+        "image": "IconC/T_IconC_043_UI.png"
+    },
+    "seasidecendrelis": {
+        "id": 42601170,
+        "name": "Seaside Cendrelis",
+        "image": "IconTask/T_IconTask_Task_144_UI.png"
+    },
+    "resonantcalcite": {
+        "id": 42601180,
+        "name": "Resonant Calcite",
+        "image": "IconC/T_IconC_046_UI.png"
+    },
+    "fool'sgold": {
+        "id": 42601190,
+        "name": "Fool's Gold",
+        "image": "IconC/T_IconC_047_UI.png"
+    },
+    "awakeningbundle(forpre-sales)": {
+        "id": 52001,
+        "name": "Awakening Bundle (For Pre-Sales)",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "awakeningbundle": {
+        "id": 52002,
+        "name": "Awakening Bundle",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "tatteredphotos": {
+        "id": 70120009,
+        "name": "Tattered Photos",
+        "image": "IconTask/T_IconTask_Task_096_UI.png"
+    },
+    "ladyflora'sbracelet": {
+        "id": 70120010,
+        "name": "Lady Flora's Bracelet",
+        "image": "IconTask/T_IconTask_Task_098_UI.png"
+    },
+    "herbracelet": {
+        "id": 70120011,
+        "name": "Her Bracelet",
+        "image": "IconTask/T_IconTask_Task_098_UI.png"
+    },
+    "roccia'sgift:luceanite": {
+        "id": 70163901,
+        "name": "Roccia's Gift: Luceanite",
+        "image": "IconTask/T_IconTask_Task_122_UI.png"
+    },
+    "scatteredpetals": {
+        "id": 70163902,
+        "name": "Scattered Petals",
+        "image": "IconTask/T_IconTask_Task_121_UI.png"
+    },
+    "\"star\"": {
+        "id": 70163904,
+        "name": "\"Star\"",
+        "image": "IconTask/T_IconTask_Task_118_UI.png"
+    },
+    "adventurer'sstarterpack": {
+        "id": 52003,
+        "name": "Adventurer's Starter Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "qualityadventurer'sstarterpack": {
+        "id": 52004,
+        "name": "Quality Adventurer's Starter Pack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "roccia'swaveband": {
+        "id": 10001606,
+        "name": "Roccia's Waveband",
+        "image": "IconRup/T_IconRup_Part_1616_UI.png"
+    },
+    "carlotta'swaveband": {
+        "id": 10001107,
+        "name": "Carlotta's Waveband",
+        "image": "IconRup/T_IconRup_Part_1615_UI.png"
+    },
+    "cleansingconch": {
+        "id": 41400164,
+        "name": "Cleansing Conch",
+        "image": "IconMout/T_IconMout_009_UI.png"
+    },
+    "platinumcore": {
+        "id": 41400174,
+        "name": "Platinum Core",
+        "image": "IconMout/T_IconMout_006_UI.png"
+    },
+    "blazingbone": {
+        "id": 41400184,
+        "name": "Blazing Bone",
+        "image": "IconMout/T_IconMout_008_UI.png"
+    },
+    "tyrvine": {
+        "id": 70140016,
+        "name": "Tyrvine",
+        "image": "IconTask/T_IconTask_Task_137_UI.png"
+    },
+    "hognis": {
+        "id": 70140017,
+        "name": "Hognis",
+        "image": "IconTask/T_IconTask_Task_139_UI.png"
+    },
+    "haultir": {
+        "id": 70140018,
+        "name": "Haultir",
+        "image": "IconTask/T_IconTask_Task_138_UI.png"
+    },
+    "thenetherworld'sstare": {
+        "id": 41400194,
+        "name": "The Netherworld's Stare",
+        "image": "IconMout/T_IconMout_007_UI.png"
+    },
+    "benett'sterminal": {
+        "id": 71210003,
+        "name": "Benett's Terminal",
+        "image": "IconTask/T_IconTask_Task_094_UI.png"
+    },
+    "cat'seyebrooch": {
+        "id": 71210004,
+        "name": "Cat's Eye Brooch",
+        "image": "IconTask/T_IconTask_Task_093_UI.png"
+    },
+    "lfpolygoncore": {
+        "id": 41100041,
+        "name": "LF Polygon Core",
+        "image": "IconMout/T_IconMout_O_004_1_UI.png"
+    },
+    "mfpolygoncore": {
+        "id": 41100042,
+        "name": "MF Polygon Core",
+        "image": "IconMout/T_IconMout_O_004_2_UI.png"
+    },
+    "hfpolygoncore": {
+        "id": 41100043,
+        "name": "HF Polygon Core",
+        "image": "IconMout/T_IconMout_O_004_3_UI.png"
+    },
+    "ffpolygoncore": {
+        "id": 41100044,
+        "name": "FF Polygon Core",
+        "image": "IconMout/T_IconMout_O_004_4_UI.png"
+    },
+    "lftidalresiduum": {
+        "id": 41100051,
+        "name": "LF Tidal Residuum",
+        "image": "IconMout/T_IconMout_O_005_1_UI.png"
+    },
+    "mftidalresiduum": {
+        "id": 41100052,
+        "name": "MF Tidal Residuum",
+        "image": "IconMout/T_IconMout_O_005_2_UI.png"
+    },
+    "hftidalresiduum": {
+        "id": 41100053,
+        "name": "HF Tidal Residuum",
+        "image": "IconMout/T_IconMout_O_005_3_UI.png"
+    },
+    "fftidalresiduum": {
+        "id": 41100054,
+        "name": "FF Tidal Residuum",
+        "image": "IconMout/T_IconMout_O_005_4_UI.png"
+    },
+    "savinglight": {
+        "id": 80110401,
+        "name": "Saving Light",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "liftedcloudsofeons": {
+        "id": 80110102,
+        "name": "Lifted Clouds of Eons",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "inthreedays'time": {
+        "id": 80110103,
+        "name": "In Three Days' Time",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "pastureslikeoldtimes": {
+        "id": 80110104,
+        "name": "Pastures Like Old Times",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "wildernesswanderer": {
+        "id": 80110105,
+        "name": "Wilderness Wanderer",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "vastlushgrounds": {
+        "id": 80110106,
+        "name": "Vast Lush Grounds",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "prophet'smessage": {
+        "id": 80110107,
+        "name": "Prophet's Message",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "rendezvousinthemountains": {
+        "id": 80110108,
+        "name": "Rendezvous in the Mountains",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "springinfullswing": {
+        "id": 80110109,
+        "name": "Spring in Full Swing",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "rowingtowardsfirmament": {
+        "id": 80110110,
+        "name": "Rowing Towards Firmament",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "daybreakarises": {
+        "id": 80110111,
+        "name": "Daybreak Arises",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "daybreakdescends": {
+        "id": 80110112,
+        "name": "Daybreak Descends",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "betweenthewaves": {
+        "id": 80110201,
+        "name": "Between the Waves",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "deanima/onthesoul": {
+        "id": 80110202,
+        "name": "De Anima / On the Soul",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "solitaryboatonalongvoyage": {
+        "id": 80110203,
+        "name": "Solitary Boat on a Long Voyage",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "decaelo/ontheheavens": {
+        "id": 80110204,
+        "name": "De Caelo / On the Heavens",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "astrumunicum/stars,rebirth,andyou": {
+        "id": 80110205,
+        "name": "Astrum Unicum / Stars, Rebirth, and You",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "theendofaworld": {
+        "id": 80110206,
+        "name": "The End of a World",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "echoesofdestruction": {
+        "id": 80110207,
+        "name": "Echoes of Destruction",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "degenerationeetcorruptione/ongenerationandcorruption": {
+        "id": 80110208,
+        "name": "De Generatione et Corruptione / On Generation and Corruption",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "songofku-roro": {
+        "id": 80110209,
+        "name": "Song of KU-Roro",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "desophisticiselenchis/sophisticalrefutations": {
+        "id": 80110210,
+        "name": "De Sophisticis Elenchis / Sophistical Refutations",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "refugeofthesurvivors": {
+        "id": 80110211,
+        "name": "Refuge of the Survivors",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "alltherediscoveredtales": {
+        "id": 80110212,
+        "name": "All the Rediscovered Tales",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "rinascitacommemorativestamp": {
+        "id": 26,
+        "name": "Rinascita Commemorative Stamp",
+        "image": "IconA/T_IconA_Act_05_UI.png"
+    },
+    "monnaie": {
+        "id": 44010031,
+        "name": "Monnaie",
+        "image": "IconA160/T_IconA160_currency_7_UI.png"
+    },
+    "porto-veno'sbadge": {
+        "id": 70050052,
+        "name": "Porto-Veno's Badge",
+        "image": "IconTask/T_IconTask_Task_110_UI.png"
+    },
+    "carlotta's\"gem\"": {
+        "id": 70140027,
+        "name": "Carlotta's \"Gem\"",
+        "image": "IconTask/T_IconTask_Task_102_UI.png"
+    },
+    "invitationwithafragrance": {
+        "id": 70140028,
+        "name": "Invitation with a Fragrance",
+        "image": "IconTask/T_IconTask_Task_104_UI.png"
+    },
+    "<i>themartyrdomofblessedfleurdelys-actiii</i>(unfinished)": {
+        "id": 70140029,
+        "name": "<i>The Martyrdom of Blessed Fleurdelys - Act III</i> (Unfinished)",
+        "image": "IconTask/T_IconTask_Task_103_UI.png"
+    },
+    "lycoriswithominousaura": {
+        "id": 70140030,
+        "name": "Lycoris with Ominous Aura",
+        "image": "IconTask/T_IconTask_Task_100_UI.png"
+    },
+    "cloudcaster'shandle": {
+        "id": 70140031,
+        "name": "Cloudcaster's Handle",
+        "image": "IconTask/T_IconTask_Task_108_UI.png"
+    },
+    "cloudcaster'sbase": {
+        "id": 70140032,
+        "name": "Cloudcaster's Base",
+        "image": "IconTask/T_IconTask_Task_107_UI.png"
+    },
+    "cloudcaster'sresonanceunit": {
+        "id": 70140033,
+        "name": "Cloudcaster's Resonance Unit",
+        "image": "IconTask/T_IconTask_Task_106_UI.png"
+    },
+    "pizzaclassica": {
+        "id": 80000041,
+        "name": "Pizza Classica",
+        "image": "IconCook/T_IconCook_054_UI.png"
+    },
+    "pizzatropicale": {
+        "id": 80000042,
+        "name": "Pizza Tropicale",
+        "image": "IconCook/T_IconCook_055_UI.png"
+    },
+    "triple-scoopicecream": {
+        "id": 80000043,
+        "name": "Triple-Scoop Ice Cream",
+        "image": "IconCook/T_IconCook_064_UI.png"
+    },
+    "nuvolapasta": {
+        "id": 80000044,
+        "name": "Nuvola Pasta",
+        "image": "IconCook/T_IconCook_065_UI.png"
+    },
+    "ragunnaespresso": {
+        "id": 80000045,
+        "name": "Ragunna Espresso",
+        "image": "IconCook/T_IconCook_060_UI.png"
+    },
+    "steakmargherita": {
+        "id": 80000046,
+        "name": "Steak Margherita",
+        "image": "IconCook/T_IconCook_061_UI.png"
+    },
+    "laurussalad": {
+        "id": 80000047,
+        "name": "Laurus Salad",
+        "image": "IconCook/T_IconCook_058_UI.png"
+    },
+    "nectarwine": {
+        "id": 80000048,
+        "name": "Nectarwine",
+        "image": "IconCook/T_IconCook_063_UI.png"
+    },
+    "dailypanini": {
+        "id": 80000049,
+        "name": "Daily Panini",
+        "image": "IconCook/T_IconCook_062_UI.png"
+    },
+    "everyflavorbellcrab": {
+        "id": 80000050,
+        "name": "Every Flavor Bell Crab",
+        "image": "IconCook/T_IconCook_056_UI.png"
+    },
+    "batonbread": {
+        "id": 80000051,
+        "name": "Baton Bread",
+        "image": "IconCook/T_IconCook_057_UI.png"
+    },
+    "orangeespresso": {
+        "id": 80001045,
+        "name": "Orange Espresso",
+        "image": "IconCook/T_IconCook_067_UI.png"
+    },
+    "multi-scoopicecream": {
+        "id": 80001043,
+        "name": "Multi-Scoop Ice Cream",
+        "image": "IconCook/T_IconCook_066_UI.png"
+    },
+    "pizzaclassicarecipe": {
+        "id": 80010041,
+        "name": "Pizza Classica Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "pizzatropicalerecipe": {
+        "id": 80010042,
+        "name": "Pizza Tropicale Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "triple-scooprecipe": {
+        "id": 80010043,
+        "name": "Triple-Scoop Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "nuvolapastarecipe": {
+        "id": 80010044,
+        "name": "Nuvola Pasta Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "ragunnaespressorecipe": {
+        "id": 80010045,
+        "name": "Ragunna Espresso Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "steakmargheritarecipe": {
+        "id": 80010046,
+        "name": "Steak Margherita Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "laurussaladrecipe": {
+        "id": 80010047,
+        "name": "Laurus Salad Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "nectarwinerecipe": {
+        "id": 80010048,
+        "name": "Nectarwine Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "dailypaninirecipe": {
+        "id": 80010049,
+        "name": "Daily Panini Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "everyflavorbellcrabrecipe": {
+        "id": 80010050,
+        "name": "Every Flavor Bell Crab Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "batonbreadrecipe": {
+        "id": 80010051,
+        "name": "Baton Bread Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "ricciolifisherycoin": {
+        "id": 27,
+        "name": "Riccioli Fishery Coin",
+        "image": "IconA/T_IconA_Act_Navigation02_UI.png"
+    },
+    "abyssalcoral": {
+        "id": 28,
+        "name": "Abyssal Coral",
+        "image": "IconA/T_IconA_Act_Navigation15_UI.png"
+    },
+    "coastflax": {
+        "id": 29,
+        "name": "Coast Flax",
+        "image": "IconA/T_IconA_Act_Navigation23_UI.png"
+    },
+    "palmtreelog": {
+        "id": 30,
+        "name": "Palm Tree Log",
+        "image": "IconA/T_IconA_Act_Navigation24_UI.png"
+    },
+    "metaldebris": {
+        "id": 31,
+        "name": "Metal Debris",
+        "image": "IconA/T_IconA_Act_Navigation22_UI.png"
+    },
+    "\"sweetpuff\"": {
+        "id": 70010082,
+        "name": "\"Sweet Puff\"",
+        "image": "IconA/T_IconA_Act_Navigation21_UI.png"
+    },
+    "sandworm": {
+        "id": 33,
+        "name": "Sandworm",
+        "image": "IconA/T_IconA_Act_Navigation17_UI.png"
+    },
+    "meditationsonmercycraftingrecipe": {
+        "id": 44010041,
+        "name": "Meditations on Mercy Crafting Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "fablesofwisdomcraftingrecipe": {
+        "id": 44010042,
+        "name": "Fables of Wisdom Crafting Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "romanceinfarewellcraftingrecipe": {
+        "id": 44010043,
+        "name": "Romance in Farewell Crafting Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "legendofdrunkenherocraftingrecipe": {
+        "id": 44010044,
+        "name": "Legend of Drunken Hero Crafting Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "waltzinmasqueradecraftingrecipe": {
+        "id": 44010045,
+        "name": "Waltz in Masquerade Crafting Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "boostunit:flight": {
+        "id": 70000003,
+        "name": "Boost Unit: Flight",
+        "image": "IconCook/T_IconCook_YJ_041_UI.png"
+    },
+    "trialcoin": {
+        "id": 34,
+        "name": "Trial Coin",
+        "image": "IconRup/T_IconRup_B6_UI.png"
+    },
+    "codexofthedeep:preface(137thedition)": {
+        "id": 70140034,
+        "name": "Codex of the Deep: Preface (137th Edition)",
+        "image": "IconTask/T_IconTask_Task_002_1_UI.png"
+    },
+    "<i>tower</i>": {
+        "id": 70050053,
+        "name": "<i>Tower</i>",
+        "image": "IconTask/T_IconTask_Task_053_UI.png"
+    },
+    "\"wishesunderaclearsky\"": {
+        "id": 70050054,
+        "name": "\"Wishes Under a Clear Sky\"",
+        "image": "IconRouge/T_IconRouge_021_1_UI.png"
+    },
+    "citybathedinseabreeze": {
+        "id": 80110301,
+        "name": "City Bathed in Sea Breeze",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "casketsonarusepermit:rinascita": {
+        "id": 10809,
+        "name": "Casket Sonar Use Permit: Rinascita",
+        "image": "IconA/T_IconA_14_UI.png"
+    },
+    "lootmapperusepermit:rinascita": {
+        "id": 10810,
+        "name": "Lootmapper Use Permit: Rinascita",
+        "image": "IconA/T_IconA_15_UI.png"
+    },
+    "tornpagesfromaverardovault": {
+        "id": 72010017,
+        "name": "Torn pages from Averardo Vault",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromeglatown": {
+        "id": 72010018,
+        "name": "Torn pages from Egla Town",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfrompenitent'send": {
+        "id": 72010019,
+        "name": "Torn pages from Penitent's End",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromthessaleofells": {
+        "id": 72010020,
+        "name": "Torn pages from Thessaleo Fells",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromthehallowedreach": {
+        "id": 72010021,
+        "name": "Torn pages from the Hallowed Reach",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromthefagaceaepeninsula": {
+        "id": 72010022,
+        "name": "Torn pages from the Fagaceae Peninsula",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromragunnacity": {
+        "id": 72010023,
+        "name": "Torn pages from Ragunna City",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "tornpagesfromnimbussanctum": {
+        "id": 72010024,
+        "name": "Torn pages from Nimbus Sanctum",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "<i>averardovaultbrochure</i>": {
+        "id": 72010025,
+        "name": "<i>Averardo Vault Brochure</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "<i>lonelysol-3:thecompleteguidetoragunna</i>": {
+        "id": 72010026,
+        "name": "<i>Lonely SOL-3: The Complete Guide to Ragunna</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "<i>formerprivycouncilor'snotes</i>": {
+        "id": 72010027,
+        "name": "<i>Former Privy Councilor's Notes</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "<i>atransgressor'stranscript</i>": {
+        "id": 72010028,
+        "name": "<i>A Transgressor's Transcript</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "<i>witchcraft,spies,andcomplaints</i>": {
+        "id": 72010029,
+        "name": "<i>Witchcraft, Spies, and Complaints</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "<i>thecodexofholyrituals</i>": {
+        "id": 72010030,
+        "name": "<i>The Codex of Holy Rituals</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "<i>essaysontheragunnesidrama</i>": {
+        "id": 72010031,
+        "name": "<i>Essays on the Ragunnesi Drama</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "<i>voyagelogbook</i>": {
+        "id": 72010032,
+        "name": "<i>Voyage Logbook</i>",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "unfettereddovethroughdayandnight": {
+        "id": 70140035,
+        "name": "Unfettered Dove through Day and Night",
+        "image": "IconTask/T_IconTask_Task_101_UI.png"
+    },
+    "newyeartheaterphoto": {
+        "id": 70130015,
+        "name": "New Year Theater Photo",
+        "image": "IconTask/T_IconTask_Task_116_b_UI.png"
+    },
+    "perfectcurtaincall": {
+        "id": 70140040,
+        "name": "Perfect Curtain Call",
+        "image": "IconTask/T_IconTask_Task_117_b_UI.png"
+    },
+    "beaconofthepast": {
+        "id": 70140041,
+        "name": "Beacon of the Past",
+        "image": "IconTask/T_IconTask_Task_109_UI.png"
+    },
+    "wind-kissedhaven": {
+        "id": 80110302,
+        "name": "Wind-kissed Haven",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "adreamsoakedinmist": {
+        "id": 80110303,
+        "name": "A Dream Soaked in Mist",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "theidyllicrefuge": {
+        "id": 80110304,
+        "name": "The Idyllic Refuge",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "wherewindwhispers": {
+        "id": 80110305,
+        "name": "Where Wind Whispers",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "themidnightelegy": {
+        "id": 80110306,
+        "name": "The Midnight Elegy",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "wavessinggoodnight": {
+        "id": 80110307,
+        "name": "Waves Sing Goodnight",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "savemefromthetidesofmundanity": {
+        "id": 80110308,
+        "name": "Save Me From the Tides of Mundanity",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "thedayoffinalrest": {
+        "id": 80110309,
+        "name": "The Day of Final Rest",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "curtainsupforreveries": {
+        "id": 80110310,
+        "name": "Curtains Up for Reveries",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "inthenameofhumanity": {
+        "id": 80110311,
+        "name": "In the Name of Humanity",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "lostonthepilgrim'spath": {
+        "id": 80110312,
+        "name": "Lost on the Pilgrim's Path",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "whennightrestsonthecliffs": {
+        "id": 80110313,
+        "name": "When Night Rests on the Cliffs",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "wakingofaworld": {
+        "id": 80110405,
+        "name": "Waking of a World",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "thawingfates": {
+        "id": 80110409,
+        "name": "Thawing Fates",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "bymoon'sgrace": {
+        "id": 80110410,
+        "name": "By Moon's Grace",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "anunfinishedsong": {
+        "id": 80110414,
+        "name": "An Unfinished Song",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "amillionpossibilities": {
+        "id": 80110416,
+        "name": "A Million Possibilities",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "wreckedandstranded": {
+        "id": 80110314,
+        "name": "Wrecked and Stranded",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "asthedivinehathspoken": {
+        "id": 80110315,
+        "name": "As the Divine Hath Spoken",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "cloudcastingproject": {
+        "id": 80110316,
+        "name": "Cloudcasting Project",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "theartofprecision": {
+        "id": 80110317,
+        "name": "The Art of Precision",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "whereoraclesarenolongerheard": {
+        "id": 80110318,
+        "name": "Where Oracles Are No Longer Heard",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "gondola'sjourney": {
+        "id": 80110319,
+        "name": "Gondola's Journey",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "thenimbuschorale": {
+        "id": 80110320,
+        "name": "The Nimbus Chorale",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "poetryandpaeanweaponchest": {
+        "id": 50000202,
+        "name": "Poetry and Paean Weapon Chest",
+        "image": "IconGiftPack/T_IconGiftPack_012_UI.png"
+    },
+    "troupestrength": {
+        "id": 80000052,
+        "name": "Troupe Strength",
+        "image": "IconCook/T_IconCook_059_UI.png"
+    },
+    "goldstarpizza": {
+        "id": 80000053,
+        "name": "Gold Star Pizza",
+        "image": "IconCook/T_IconCook_068_UI.png"
+    },
+    "troupestrengthrecipe": {
+        "id": 80010052,
+        "name": "Troupe Strength Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "goldstarpizzarecipe": {
+        "id": 80010053,
+        "name": "Gold Star Pizza Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "aglancebackward": {
+        "id": 80110213,
+        "name": "A Glance Backward",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "danceramidtheblooms": {
+        "id": 80110214,
+        "name": "Dancer amid the Blooms",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "ficklenessoflife": {
+        "id": 80110215,
+        "name": "Fickleness of Life",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "seedofpurity": {
+        "id": 80110216,
+        "name": "Seed of Purity",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "vortex": {
+        "id": 80110217,
+        "name": "Vortex",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "whenthecamelliableeds": {
+        "id": 80110218,
+        "name": "When the Camellia Bleeds",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "beforeiwither": {
+        "id": 80110219,
+        "name": "Before I Wither",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "fleetingsorrow": {
+        "id": 80110220,
+        "name": "Fleeting Sorrow",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "everlastinglonging": {
+        "id": 80110221,
+        "name": "Everlasting Longing",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "songofthefools": {
+        "id": 80110321,
+        "name": "Song of the Fools",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "asnightsinksintoabyss": {
+        "id": 80110322,
+        "name": "As Night Sinks into Abyss",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "efficiencyiswealth": {
+        "id": 80110323,
+        "name": "Efficiency is Wealth",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "merryplushiefriends": {
+        "id": 80110324,
+        "name": "Merry Plushie Friends",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "dancingthroughfantasies": {
+        "id": 80110325,
+        "name": "Dancing Through Fantasies",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "peachblossom": {
+        "id": 53001,
+        "name": "Peach Blossom",
+        "image": "IconRoleHead256/T_IconRoleHead256_24_a_UI.png"
+    },
+    "exorcisticadjuration": {
+        "id": 53002,
+        "name": "Exorcistic Adjuration",
+        "image": "IconRoleHead256/T_IconRoleHead256_7_a_UI.png"
+    },
+    "morphableecho-frostyresolve": {
+        "id": 50001510,
+        "name": "Morphable Echo - Frosty Resolve",
+        "image": "IconA/T_IconA_shlb_18_UI.png"
+    },
+    "morphableecho-eternalradiance": {
+        "id": 50001511,
+        "name": "Morphable Echo - Eternal Radiance",
+        "image": "IconA/T_IconA_shlb_17_UI.png"
+    },
+    "morphableecho-midnightveil": {
+        "id": 50001512,
+        "name": "Morphable Echo - Midnight Veil",
+        "image": "IconA/T_IconA_shlb_14_UI.png"
+    },
+    "morphableecho-empyreananthem": {
+        "id": 50001513,
+        "name": "Morphable Echo - Empyrean Anthem",
+        "image": "IconA/T_IconA_shlb_20_UI.png"
+    },
+    "morphableecho-tidebreakingcourage": {
+        "id": 50031517,
+        "name": "Morphable Echo - Tidebreaking Courage",
+        "image": "IconA/T_IconA_shlb_16_UI.png"
+    },
+    "malleableeliteclassechoiii": {
+        "id": 50001102,
+        "name": "Malleable Elite Class Echo III",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "malleableeliteclassechoiv": {
+        "id": 50001103,
+        "name": "Malleable Elite Class Echo IV",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "champion'sradiantcollectioni": {
+        "id": 51010,
+        "name": "Champion's Radiant Collection I",
+        "image": "IconGiftPack/T_IconGiftPack_dj_27_UI.png"
+    },
+    "champion'sforgingcollection": {
+        "id": 51011,
+        "name": "Champion's Forging Collection",
+        "image": "IconGiftPack/T_IconGiftPack_dj_28_UI.png"
+    },
+    "traveler'stubeaid": {
+        "id": 51012,
+        "name": "Traveler's Tube Aid",
+        "image": "IconGiftPack/T_IconGiftPack_033_UI.png"
+    },
+    "sage'stubesupport": {
+        "id": 51013,
+        "name": "Sage's Tube Support",
+        "image": "IconGiftPack/T_IconGiftPack_035_UI.png"
+    },
+    "sage'ssolventaid": {
+        "id": 51014,
+        "name": "Sage's Solvent Aid",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "champion'sradiantcollectionii": {
+        "id": 51015,
+        "name": "Champion's Radiant Collection II",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "vault'sradiantcollectioniii": {
+        "id": 51016,
+        "name": "Vault's Radiant Collection III",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "champion'smonthlyaid": {
+        "id": 51017,
+        "name": "Champion's Monthly Aid",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "vault'stidecollection": {
+        "id": 51018,
+        "name": "Vault's Tide Collection",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "pioneer'sspecialbountyi": {
+        "id": 51019,
+        "name": "Pioneer's Special Bounty I",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "pioneer'sspecialbountyii": {
+        "id": 51020,
+        "name": "Pioneer's Special Bounty II",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "pioneer'sspecialbountyiii": {
+        "id": 51021,
+        "name": "Pioneer's Special Bounty III",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "pioneer'sspecialbountyiv": {
+        "id": 51022,
+        "name": "Pioneer's Special Bounty IV",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "pioneer'sspecialbountyv": {
+        "id": 51023,
+        "name": "Pioneer's Special Bounty V",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "pioneer'sspecialbountyvi": {
+        "id": 51024,
+        "name": "Pioneer's Special Bounty VI",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "pioneer'sspecialbountyvii": {
+        "id": 51025,
+        "name": "Pioneer's Special Bounty VII",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "calloftheabysscraftingrecipe": {
+        "id": 44010046,
+        "name": "Call of the Abyss Crafting Recipe",
+        "image": "IconCook/T_IconCook_YJ_039_UI.png"
+    },
+    "thenimbuschorale:soilofabundance": {
+        "id": 70060015,
+        "name": "The Nimbus Chorale: Soil of Abundance",
+        "image": "IconTask/T_IconTask_Task_112_UI.png"
+    },
+    "fusion-resistantspray": {
+        "id": 42100036,
+        "name": "Fusion-resistant Spray",
+        "image": "IconCook/T_IconCook_YJ_001_UI.png"
+    },
+    "aero-resistantspray": {
+        "id": 42100037,
+        "name": "Aero-resistant Spray",
+        "image": "IconCook/T_IconCook_YJ_006_UI.png"
+    },
+    "electro-resistantspray": {
+        "id": 42100038,
+        "name": "Electro-resistant Spray",
+        "image": "IconCook/T_IconCook_YJ_005_UI.png"
+    },
+    "glacio-resistantspray": {
+        "id": 42100039,
+        "name": "Glacio-resistant Spray",
+        "image": "IconCook/T_IconCook_YJ_004_UI.png"
+    },
+    "spectro-resistantspray": {
+        "id": 42100040,
+        "name": "Spectro-resistant Spray",
+        "image": "IconCook/T_IconCook_YJ_002_UI.png"
+    },
+    "havoc-resistantspray": {
+        "id": 42100041,
+        "name": "Havoc-resistant Spray",
+        "image": "IconCook/T_IconCook_YJ_003_UI.png"
+    },
+    "plushievillagerestorationlog:i": {
+        "id": 71220001,
+        "name": "Plushie Village Restoration Log: I",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "plushies'photo": {
+        "id": 71220002,
+        "name": "Plushies' Photo",
+        "image": "IconTask/T_IconTask_Task_105_UI.png"
+    },
+    "plushievillagerestorationlog:final": {
+        "id": 71220003,
+        "name": "Plushie Village Restoration Log: Final",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "bellofresonance": {
+        "id": 71220004,
+        "name": "Bell of Resonance",
+        "image": "IconTask/T_IconTask_Task_092_UI.png"
+    },
+    "malleableeliteclassecho-ragunna": {
+        "id": 50001104,
+        "name": "Malleable Elite Class Echo - Ragunna",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "fame": {
+        "id": 35,
+        "name": "Fame",
+        "image": "IconA/T_IconA_Act_Navigation20_UI.png"
+    },
+    "plushievillagerestorationlog:ii": {
+        "id": 71220005,
+        "name": "Plushie Village Restoration Log: II",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "thenimbuschorale:crystalsky": {
+        "id": 70060016,
+        "name": "The Nimbus Chorale: Crystal Sky",
+        "image": "IconTask/T_IconTask_Task_112_UI.png"
+    },
+    "thenimbuschorale:orderofnature": {
+        "id": 70060017,
+        "name": "The Nimbus Chorale: Order of Nature",
+        "image": "IconTask/T_IconTask_Task_112_UI.png"
+    },
+    "thenimbuschorale:glorytohumanity": {
+        "id": 70060018,
+        "name": "The Nimbus Chorale: Glory to Humanity",
+        "image": "IconTask/T_IconTask_Task_112_UI.png"
+    },
+    "plushievillagerestorationlog:iii": {
+        "id": 71220006,
+        "name": "Plushie Village Restoration Log: III",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "moldedecho-crimsoncurtaincalli": {
+        "id": 50001107,
+        "name": "Molded Echo - Crimson Curtain Call I",
+        "image": "IconA/T_IconA_hkt_01_UI.png"
+    },
+    "moldedecho-crimsoncurtaincallii": {
+        "id": 50001108,
+        "name": "Molded Echo - Crimson Curtain Call II",
+        "image": "IconA/T_IconA_hkt_02_UI.png"
+    },
+    "lonelinessofthedeepsea": {
+        "id": 71320001,
+        "name": "Loneliness of the Deep Sea",
+        "image": "IconRouge/T_IconRouge_032_UI.png"
+    },
+    "namelesscoin": {
+        "id": 36,
+        "name": "Nameless Coin",
+        "image": "IconA/T_IconA_Act_Navigation01_UI.png"
+    },
+    "universalcompass": {
+        "id": 37,
+        "name": "Universal Compass",
+        "image": "IconA/T_IconA_Act_Navigation03_UI.png"
+    },
+    "glacioerodedcoin": {
+        "id": 71500001,
+        "name": "Glacio Eroded Coin",
+        "image": "IconMowing/T_IconMowing_03.png"
+    },
+    "fusionerodedcoin": {
+        "id": 71500002,
+        "name": "Fusion Eroded Coin",
+        "image": "IconMowing/T_IconMowing_05.png"
+    },
+    "electroerodedcoin": {
+        "id": 71500003,
+        "name": "Electro Eroded Coin",
+        "image": "IconMowing/T_IconMowing_06.png"
+    },
+    "aeroerodedcoin": {
+        "id": 71500004,
+        "name": "Aero Eroded Coin",
+        "image": "IconMowing/T_IconMowing_04.png"
+    },
+    "spectroerodedcoin": {
+        "id": 71500005,
+        "name": "Spectro Eroded Coin",
+        "image": "IconMowing/T_IconMowing_02.png"
+    },
+    "havocerodedcoin": {
+        "id": 71500006,
+        "name": "Havoc Eroded Coin",
+        "image": "IconMowing/T_IconMowing_01.png"
+    },
+    "judgmentlostflag": {
+        "id": 71500007,
+        "name": "Judgment Lost Flag",
+        "image": "IconMowing/T_IconMowing_07.png"
+    },
+    "sermonlostflag": {
+        "id": 71500008,
+        "name": "Sermon Lost Flag",
+        "image": "IconMowing/T_IconMowing_08.png"
+    },
+    "merchantlostflag": {
+        "id": 71500009,
+        "name": "Merchant Lost Flag",
+        "image": "IconMowing/T_IconMowing_09.png"
+    },
+    "huntinglostflag": {
+        "id": 71500010,
+        "name": "Hunting Lost Flag",
+        "image": "IconMowing/T_IconMowing_10.png"
+    },
+    "assistance:rarepact": {
+        "id": 71500011,
+        "name": "Assistance: Rare Pact",
+        "image": "IconMowing/T_IconMowing_12.png"
+    },
+    "developmentrarepact": {
+        "id": 71500012,
+        "name": "Development Rare Pact",
+        "image": "IconMowing/T_IconMowing_11.png"
+    },
+    "pioneercaptain'sseal": {
+        "id": 71500013,
+        "name": "Pioneer Captain's Seal",
+        "image": "IconMowing/T_IconMowing_13.png"
+    },
+    "plunderercaptain'sseal": {
+        "id": 71500014,
+        "name": "Plunderer Captain's Seal",
+        "image": "IconMowing/T_IconMowing_14.png"
+    },
+    "betrayercaptain'sseal": {
+        "id": 71500015,
+        "name": "Betrayer Captain's Seal",
+        "image": "IconMowing/T_IconMowing_15.png"
+    },
+    "absolvercaptain'sseal": {
+        "id": 71500016,
+        "name": "Absolver Captain's Seal",
+        "image": "IconMowing/T_IconMowing_16.png"
+    },
+    "pilgrimcaptain'sseal": {
+        "id": 71500017,
+        "name": "Pilgrim Captain's Seal",
+        "image": "IconMowing/T_IconMowing_17.png"
+    },
+    "oldcompass": {
+        "id": 38,
+        "name": "Old Compass",
+        "image": "IconA/T_IconA_Act_Navigation04_UI.png"
+    },
+    "rinascitafishingguidebook": {
+        "id": 39,
+        "name": "Rinascita Fishing Guidebook",
+        "image": "IconA/T_IconA_Act_Navigation05_UI.png"
+    },
+    "fragmentofamysteriousscripture": {
+        "id": 40,
+        "name": "Fragment of a Mysterious Scripture",
+        "image": "IconA/T_IconA_Act_Navigation06_UI.png"
+    },
+    "rinascitafishingguidebook:chapterone": {
+        "id": 71510101,
+        "name": "Rinascita Fishing Guidebook: Chapter One",
+        "image": "IconA/T_IconA_Act_Navigation05_UI.png"
+    },
+    "rinascitafishingguidebook:chaptertwo": {
+        "id": 71510102,
+        "name": "Rinascita Fishing Guidebook: Chapter Two",
+        "image": "IconA/T_IconA_Act_Navigation05_UI.png"
+    },
+    "rinascitafishingguidebook:chapterthree": {
+        "id": 71510103,
+        "name": "Rinascita Fishing Guidebook: Chapter Three",
+        "image": "IconA/T_IconA_Act_Navigation05_UI.png"
+    },
+    "fragmentofamysteriousscripture:chapterone": {
+        "id": 71510201,
+        "name": "Fragment of a Mysterious Scripture: Chapter One",
+        "image": "IconA/T_IconA_Act_Navigation06_UI.png"
+    },
+    "fragmentofamysteriousscripture:chaptertwo": {
+        "id": 71510202,
+        "name": "Fragment of a Mysterious Scripture: Chapter Two",
+        "image": "IconA/T_IconA_Act_Navigation06_UI.png"
+    },
+    "fragmentofamysteriousscripture:chapterthree": {
+        "id": 71510203,
+        "name": "Fragment of a Mysterious Scripture: Chapter Three",
+        "image": "IconA/T_IconA_Act_Navigation06_UI.png"
+    },
+    "melodybox": {
+        "id": 71510301,
+        "name": "Melody Box",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "revelercaptain'sseal": {
+        "id": 71500042,
+        "name": "Reveler Captain's Seal",
+        "image": "IconMowing/T_IconMowing_18.png"
+    },
+    "thegospelthatreceivesharmonizedpraise": {
+        "id": 71500027,
+        "name": "The Gospel that Receives Harmonized Praise",
+        "image": "IconMowing/T_IconMowing_19.png"
+    },
+    "thesailsthatdisplayendeavor": {
+        "id": 71500035,
+        "name": "The Sails that Display Endeavor",
+        "image": "IconMowing/T_IconMowing_21.png"
+    },
+    "theambitionthatlieshidden": {
+        "id": 71500024,
+        "name": "The Ambition that Lies Hidden",
+        "image": "IconMowing/T_IconMowing_23.png"
+    },
+    "familiar-lookinglargefish": {
+        "id": 70010074,
+        "name": "Familiar-looking Large Fish",
+        "image": "IconTask/T_IconTask_Task_129_UI.png"
+    },
+    "helmvillagelighthousekey": {
+        "id": 70010075,
+        "name": "Helm Village Lighthouse Key",
+        "image": "IconA/T_IconA_Act_Navigation14_UI.png"
+    },
+    "titaniummackerel": {
+        "id": 70010076,
+        "name": "Titanium Mackerel",
+        "image": "IconTask/T_IconTask_Task_135_UI.png"
+    },
+    "reyestreasuremapfragment": {
+        "id": 70010077,
+        "name": "Reyes Treasure Map Fragment",
+        "image": "IconA/T_IconA_Act_Navigation12_UI.png"
+    },
+    "pequodblueprint:basic": {
+        "id": 70010078,
+        "name": "Pequod Blueprint: Basic",
+        "image": "IconTask/T_IconTask_Task_131_UI.png"
+    },
+    "pequodblueprint:advanced": {
+        "id": 70010079,
+        "name": "Pequod Blueprint: Advanced",
+        "image": "IconTask/T_IconTask_Task_131_UI.png"
+    },
+    "ahab'sdiary": {
+        "id": 70010080,
+        "name": "Ahab's Diary",
+        "image": "IconA/T_IconA_Act_Navigation19_UI.png"
+    },
+    "nannerl'sbottle": {
+        "id": 70010081,
+        "name": "Nannerl's Bottle",
+        "image": "IconA/T_IconA_Act_Navigation16_UI.png"
+    },
+    "wonderbubbleintheportofriccioli": {
+        "id": 10811,
+        "name": "Wonder Bubble in the Port of Riccioli",
+        "image": "IconA/T_IconA_Act_Navigation25_UI.png"
+    },
+    "wonderbubbleofhelmvillage": {
+        "id": 10812,
+        "name": "Wonder Bubble of Helm Village",
+        "image": "IconA/T_IconA_Act_Navigation25_UI.png"
+    },
+    "wonderbubbleoftheserenebay": {
+        "id": 10813,
+        "name": "Wonder Bubble of the Serene Bay",
+        "image": "IconA/T_IconA_Act_Navigation25_UI.png"
+    },
+    "wonderbubbleofthereyesruins": {
+        "id": 10814,
+        "name": "Wonder Bubble of the Reyes Ruins",
+        "image": "IconA/T_IconA_Act_Navigation25_UI.png"
+    },
+    "sailer'sconviction": {
+        "id": 10815,
+        "name": "Sailer's Conviction",
+        "image": "IconA/T_IconA_Act_Navigation10_UI.png"
+    },
+    "blue-spottedgiantfish": {
+        "id": 42600021,
+        "name": "Blue-Spotted Giant Fish",
+        "image": "IconWup/T_IconWup_Fish_01_UI.png"
+    },
+    "faithofunity": {
+        "id": 10816,
+        "name": "Faith of Unity",
+        "image": "IconA/T_IconA_Act_Navigation08_UI.png"
+    },
+    "valoroftidebreaker": {
+        "id": 10817,
+        "name": "Valor of Tidebreaker",
+        "image": "IconA/T_IconA_Act_Navigation09_UI.png"
+    },
+    "passionofvengeance": {
+        "id": 10818,
+        "name": "Passion of Vengeance",
+        "image": "IconA/T_IconA_Act_Navigation11_UI.png"
+    },
+    "thebloodpactthatcorruptstothecore": {
+        "id": 71500022,
+        "name": "The Blood Pact that Corrupts to the Core",
+        "image": "IconMowing/T_IconMowing_20.png"
+    },
+    "therevelrythatunveilsmysteries": {
+        "id": 71500023,
+        "name": "The Revelry that Unveils Mysteries",
+        "image": "IconMowing/T_IconMowing_22.png"
+    },
+    "phoebe'swaveband": {
+        "id": 10001506,
+        "name": "Phoebe's Waveband",
+        "image": "IconRup/T_IconRup_Part_1618_UI.png"
+    },
+    "brant'swaveband": {
+        "id": 10001206,
+        "name": "Brant's Waveband",
+        "image": "IconRup/T_IconRup_Part_1617_UI.png"
+    },
+    "freshfish": {
+        "id": 70010084,
+        "name": "Fresh Fish",
+        "image": "IconC/T_IconC_033_UI.png"
+    },
+    "specialeveryflavorbell-lesscrab": {
+        "id": 70010085,
+        "name": "Special Every Flavor Bell-less Crab",
+        "image": "IconCook/T_IconCook_056_UI.png"
+    },
+    "phaomwhistle": {
+        "id": 70140050,
+        "name": "Phaom Whistle",
+        "image": "IconA/T_IconA_Act_Gongduola_UI.png"
+    },
+    "amberkey": {
+        "id": 71550001,
+        "name": "Amber Key",
+        "image": "IconTask/T_IconTask_Task_128_UI.png"
+    },
+    "captain'schart": {
+        "id": 71550002,
+        "name": "Captain's Chart",
+        "image": "IconTask/T_IconTask_Task_127_UI.png"
+    },
+    "halfaluckycoin": {
+        "id": 71550003,
+        "name": "Half A Lucky Coin",
+        "image": "IconTask/T_IconTask_Task_125_UI.png"
+    },
+    "luckycoin": {
+        "id": 71550004,
+        "name": "Lucky Coin",
+        "image": "IconTask/T_IconTask_Task_126_UI.png"
+    },
+    "unbornechoes": {
+        "id": 50001109,
+        "name": "Unborn Echoes",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "asliceofpizza": {
+        "id": 80001041,
+        "name": "A Slice of Pizza",
+        "image": "IconCook/T_IconCook_070_UI.png"
+    },
+    "puritystrength": {
+        "id": 80001052,
+        "name": "Purity Strength",
+        "image": "IconCook/T_IconCook_069_UI.png"
+    },
+    "boxofsilence": {
+        "id": 70050055,
+        "name": "Box of Silence",
+        "image": "IconTask/T_IconTask_Task_136_UI.png"
+    },
+    "mysteriouscompletetreasuremap": {
+        "id": 70010086,
+        "name": "Mysterious Complete Treasure Map",
+        "image": "IconA/T_IconA_Act_Navigation13_UI.png"
+    },
+    "everyflavorbell-lesscrab": {
+        "id": 80000054,
+        "name": "Every Flavor Bell-less Crab",
+        "image": "IconCook/T_IconCook_071_UI.png"
+    },
+    "wine-brewedoctopusclam": {
+        "id": 80000055,
+        "name": "Wine-Brewed Octopus Clam",
+        "image": "IconCook/T_IconCook_072_UI.png"
+    },
+    "ricciolisaltbakedfish": {
+        "id": 80000056,
+        "name": "Riccioli Salt Baked Fish",
+        "image": "IconCook/T_IconCook_073_UI.png"
+    },
+    "everyflavorbell-lesscrabrecipe": {
+        "id": 80010054,
+        "name": "Every Flavor Bell-less Crab Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "wine-brewedoctopusclamrecipe": {
+        "id": 80010055,
+        "name": "Wine-Brewed Octopus Clam Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "ricciolisaltbakedfishrecipe": {
+        "id": 80010056,
+        "name": "Riccioli Salt Baked Fish Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "rustyironcase": {
+        "id": 71510204,
+        "name": "Rusty Iron Case",
+        "image": "IconA/T_IconA_Act_Navigation18_UI.png"
+    },
+    "lingeringtunes&rejuvenatingglow": {
+        "id": 50001515,
+        "name": "Lingering Tunes & Rejuvenating Glow",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "sierragale&freezingfrost": {
+        "id": 50001516,
+        "name": "Sierra Gale & Freezing Frost",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "voidthunder&moltenrift": {
+        "id": 50001517,
+        "name": "Void Thunder & Molten Rift",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "moltenrift&rejuvenatingglow": {
+        "id": 50001518,
+        "name": "Molten Rift & Rejuvenating Glow",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "freezingfrost&voidthunder": {
+        "id": 50001519,
+        "name": "Freezing Frost & Void Thunder",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "havoceclipse&moonlitclouds": {
+        "id": 50001520,
+        "name": "Havoc Eclipse & Moonlit Clouds",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "celestiallight&lingeringtunes": {
+        "id": 50001521,
+        "name": "Celestial Light & Lingering Tunes",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "empyreananthem&midnightveil": {
+        "id": 50001522,
+        "name": "Empyrean Anthem & Midnight Veil",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "frostyresolve&eternalradiance": {
+        "id": 50001523,
+        "name": "Frosty Resolve & Eternal Radiance",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "tidebreakingcourage&eternalradiance": {
+        "id": 50001524,
+        "name": "Tidebreaking Courage & Eternal Radiance",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "serenadecarriedbythewaves": {
+        "id": 80110326,
+        "name": "Serenade Carried by the Waves",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "ajourneyconcludedinthetides": {
+        "id": 80110327,
+        "name": "A Journey Concluded in the Tides",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "homeboundhour": {
+        "id": 80110328,
+        "name": "Homebound Hour",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "ariaofabsolution": {
+        "id": 80110329,
+        "name": "Aria of Absolution",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "afairytale": {
+        "id": 80110330,
+        "name": "A Fairy Tale",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "theflamesthatthrive": {
+        "id": 80110331,
+        "name": "The Flames That Thrive",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "sinceritybeneaththemask": {
+        "id": 80110332,
+        "name": "Sincerity Beneath the Mask",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "timeismoney": {
+        "id": 80110333,
+        "name": "Time Is Money",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "fullmetalalert!": {
+        "id": 80110334,
+        "name": "Full Metal Alert!",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "entwinedfootsteps": {
+        "id": 80110335,
+        "name": "Entwined Footsteps",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "silence'streasure": {
+        "id": 80110336,
+        "name": "Silence's Treasure",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "accusationofthepenitent": {
+        "id": 80110337,
+        "name": "Accusation of the Penitent",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "judgmentupontheguilty": {
+        "id": 80110338,
+        "name": "Judgment upon the Guilty",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "cantarella'swaveband": {
+        "id": 10001607,
+        "name": "Cantarella's Waveband",
+        "image": "IconRup/T_IconRup_Part_1619_UI.png"
+    },
+    "rover:aero'swaveband": {
+        "id": 10001406,
+        "name": "Rover: Aero's Waveband",
+        "image": "IconRup/T_IconRup_Part_1620_UI.png"
+    },
+    "whenirisesbloom": {
+        "id": 41400204,
+        "name": "When Irises Bloom",
+        "image": "IconMout/T_IconMout_L_017_UI.png"
+    },
+    "amanuscriptofgoldenanthem": {
+        "id": 71600001,
+        "name": "A Manuscript of Golden Anthem",
+        "image": "IconA/T_IconA_Act_Xia03_UI.png"
+    },
+    "alithographwiththesentinel'strueform": {
+        "id": 71600002,
+        "name": "A Lithograph With the Sentinel's True Form",
+        "image": "IconA/T_IconA_Act_Xia02_UI.png"
+    },
+    "\"past\"": {
+        "id": 70050056,
+        "name": "\"Past\"",
+        "image": "IconTask160/T_IconTask160_Task_002_1_UI.png"
+    },
+    "\"present\"": {
+        "id": 70050057,
+        "name": "\"Present\"",
+        "image": "IconTask160/T_IconTask160_Task_002_1_UI.png"
+    },
+    "fairytalesketchbook": {
+        "id": 70050058,
+        "name": "Fairytale SketchBook",
+        "image": "IconTask160/T_IconTask160_Task_002_1_UI.png"
+    },
+    "astrangebook": {
+        "id": 70050059,
+        "name": "A Strange Book",
+        "image": "IconTask160/T_IconTask160_Task_002_1_UI.png"
+    },
+    "homemadepanini": {
+        "id": 80001049,
+        "name": "Homemade Panini",
+        "image": "IconCook/T_IconCook_074_UI.png"
+    },
+    "potionvial": {
+        "id": 71550005,
+        "name": "Potion Vial",
+        "image": "IconTask/T_IconTask_Task_148_UI.png"
+    },
+    "phantom:lorelei": {
+        "id": 44010032,
+        "name": "Phantom: Lorelei",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_33011_UI.png"
+    },
+    "\"messengerofdeepdreams\"": {
+        "id": 70050060,
+        "name": "\"Messenger of Deep Dreams\"",
+        "image": "IconC/T_IconC_SM_Gat_30A_UI.png"
+    },
+    "eeriesketchbook": {
+        "id": 70050061,
+        "name": "Eerie Sketchbook",
+        "image": "IconTask160/T_IconTask160_Task_002_1_UI.png"
+    },
+    "morphableecho-gustsofwelkin": {
+        "id": 50020001,
+        "name": "Morphable Echo - Gusts of Welkin",
+        "image": "IconA/T_IconA_shlb_16_UI.png"
+    },
+    "withgloryishallfall": {
+        "id": 80110418,
+        "name": "With Glory I Shall Fall",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "chainsofoath,echoesofpromise": {
+        "id": 80110419,
+        "name": "Chains of Oath, Echoes of Promise",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "ripplingstarlight": {
+        "id": 80110420,
+        "name": "Rippling Starlight",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "suspendedtwilight": {
+        "id": 80110421,
+        "name": "Suspended Twilight",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "moonlitsolitude": {
+        "id": 80110422,
+        "name": "Moonlit Solitude",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "lostatsea": {
+        "id": 80110423,
+        "name": "Lost at Sea",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "midnightveil&gustsofwelkin": {
+        "id": 50001525,
+        "name": "Midnight Veil & Gusts of Welkin",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "coreofoath": {
+        "id": 42600022,
+        "name": "Core of  Oath",
+        "image": "IconWup/T_IconWup_019_UI.png"
+    },
+    "malleableeliteclassechov": {
+        "id": 50001201,
+        "name": "Malleable Elite Class Echo V",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "malleableeliteclassechovi": {
+        "id": 50001202,
+        "name": "Malleable Elite Class Echo VI",
+        "image": "IconA/T_IconA_shzxlb_03_UI.png"
+    },
+    "matrixcrystal": {
+        "id": 49,
+        "name": "Matrix Crystal",
+        "image": "IconA/T_IconA_Act_BabelTower_UI.png"
+    },
+    "thegazethatpiercesthroughtime": {
+        "id": 71500041,
+        "name": "The Gaze that Pierces Through Time",
+        "image": "IconMowing/T_IconMowing_24.png"
+    },
+    "thecallthatcomesfromalostland": {
+        "id": 71500029,
+        "name": "The Call that Comes from a Lost Land",
+        "image": "IconMowing/T_IconMowing_25.png"
+    },
+    "thewavethatcleansestheworld": {
+        "id": 71500031,
+        "name": "The Wave that Cleanses the World",
+        "image": "IconMowing/T_IconMowing_28.png"
+    },
+    "thefinalethatfailstoreach": {
+        "id": 71500032,
+        "name": "The Finale that Fails to Reach",
+        "image": "IconMowing/T_IconMowing_26.png"
+    },
+    "theresolvethatburnsforallornothing": {
+        "id": 71500033,
+        "name": "The Resolve that Burns for All or Nothing",
+        "image": "IconMowing/T_IconMowing_27.png"
+    },
+    "pioneerofthevirtualfrontier": {
+        "id": 80130000,
+        "name": "Pioneer of the Virtual Frontier",
+        "image": "IconA/T_IconA_Title_03_UI.png"
+    },
+    "modifier": {
+        "id": 36000015,
+        "name": "Modifier",
+        "image": "IconA/T_IconA_18_UI.png"
+    },
+    "magicdice": {
+        "id": 44,
+        "name": "Magic Dice",
+        "image": "IconA/T_IconA_Act_Monopoly01_UI.png"
+    },
+    "rulerofthetower": {
+        "id": 80130001,
+        "name": "Ruler of the Tower",
+        "image": "IconA/T_IconA_Title_01_UI.png"
+    },
+    "legendofthedeep": {
+        "id": 80130002,
+        "name": "Legend of the Deep",
+        "image": "IconA/T_IconA_Title_02_UI.png"
+    },
+    "fortifiedflour": {
+        "id": 71550010,
+        "name": "Fortified Flour",
+        "image": "IconCook/T_IconCook_A05_UI.png"
+    },
+    "margherita'sgiftofmilk": {
+        "id": 71550011,
+        "name": "Margherita's Gift of Milk",
+        "image": "IconCook/T_IconCook_A10_UI.png"
+    },
+    "margherita'sgiftofflour": {
+        "id": 71550012,
+        "name": "Margherita's Gift of Flour",
+        "image": "IconCook/T_IconCook_A05_UI.png"
+    },
+    "repairedkey": {
+        "id": 70050062,
+        "name": "Repaired Key",
+        "image": "IconTask/T_IconTask_Task_150_UI.png"
+    },
+    "abovethestars": {
+        "id": 70050066,
+        "name": "Above the Stars",
+        "image": "IconTask/T_IconTask_Task_157_a_UI.png"
+    },
+    "specialcubecookie": {
+        "id": 80200001,
+        "name": "Special Cube Cookie",
+        "image": "IconA/T_IconA_Act_Xia04_UI.png"
+    },
+    "1stanniversarycoin": {
+        "id": 80200002,
+        "name": "1st Anniversary Coin",
+        "image": "IconA/T_IconA_Act_Xia06_UI.png"
+    },
+    "forsakenkey": {
+        "id": 80200003,
+        "name": "Forsaken Key",
+        "image": "IconA/T_IconA_Act_Rogue01_UI.png"
+    },
+    "theseconddeparture": {
+        "id": 80110501,
+        "name": "The Second Departure",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "behindgatewaythirtythree": {
+        "id": 80110502,
+        "name": "Behind Gateway Thirty Three",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "insidepipesixtysix": {
+        "id": 80110503,
+        "name": "Inside Pipe Sixty Six",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "drowningfivetimesover": {
+        "id": 80110504,
+        "name": "Drowning Five Times Over",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "sevenpoolsofevil": {
+        "id": 80110505,
+        "name": "Seven Pools of Evil",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "risenaftereightburials": {
+        "id": 80110506,
+        "name": "Risen After Eight Burials",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "beyondruinnightynine": {
+        "id": 80110507,
+        "name": "Beyond Ruin Nighty Nine",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "phantomsoftentowers": {
+        "id": 80110508,
+        "name": "Phantoms of Ten Towers",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "never-endingnight": {
+        "id": 80110509,
+        "name": "Never-ending Night",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "heavyisthedesire": {
+        "id": 80110520,
+        "name": "Heavy is the Desire",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "eversingingsong": {
+        "id": 80110424,
+        "name": "Eversinging Song",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "whenthebirdglidesacrossthesky": {
+        "id": 80110425,
+        "name": "When the Bird Glides Across the Sky",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "supermassivebirthdaycake(2025)": {
+        "id": 80004001,
+        "name": "Supermassive Birthday Cake (2025)",
+        "image": "IconTask/T_IconTask_Task_152_UI.png"
+    },
+    "\"blazingclaw\"": {
+        "id": 70050064,
+        "name": "\"Blazing Claw\"",
+        "image": "IconA/T_IconA_Act_Xia05_UI.png"
+    },
+    "zani'swaveband": {
+        "id": 10001507,
+        "name": "Zani's Waveband",
+        "image": "IconRup/T_IconRup_Part_1507_UI.png"
+    },
+    "ciaccona'swaveband": {
+        "id": 10001407,
+        "name": "Ciaccona's Waveband",
+        "image": "IconRup/T_IconRup_Part_1407_UI.png"
+    },
+    "nightmarkettoken": {
+        "id": 46,
+        "name": "Nightmarket Token",
+        "image": "IconA/T_IconA_AnniversaryStore_01_UI.png"
+    },
+    "thestarsthatshineforyou": {
+        "id": 80004002,
+        "name": "The Stars that Shine For You",
+        "image": "IconTask/T_IconTask_Task_153_UI.png"
+    },
+    "happiebirthdaie!": {
+        "id": 80004003,
+        "name": "Happie Birthdaie!",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "darknessrepeller": {
+        "id": 80130003,
+        "name": "Darkness Repeller",
+        "image": "IconA/T_IconA_Title_01_UI.png"
+    },
+    "adversityexpeditioner": {
+        "id": 80130004,
+        "name": "Adversity Expeditioner",
+        "image": "IconA/T_IconA_Title_01_UI.png"
+    },
+    "nightkeeperofoceans": {
+        "id": 80130005,
+        "name": "Nightkeeper of Oceans",
+        "image": "IconA/T_IconA_Title_02_UI.png"
+    },
+    "overwatcheroftides": {
+        "id": 80130006,
+        "name": "Overwatcher of Tides",
+        "image": "IconA/T_IconA_Title_02_UI.png"
+    },
+    "unanalyzedawakeningmoduleiii": {
+        "id": 80200004,
+        "name": "Unanalyzed Awakening Module III",
+        "image": "ImgChipQuality/T_ChipQualityDBlue.png"
+    },
+    "podcastbasicsupplypack": {
+        "id": 50000106,
+        "name": "Podcast Basic Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_Pass01_UI.png"
+    },
+    "podcastmediumsupplypack": {
+        "id": 50000107,
+        "name": "Podcast Medium Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_Pass02_UI.png"
+    },
+    "podcastadvancedsupplypack": {
+        "id": 50000108,
+        "name": "Podcast Advanced Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_Pass03_UI.png"
+    },
+    "podcastpremiumsupplypack": {
+        "id": 50000109,
+        "name": "Podcast Premium Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_Pass04_UI.png"
+    },
+    "trialpoint": {
+        "id": 47,
+        "name": "Trial Point",
+        "image": "IconA/T_IconA_bqdj_01_UI.png"
+    },
+    "huntpoint": {
+        "id": 48,
+        "name": "Hunt Point",
+        "image": "IconA/T_IconA_lssq_01_UI.png"
+    },
+    "thestigmathatsignifiesvainglory": {
+        "id": 71500036,
+        "name": "The Stigma that Signifies Vainglory",
+        "image": "IconMowing/T_IconMowing_31.png"
+    },
+    "abreezefromfarawayshores": {
+        "id": 71500040,
+        "name": "A Breeze from Faraway Shores",
+        "image": "IconMowing/T_IconMowing_30.png"
+    },
+    "crimsonbaton": {
+        "id": 70140080,
+        "name": "Crimson Baton",
+        "image": "IconTask/T_IconTask_Task_159_UI.png"
+    },
+    "weeklychallengesupplypack": {
+        "id": 50000110,
+        "name": "Weekly Challenge Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_068_UI.png"
+    },
+    "tornpagesfromavinoleum": {
+        "id": 72010033,
+        "name": "Torn Pages from Avinoleum",
+        "image": "IconTask/T_IconTask_Task_052_UI.png"
+    },
+    "titularrepositorymemoir": {
+        "id": 72010034,
+        "name": "Titular Repository Memoir",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "reunion'stidalaid": {
+        "id": 51026,
+        "name": "Reunion's Tidal Aid",
+        "image": "IconGiftPack/T_IconGiftPack_052_UI.png"
+    },
+    "reunion'stidalcollection": {
+        "id": 51027,
+        "name": "Reunion's Tidal Collection",
+        "image": "IconGiftPack/T_IconGiftPack_053_UI.png"
+    },
+    "reunion'sexpaid": {
+        "id": 51028,
+        "name": "Reunion's EXP Aid",
+        "image": "IconGiftPack/T_IconGiftPack_054_UI.png"
+    },
+    "reunion'sforgeryaid": {
+        "id": 51029,
+        "name": "Reunion's Forgery Aid",
+        "image": "IconGiftPack/T_IconGiftPack_055_UI.png"
+    },
+    "reunion'sshellcreditaid": {
+        "id": 51031,
+        "name": "Reunion's Shell Credit Aid",
+        "image": "IconGiftPack/T_IconGiftPack_051_UI.png"
+    },
+    "returnee'sradiantaid": {
+        "id": 52005,
+        "name": "Returnee's Radiant Aid",
+        "image": "IconGiftPack/T_IconGiftPack_057_UI.png"
+    },
+    "returnee'sradiantcollection": {
+        "id": 52006,
+        "name": "Returnee's Radiant Collection",
+        "image": "IconGiftPack/T_IconGiftPack_058_UI.png"
+    },
+    "returnee'ssolventaid": {
+        "id": 52007,
+        "name": "Returnee's Solvent Aid",
+        "image": "IconGiftPack/T_IconGiftPack_057_UI.png"
+    },
+    "returnee'sshellcreditaid": {
+        "id": 52008,
+        "name": "Returnee's Shell Credit Aid",
+        "image": "IconGiftPack/T_IconGiftPack_056_UI.png"
+    },
+    "returnee'sforgeryaid": {
+        "id": 52011,
+        "name": "Returnee's Forgery Aid",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "challengeprogress": {
+        "id": 52,
+        "name": "Challenge Progress",
+        "image": "IconA/T_IconA_Progress_01_UI.png"
+    },
+    "unanalyzedawakeningmoduleiv": {
+        "id": 80200005,
+        "name": "Unanalyzed Awakening Module IV",
+        "image": "ImgChipQuality/T_ChipQualityDPurple.png"
+    },
+    "unanalyzedawakeningmodulev": {
+        "id": 80200006,
+        "name": "Unanalyzed Awakening Module V",
+        "image": "ImgChipQuality/T_ChipQualityDGold.png"
+    },
+    "unanalyzedawakeningmodulevi": {
+        "id": 80200007,
+        "name": "Unanalyzed Awakening Module VI",
+        "image": "ImgChipQuality/T_ChipQualityDColour.png"
+    },
+    "tokenofradiance": {
+        "id": 72010035,
+        "name": "Token of Radiance",
+        "image": "IconA/T_IconA_72010035_UI.png"
+    },
+    "prestigepoint": {
+        "id": 72010036,
+        "name": "Prestige Point",
+        "image": "IconA/T_IconA_72010036_UI.png"
+    },
+    "duelresonance": {
+        "id": 72010037,
+        "name": "Duel Resonance",
+        "image": "IconA/T_IconA_72010037_UI.png"
+    },
+    "fameflag": {
+        "id": 72010038,
+        "name": "Fame Flag",
+        "image": "IconA/T_IconA_72010038_UI.png"
+    },
+    "pastabocadillo": {
+        "id": 80001051,
+        "name": "Pasta Bocadillo",
+        "image": "IconCook/T_IconCook_075_UI.png"
+    },
+    "one-potpasta": {
+        "id": 80001044,
+        "name": "One-Pot Pasta",
+        "image": "IconCook/T_IconCook_076_UI.png"
+    },
+    "outiftvoucher-300lunites": {
+        "id": 50020,
+        "name": "Outift Voucher - 300 Lunites",
+        "image": "IconA/T_IconA_Act_Discount01_UI.png"
+    },
+    "phantom:nimbuswraith": {
+        "id": 44010033,
+        "name": "Phantom: Nimbus Wraith",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_31044_UI.png"
+    },
+    "phantom:crownless": {
+        "id": 44010034,
+        "name": "Phantom: Crownless",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_9991_UI.png"
+    },
+    "phantom:nightmarecrownless": {
+        "id": 44010035,
+        "name": "Phantom: Nightmare Crownless",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_33018_UI.png"
+    },
+    "phantom:chestmimic": {
+        "id": 44010036,
+        "name": "Phantom: Chest Mimic",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_31048_UI.png"
+    },
+    "pictureofthefirstcubiederby": {
+        "id": 70130016,
+        "name": "Picture of the First Cubie Derby",
+        "image": "IconA/T_IconA_Act_Racehorse02_UI.png"
+    },
+    "unanalyzedawakeningmodulei": {
+        "id": 80200008,
+        "name": "Unanalyzed Awakening Module I",
+        "image": "ImgChipQuality/T_ChipQualityDWhite.png"
+    },
+    "unanalyzedawakeningmoduleii": {
+        "id": 80200009,
+        "name": "Unanalyzed Awakening Module II",
+        "image": "ImgChipQuality/T_ChipQualityDGreen.png"
+    },
+    "unanalyzedawakeningmodule": {
+        "id": 80200010,
+        "name": "Unanalyzed Awakening Module",
+        "image": "ImgChipQuality/T_ChipQualityDRed.png"
+    },
+    "laurelnymph": {
+        "id": 53003,
+        "name": "Laurel Nymph",
+        "image": "IconRoleHead256/T_IconRoleHead256_24_a_UI.png"
+    },
+    "astralmodulator": {
+        "id": 80130007,
+        "name": "Astral Modulator",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "larkamongclouds": {
+        "id": 80130008,
+        "name": "Lark Among Clouds",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "heroplayhero": {
+        "id": 80130009,
+        "name": "Hero Play Hero",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "bloominsnow": {
+        "id": 80130010,
+        "name": "Bloom in Snow",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "crimsonjadeite": {
+        "id": 80130011,
+        "name": "Crimson Jadeite",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "unhinderedperception": {
+        "id": 80130012,
+        "name": "Unhindered Perception",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "leisurelyobserver": {
+        "id": 80130013,
+        "name": "Leisurely Observer",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "flamingintellect": {
+        "id": 80130014,
+        "name": "Flaming Intellect",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "grandmaster": {
+        "id": 80130015,
+        "name": "Grand Master",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "marketmaker": {
+        "id": 80130016,
+        "name": "Market Maker",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "whispersamidsttheblooms": {
+        "id": 80130017,
+        "name": "Whispers Amidst the Blooms",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "woolywarrior": {
+        "id": 80130018,
+        "name": "Wooly Warrior",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "fangsinshadow": {
+        "id": 80130019,
+        "name": "Fangs in Shadow",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "liondancer": {
+        "id": 80130020,
+        "name": "Lion Dancer",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "heartofclearmirror": {
+        "id": 80130021,
+        "name": "Heart of Clear Mirror",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "loongwiththewind": {
+        "id": 80130022,
+        "name": "Loong with the Wind",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "silentjudge": {
+        "id": 80130023,
+        "name": "Silent Judge",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "chronothawbringer": {
+        "id": 80130024,
+        "name": "Chrono Thawbringer",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "eternalfire": {
+        "id": 80130025,
+        "name": "Eternal Fire",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "visionoftruth": {
+        "id": 80130026,
+        "name": "Vision of Truth",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "inkdyednature": {
+        "id": 80130027,
+        "name": "Ink Dyed Nature",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "stellarroamer": {
+        "id": 80130028,
+        "name": "Stellar Roamer",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "keenconservator": {
+        "id": 80130029,
+        "name": "Keen Conservator",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "camellyarouge": {
+        "id": 80130030,
+        "name": "Camellya Rouge",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "courierofdawn": {
+        "id": 80130031,
+        "name": "Courier of Dawn",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "overflowingopal": {
+        "id": 80130032,
+        "name": "Overflowing Opal",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "dancerinthestarlight": {
+        "id": 80130033,
+        "name": "Dancer in the Starlight",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "themerryfool": {
+        "id": 80130034,
+        "name": "The Merry Fool",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "envoyoflight": {
+        "id": 80130035,
+        "name": "Envoy of Light",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "diverofdreams": {
+        "id": 80130036,
+        "name": "Diver of Dreams",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "soloistoffate": {
+        "id": 80130037,
+        "name": "Soloist of Fate",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "nightaflame": {
+        "id": 80130038,
+        "name": "Night Aflame",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "havocreaper": {
+        "id": 80130039,
+        "name": "Havoc Reaper",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "thevanguardgale": {
+        "id": 80130040,
+        "name": "The Vanguard Gale",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "festivitypoint": {
+        "id": 51,
+        "name": "Festivity Point",
+        "image": "IconA/T_IconA_Act_PlayerCelebration01_UI.png"
+    },
+    "phantom:faeignis": {
+        "id": 44010037,
+        "name": "Phantom: Fae Ignis",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_31043_UI.png"
+    },
+    "phantom:cuddlewuddle": {
+        "id": 44010038,
+        "name": "Phantom: Cuddle Wuddle",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_32030_UI.png"
+    },
+    "pioneerpodcastsupplypack": {
+        "id": 50000203,
+        "name": "Pioneer Podcast Supply Pack",
+        "image": "IconGiftPack/T_IconGiftPack_003_UI.png"
+    },
+    "versesandrhythms": {
+        "id": 71600003,
+        "name": "Verses and Rhythms",
+        "image": "IconA/T_IconA_Act_Xiakong01_UI.png"
+    },
+    "reunion'ssealedtubeaid": {
+        "id": 51030,
+        "name": "Reunion's Sealed Tube Aid",
+        "image": "IconGiftPack/T_IconGiftPack_061_UI.png"
+    },
+    "\"script\"": {
+        "id": 71250001,
+        "name": "\"Script\"",
+        "image": "IconTask/T_IconTask_Task_156_UI.png"
+    },
+    "champion'smedal": {
+        "id": 71250002,
+        "name": "Champion's Medal",
+        "image": "IconA/T_IconA_Act_Badge_UI.png"
+    },
+    "splashingsummer": {
+        "id": 53004,
+        "name": "Splashing Summer",
+        "image": "IconRoleHead256/T_IconRoleHead256_24_a_UI.png"
+    },
+    "\"dawnuponthorns\"set": {
+        "id": 54001,
+        "name": "\"Dawn upon Thorns\" Set",
+        "image": "IconRoleHead256/T_IconRoleHead256_7_a_UI.png"
+    },
+    "lupa'swaveband": {
+        "id": 10001207,
+        "name": "Lupa's Waveband",
+        "image": "IconRup/T_IconRup_Part_1207_UI.png"
+    },
+    "cartethyia'swaveband": {
+        "id": 10001409,
+        "name": "Cartethyia's Waveband",
+        "image": "IconRup/T_IconRup_Part_1409_UI.png"
+    },
+    "unfadingglory": {
+        "id": 41400214,
+        "name": "Unfading Glory",
+        "image": "IconMout/T_IconMout_L_018_UI.png"
+    },
+    "oaknut": {
+        "id": 42601200,
+        "name": "Oaknut",
+        "image": "IconC/T_IconC_limuguo_UI.png"
+    },
+    "amberhalite": {
+        "id": 42601210,
+        "name": "Amber Halite",
+        "image": "IconC/T_IconC_yanhaipo_UI.png"
+    },
+    "bambooiris": {
+        "id": 42601220,
+        "name": "Bamboo Iris",
+        "image": "IconC/T_IconC_bianzhuhua_UI.png"
+    },
+    "bloodleafviburnum": {
+        "id": 42601230,
+        "name": "Bloodleaf Viburnum",
+        "image": "IconC/T_IconC_xueyejiami_UI.png"
+    },
+    "oaknuthoneycake": {
+        "id": 80000057,
+        "name": "Oaknut Honeycake",
+        "image": "IconCook/T_IconCook_081_UI.png"
+    },
+    "saltimbocca": {
+        "id": 80000058,
+        "name": "Saltimbocca",
+        "image": "IconCook/T_IconCook_083_UI.png"
+    },
+    "gloryroastplatter": {
+        "id": 80000059,
+        "name": "Glory Roast Platter",
+        "image": "IconCook/T_IconCook_082_UI.png"
+    },
+    "frostedcreamblizzard": {
+        "id": 80000060,
+        "name": "Frosted Cream Blizzard",
+        "image": "IconCook/T_IconCook_084_UI.png"
+    },
+    "solis": {
+        "id": 80000061,
+        "name": "Solis",
+        "image": "IconCook/T_IconCook_086_UI.png"
+    },
+    "bambooiriscrisps": {
+        "id": 80000062,
+        "name": "Bamboo Iris Crisps",
+        "image": "IconCook/T_IconCook_079_UI.png"
+    },
+    "seasaltpopcorn": {
+        "id": 80000063,
+        "name": "Seasalt Popcorn",
+        "image": "IconCook/T_IconCook_085_UI.png"
+    },
+    "bubblybuddy": {
+        "id": 80000064,
+        "name": "Bubbly Buddy",
+        "image": "IconCook/T_IconCook_080_UI.png"
+    },
+    "heartpour": {
+        "id": 80001061,
+        "name": "Heartpour",
+        "image": "IconCook/T_IconCook_078_UI.png"
+    },
+    "knight-errant'sessentials": {
+        "id": 80001047,
+        "name": "Knight-Errant's Essentials",
+        "image": "IconCook/T_IconCook_077_UI.png"
+    },
+    "oaknuthoneycakerecipe": {
+        "id": 80010057,
+        "name": "Oaknut Honeycake Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "saltimboccarecipe": {
+        "id": 80010058,
+        "name": "Saltimbocca Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "gloryroastplatterrecipe": {
+        "id": 80010059,
+        "name": "Glory Roast Platter Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "frostedcreamblizzardrecipe": {
+        "id": 80010060,
+        "name": "Frosted Cream Blizzard Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "solisrecipe": {
+        "id": 80010061,
+        "name": "Solis Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "bambooiriscrispsrecipe": {
+        "id": 80010062,
+        "name": "Bamboo Iris Crisps Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "seasaltpopcornrecipe": {
+        "id": 80010063,
+        "name": "Seasalt Popcorn Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "bubblybuddyrecipe": {
+        "id": 80010064,
+        "name": "Bubbly Buddy Recipe",
+        "image": "IconCook/T_IconCook_036_UI.png"
+    },
+    "heroath": {
+        "id": 71250003,
+        "name": "Her Oath",
+        "image": "IconTask/T_IconTask_Task_154_UI.png"
+    },
+    "herwishes": {
+        "id": 71250004,
+        "name": "Her Wishes",
+        "image": "IconTask/T_IconTask_Task_155_UI.png"
+    },
+    "dreamlandbadge": {
+        "id": 53,
+        "name": "Dreamland Badge",
+        "image": "IconA/T_IconA_Act_Pasture03_UI.png"
+    },
+    "lostmirrorpiece": {
+        "id": 54,
+        "name": "Lost Mirror Piece",
+        "image": "IconA/T_IconA_Act_Pasture04_UI.png"
+    },
+    "whispersfromdimabyss": {
+        "id": 71500043,
+        "name": "Whispers from Dim Abyss",
+        "image": "IconMowing/T_IconMowing_29.png"
+    },
+    "thedeathdefier": {
+        "id": 80130041,
+        "name": "The Death Defier",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "lupusfirestar": {
+        "id": 80130042,
+        "name": "Lupus Firestar",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    },
+    "themeditatingblessedmaiden": {
+        "id": 70050065,
+        "name": "The Meditating Blessed Maiden",
+        "image": "IconTask/T_IconTask_Task_151_UI.png"
+    },
+    "coppermirroroftruth": {
+        "id": 71250005,
+        "name": "Copper Mirror of Truth",
+        "image": "IconA/T_IconA_Act_BronzeMirror_UI.png"
+    },
+    "badgeofglory": {
+        "id": 56,
+        "name": "Badge of Glory",
+        "image": "IconA/T_IconA_Morale_01_UI.png"
+    },
+    "sonancecasket:septimont": {
+        "id": 40040005,
+        "name": "Sonance Casket: Septimont",
+        "image": "IconMst/T_IconMst_008_UI.png"
+    },
+    "samousas'treasure": {
+        "id": 70050070,
+        "name": "Samousas' Treasure",
+        "image": "IconTask/T_IconTask_Task_010_1_UI.png"
+    },
+    "reminiscence-gloryoffreezingcrown": {
+        "id": 50001301,
+        "name": "Reminiscence - Glory of Freezing Crown",
+        "image": "IconA/T_IconA_shzxlb_22_UI.png"
+    },
+    "virtualvanquisher": {
+        "id": 80130043,
+        "name": "Virtual Vanquisher",
+        "image": "IconA/T_IconA_Title_03_UI.png"
+    },
+    "morphableecho-windwardpilgrimage": {
+        "id": 50020002,
+        "name": "Morphable Echo - Windward Pilgrimage",
+        "image": "IconA/T_IconA_shlb_16_UI.png"
+    },
+    "morphableecho-flamingclawprint": {
+        "id": 50030124,
+        "name": "Morphable Echo - Flaming Clawprint",
+        "image": "IconA/T_IconA_shlb_16_UI.png"
+    },
+    "windwardpilgrimage&flamingclawprint": {
+        "id": 50001526,
+        "name": "Windward Pilgrimage & Flaming Clawprint",
+        "image": "IconA/T_IconA_shzxlb_01_UI.png"
+    },
+    "odetothenamelessmartyr": {
+        "id": 80110601,
+        "name": "Ode to the Nameless Martyr",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "theballadofseptimont": {
+        "id": 80110602,
+        "name": "The Ballad of Septimont",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "whispersofstars": {
+        "id": 80110603,
+        "name": "Whispers of Stars",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "anthemoftheunbroken": {
+        "id": 80110604,
+        "name": "Anthem of the Unbroken",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "ablazingstar'ssoliloquy": {
+        "id": 80110605,
+        "name": "A Blazing Star's Soliloquy",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "reminiscence-gloryofthunderingcrown": {
+        "id": 50001302,
+        "name": "Reminiscence - Glory of Thundering Crown",
+        "image": "IconA/T_IconA_shzxlb_22_UI.png"
+    },
+    "reminiscence-gloryofabyssalcrown": {
+        "id": 50001303,
+        "name": "Reminiscence - Glory of Abyssal Crown",
+        "image": "IconA/T_IconA_shzxlb_22_UI.png"
+    },
+    "reminiscence-gloryofblazingcrown": {
+        "id": 50001304,
+        "name": "Reminiscence - Glory of Blazing Crown",
+        "image": "IconA/T_IconA_shzxlb_22_UI.png"
+    },
+    "reminiscence-gloryoffeatheredcrown": {
+        "id": 50001305,
+        "name": "Reminiscence - Glory of Feathered Crown",
+        "image": "IconA/T_IconA_shzxlb_22_UI.png"
+    },
+    "reminiscence-gloryoflustrouscrown": {
+        "id": 50001306,
+        "name": "Reminiscence - Glory of Lustrous Crown",
+        "image": "IconA/T_IconA_shzxlb_22_UI.png"
+    },
+    "fisaliaknight'sletter": {
+        "id": 70050071,
+        "name": "Fisalia Knight's Letter",
+        "image": "IconA/T_IconA_Act_Navigation06_UI.png"
+    },
+    "newvoyageradiantlightpack": {
+        "id": 51032,
+        "name": "New Voyage Radiant Lightpack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "newvoyageradiantheavypack": {
+        "id": 51033,
+        "name": "New Voyage Radiant Heavypack",
+        "image": "IconGiftPack/T_IconGiftPack_dj_19_UI.png"
+    },
+    "orchestrationmovementi": {
+        "id": 71260001,
+        "name": "Orchestration Movement I",
+        "image": "IconTask/T_IconTask_Task_160_UI.png"
+    },
+    "orchestrationmovementii": {
+        "id": 71260002,
+        "name": "Orchestration Movement II",
+        "image": "IconTask/T_IconTask_Task_160_UI.png"
+    },
+    "orchestrationmovementiii": {
+        "id": 71260003,
+        "name": "Orchestration Movement III",
+        "image": "IconTask/T_IconTask_Task_160_UI.png"
+    },
+    "sacredsalt": {
+        "id": 71260004,
+        "name": "Sacred Salt",
+        "image": "IconMst/T_IconMst_010_UI.png"
+    },
+    "phantom:nightmareinfernorider": {
+        "id": 44010039,
+        "name": "Phantom: Nightmare Inferno Rider",
+        "image": "IconMonsterGoods/T_IconMonsterGoods_SG_33019_UI.png"
+    },
+    "wiltingreverberation": {
+        "id": 70140081,
+        "name": "Wilting Reverberation",
+        "image": "IconTask/T_IconTask_Task_158_UI.png"
+    },
+    "huskofbrokendreams": {
+        "id": 80110426,
+        "name": "Husk of Broken Dreams",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "sunkenelegy": {
+        "id": 80110427,
+        "name": "Sunken Elegy",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "radianceacrossseaandsky": {
+        "id": 80110428,
+        "name": "Radiance Across Sea and Sky",
+        "image": "IconMst/T_IconMst_009_UI.png"
+    },
+    "truthinlies": {
+        "id": 41400224,
+        "name": "Truth in Lies",
+        "image": "IconMout/T_IconMout_L_019_UI.png"
+    },
+    "abyssluminary": {
+        "id": 42601240,
+        "name": "Abyss Luminary",
+        "image": "IconC/T_IconC_053_UI.png"
+    },
+    "\"afterlife\"": {
+        "id": 42601250,
+        "name": "\"Afterlife\"",
+        "image": "IconC/T_IconC_054_UI.png"
+    },
+    "phrolova'swaveband": {
+        "id": 10001608,
+        "name": "Phrolova's Waveband",
+        "image": "IconRup/T_IconRup_Part_160802_UI.png"
+    },
+    "redcurranttart": {
+        "id": 80001057,
+        "name": "Redcurrant Tart",
+        "image": "IconCook/T_IconCook_087_UI.png"
+    },
+    "hymntotheend": {
+        "id": 71500044,
+        "name": "Hymn to the End",
+        "image": "IconMowing/T_IconMowing_33.png"
+    },
+    "sailagainstthestorm": {
+        "id": 71500045,
+        "name": "Sail Against the Storm",
+        "image": "IconMowing/T_IconMowing_34.png"
+    },
+    "dreamimprint": {
+        "id": 71030004,
+        "name": "Dream Imprint",
+        "image": "IconA/T_IconA_Act_Rogue02_UI.png"
+    },
+    "shrimpmeat": {
+        "id": 42601260,
+        "name": "Shrimp Meat",
+        "image": "IconC/T_IconC_055_UI.png"
+    },
+    "pilgrim'sscriptures": {
+        "id": 71260005,
+        "name": "Pilgrim's Scriptures",
+        "image": "IconTask/T_IconTask_Level_003_1_UI.png"
+    },
+    "thenevermore": {
+        "id": 80130044,
+        "name": "The Nevermore",
+        "image": "IconA/T_IconA_Title_04_UI.png"
+    }
+}
