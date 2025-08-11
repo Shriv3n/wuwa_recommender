@@ -2,6 +2,14 @@
 
 All notable changes to the WuWa Team Recommender project will be documented in this file.
 
+## [2025-08-11] - Credits and Attributions
+
+### Added
+- **Credits section in README**: Added comprehensive attribution section crediting original sources
+- **Data source attribution**: Proper credit to WuWa Inventory Kamera project by Psycho-Marcus for JSON data files
+- **Asset source attribution**: Proper credit to Hakush.in Database for character/weapon icons and UI assets
+- **Special thanks section**: Recognition of foundational projects that made this viewer possible
+
 ## [2025-08-11] - Character Portrait Image Fix
 
 ### Added
